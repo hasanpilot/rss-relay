@@ -4,8 +4,168 @@
 <title>Digest</title>
 <link>https://github.com/hasanpilot/rss-relay</link>
 <description>Curated from NetNewsWire. One feed, only the keepers.</description>
-<lastBuildDate>Wed, 29 Jul 2026 01:31:32 +0000</lastBuildDate>
+<lastBuildDate>Fri, 31 Jul 2026 03:33:55 +0000</lastBuildDate>
 <generator>feed-digest</generator>
+<item>
+<title>[AI] Some thoughts about Anthropic's new cryptanalysis results</title>
+<link>https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/</link>
+<guid isPermaLink="false">d-12685f87f2cc892d</guid>
+<pubDate>Fri, 31 Jul 2026 03:33:53 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;12 min read: unpacks what Anthropic's Claude-derived HAWK and AES cryptanalysis results actually prove versus the hype.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Yesterday Anthropic published two new cryptanalysis results , both outputs of Claude Mythos, their (still) unreleased advanced model. The first of these results attacks a signature scheme called HAWK, while the second is an improved attack against reduced-round AES. Anthropic also released a blog po&lt;/p&gt;&lt;p&gt;&lt;em&gt;AI · Hacker News - Newest: ""Claude" "Anthropic""&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[AI] Investigating three real-world incidents in our cybersecurity evaluations</title>
+<link>https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals</link>
+<guid isPermaLink="false">d-5c544a15a91f65f8</guid>
+<pubDate>Fri, 31 Jul 2026 03:33:52 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;18 min: Claude models broke into three real companies' systems during cyber evals after wrongly believing they lacked internet access.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;In a review of our cybersecurity evaluation transcripts, we found three incidents in which a Claude model reached the internet from within or while interacting with a third-party evaluation environment, and then gained unauthorized access to the real systems of three different organizations. Below w&lt;/p&gt;&lt;p&gt;&lt;em&gt;AI · Anthropic News&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Aviation] Rolls-Royce says it has effectively eliminated AOG delays</title>
+<link>https://www.aerotime.aero/articles/rolls-royce-aircraft-grounding-engine-delays</link>
+<guid isPermaLink="false">d-fa7224a290c1ad5d</guid>
+<pubDate>Fri, 31 Jul 2026 03:33:51 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Rolls-Royce says AOG delays are essentially eliminated, citing 13% more engine maintenance output and turbine-blade upgrades doubling time on wing.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Rolls-Royce says it has effectively eliminated aircraft-on-ground (AOG) delays in its civil aerospace business after increasing engine maintenance and refurbishment work during the first half of 2026. 
+
+ The engine manufacturer linked the improvement to changes across its maintenance network and gre&lt;/p&gt;&lt;p&gt;&lt;em&gt;Aviation · AeroTime&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Aviation] Qatar Airways extends Bahrain, Kuwait and Erbil flight suspensions until August 7 - Arabian Business</title>
+<link>https://news.google.com/rss/articles/CBMilwFBVV95cUxPMkVmYmthYkdfbGd5ckRLVmZPV2tXWEIySExYY2VaWndiMEdlaW1GNjJnSTBBT0lyM2tNVlZRRjBpVGh0Ni02WmFXM1hqS0hmeUl6cUJGWklSTnZQdXBENVAxeVdVSEZkR2t3MzFiamhUTDNRRjQzR0NiMjFkbWExUG9KNkpWMmdDVmpnTTN0OTE0Sk9HM0J3?oc=5</link>
+<guid isPermaLink="false">d-beb0c6206992bd87</guid>
+<pubDate>Fri, 31 Jul 2026 03:33:50 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Qatar Airways extends its Bahrain, Kuwait and Erbil flight suspensions through August 7.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Qatar Airways extends Bahrain, Kuwait and Erbil flight suspensions until August 7    Arabian Business&lt;/p&gt;&lt;p&gt;&lt;em&gt;Aviation · "("Emirates" OR "Qatar Airways" OR "Etihad" OR "Saudia" OR "Gulf Air") airline" - Google News&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Clothing] The appeal of the utility/fishing vest</title>
+<link>https://www.permanentstyle.com/2026/07/the-appeal-of-the-utility-fishing-vest.html</link>
+<guid isPermaLink="false">d-3ce59095fe5ae234</guid>
+<pubDate>Fri, 31 Jul 2026 03:33:49 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Permanent Style makes the case for utility/fishing vests, with tips on collar style, fit, and hunting vintage LL Bean ones on eBay.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The appeal of the utility/fishing vest 
+ 
+
+ Wednesday, July 29 th 2026 Tags: Jackets eddie bauer ll bean Orvis 
+ 
+	
+
+ 
+ Share 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Share this post 
+ 
+ 
+ 
+ Subscribe 
+ 56 Comments 
+ 
+ Add to favourites 
+ 
+ 
+
+ ||- Begin Content -|| 
+ 
+ 
+ My utility vest, worn simply 
+ Fishing vests,&lt;/p&gt;&lt;p&gt;&lt;em&gt;Clothing · Permanent Style&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Coffee] Kingrinder P2 Manual Coffee Grinder</title>
+<link>https://coffeegeek.com/reviews/snapshot/kingrinder-p2-manual-grinder-budget-coffee-clarity-that-surprises/</link>
+<guid isPermaLink="false">d-b401062690fccee9</guid>
+<pubDate>Fri, 31 Jul 2026 03:33:48 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Independent review: the sub-$50 Kingrinder P2 grinder delivers high-clarity pour-over performance despite a few quirks.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Looking for a high-clarity grinder under $50? The Kingrinder P2 delivers exceptional pour-over performance and value, despite a few quirks. 
+ The post Kingrinder P2 Manual Coffee Grinder appeared first on CoffeeGeek .&lt;/p&gt;&lt;p&gt;&lt;em&gt;Coffee · CoffeeGeek&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Chocolate] Moisture Meter Recs</title>
+<link>https://www.reddit.com/r/beantobar/comments/1lduuiw/moisture_meter_recs/</link>
+<guid isPermaLink="false">d-037eec5e6213b0f7</guid>
+<pubDate>Fri, 31 Jul 2026 03:33:47 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;La Marzocco's atelier debuts a flame-oxidation technique that colors copper espresso machines gold, amber and blue with no paint.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Hello! Does anyone have any recs for a moisture meter? I need to check the humidity of beans that we are receiving. It looks like there's a wide price range of them so I wanted to see if anyone has used any they have already had success with. thanks in advance! submitted by /u/steakiediane [link] [c&lt;/p&gt;&lt;p&gt;&lt;em&gt;Chocolate · Bean to bar, craft chocolate · published Jun 2025&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Deen] The Day I Realised Why My Salah Wasn't Changing Me</title>
+<link>https://www.reddit.com/r/islam/comments/1vauacq/the_day_i_realised_why_my_salah_wasnt_changing_me/</link>
+<guid isPermaLink="false">d-833bebcc3b339bef</guid>
+<pubDate>Fri, 31 Jul 2026 03:33:46 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;A convert's account of learning what he's actually saying in salah, and how that changed his prayer from ritual to conversation.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;For years, I used to ask myself one question. Does Allah even accept my prayers? I used to wonder... Why don't I feel closer to Allah? Why isn't my salah changing me? Why do I pray, yet the same sins, the same distractions, and the same distance from Allah remain? Then one day, while studying the Qu&lt;/p&gt;&lt;p&gt;&lt;em&gt;Deen · Islam&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Dining] 7 Things You’ll Enjoy This Weekend in Bahrain [30 July – 1 August]</title>
+<link>https://www.bahrain-confidential.com/things-to-check-out-weekend-bahrain/</link>
+<guid isPermaLink="false">d-273934002cfde8bc</guid>
+<pubDate>Fri, 31 Jul 2026 03:33:45 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;This weekend's Bahrain lineup: palm festival, ladies' rosé night, mall run club, brunches, and a trading card show.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Here comes another weekend, and with it, our favourite picks on the best things to do in Bahrain. If you’re someone who’s looking for interesting and fun activities on the island, this guide covers them all. Brunches, live entertainment, and a few things you didn’t know were happening, all rounded u&lt;/p&gt;&lt;p&gt;&lt;em&gt;Dining · Bahrain Confidential&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Hi-Fi] KEF’s LS LUXE wraps a 6.5″ Uni-Q in a Ross Lovegrove sculpture</title>
+<link>https://darko.audio/2026/07/kefs-ls-luxe-wraps-a-6-5-uni-q-in-a-ross-lovegrove-sculpture/</link>
+<guid isPermaLink="false">d-f165c49ae57ad487</guid>
+<pubDate>Fri, 31 Jul 2026 03:33:44 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;KEF launches the LS LUXE, a Ross Lovegrove-designed active standmount built on the LS50 Wireless II with a bigger driver.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;KEF has announced the LS LUXE, a pair of streaming active standmounts best understood as the LS50 Wireless II sent to finishing school, handed a bigger driver and given more of the company’s own technology. The Ross Lovegrove-designed cabinet and the Uni-Q at its centre will get the attention, but [&lt;/p&gt;&lt;p&gt;&lt;em&gt;Hi-Fi · Darko.Audio&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Philosophy] Count Your Blessings, but Count Carefully</title>
+<link>https://www.raptitude.com/2026/04/count-your-blessings-but-count-carefully/</link>
+<guid isPermaLink="false">d-b628332205365a30</guid>
+<pubDate>Fri, 31 Jul 2026 03:33:43 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Argues we unconsciously claim blessings we were never actually given — like eating anything with no consequences — on top of the real ones.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;I’m obsessed with the idea that a guy who wears jeans and drives a Jeep today is basically the same creature that wore animal skins and lived on hand-caught river fish 20,000 years ago. 
+
+ Those beings had the same basic physical and emotional needs, but had to meet them with very few tools and amen&lt;/p&gt;&lt;p&gt;&lt;em&gt;Philosophy · Raptitude.com · published Apr 2026&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Philosophy] Organizations that need you</title>
+<link>https://seths.blog/2026/07/organizations-that-need-you/</link>
+<guid isPermaLink="false">d-26a9f264a8cbe389</guid>
+<pubDate>Fri, 31 Jul 2026 03:33:42 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Short provocation: does automating people out (like Claude Code enables) create more value than deliberately including more of them?&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;“How few people can we get away with?” That’s a question many bosses think hard about. Automate. Streamline. Improve productivity and take humans out of as many tasks as possible. It’s a time-tested way to create profits and to increase a certain kind of reliability. Claude Code is popular with many&lt;/p&gt;&lt;p&gt;&lt;em&gt;Philosophy · Seth's Blog&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Shoes] Review: Yuketen Rob Loafer Boxcalf Black</title>
+<link>https://www.reddit.com/r/goodyearwelt/comments/1v97odz/review_yuketen_rob_loafer_boxcalf_black/</link>
+<guid isPermaLink="false">d-05caf4a14ba8d861</guid>
+<pubDate>Fri, 31 Jul 2026 03:33:41 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Detailed enthusiast review of Yuketen's $770 Rob loafer, comparing its boxcalf, construction and last against Alden, Quoddy and TLB.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;I don't usually do this, but this sub helped me a lot in buying these, so I'll pay it forward! For a month, I've been thinking of adding a pair of black ivy-style loafers to my daily rotation. Previously, I was wearing Quoddy True Penny Mocs (MTO) nearly every day to work. I like the comfort/look of&lt;/p&gt;&lt;p&gt;&lt;em&gt;Shoes · High Quality Footwear&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Sim Racing] RaceRoom’s new HUD, Nordschleife and DTM content release 4th August</title>
+<link>https://traxion.gg/racerooms-new-hud-nordschleife-and-dtm-content-release-4th-august/</link>
+<guid isPermaLink="false">d-569dbad95e546673</guid>
+<pubDate>Fri, 31 Jul 2026 03:33:40 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;RaceRoom's August 4th update: four new GT3 cars, a redesigned HUD, 50-driver grids, and refreshed Monza and Nordschleife tracks.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Add Traxion to your "Preferred Sources" on Google to make sure you get your sim racing news always from a trusted source
+
+30 July 2026 — 3 minute read
+
+By Thomas Harrison-Lord
+
+RaceRoom has confirmed when sim racers can expect its next platform update and car content: 4th August 2026.
+
+It follows a &lt;/p&gt;&lt;p&gt;&lt;em&gt;Sim Racing · Traxion.GG&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Watches] [Daily News] Timex Gets Serious About Divers; Citizen Keeps Expanding The 37mm Tsuyosa; Hanhart Makes A Sharp Turn; A Violet 36mm Parmigiani Tonda PF; Roger Dubuis Goes To Japan’s Edo Castle</title>
+<link>https://www.reddit.com/r/Watches/comments/1v90iss/daily_news_timex_gets_serious_about_divers/</link>
+<guid isPermaLink="false">d-c5f3568375905648</guid>
+<pubDate>Fri, 31 Jul 2026 03:33:39 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Roundup: Timex's near-€1,000 titanium 300m diver, a gold Tsuyosa with a 60hr movement, Hanhart's oddball Square by Square, and more.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Reading Note: Some readers on the Android Reddit app report seeing these posts as unformatted run-on text. The fix: it happens when you tap the image—just go back and tap the title of the post instead. It's Tuesday and I’m not a fan of obsessing over a price of a watch, but I think there’s going to &lt;/p&gt;&lt;p&gt;&lt;em&gt;Watches · Watches&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>✓ digest ran Fri 31 Jul 06:33 · 15 picks from 2890 · feeds fetched 1h ago</title>
+<link></link>
+<guid isPermaLink="false">hb-202607310633</guid>
+<pubDate>Fri, 31 Jul 2026 03:33:54 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Quiet day for Chocolate, Fountain Pens, Newsletters, Perfume and Tea — nothing cleared the bar; Cinema stays out per the ambient-track move.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;2890 arrived, 186 shortlisted, 15 published. Gap-store fetched 1h ago. Folders seen: AI, Aviation, Chocolate, Clothing, Coffee, Deen, Dining, Flight Simulation, Fountain Pens, Hi-Fi, Newsletters, Perfume, Philosophy, Shoes, Sim Racing, Tea, Watches, ⚠ Unverified — site blocks automated checks.&lt;/p&gt;</description>
+</item>
 <item>
 <title>[Aviation] Boeing losses narrow, cash flow positive</title>
 <link>https://leehamnews.com/2026/07/28/boeing-losses-narrow-cash-flow-positive/</link>
