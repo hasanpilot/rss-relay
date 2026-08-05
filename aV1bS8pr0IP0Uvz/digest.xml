@@ -4,8 +4,162 @@
 <title>Digest</title>
 <link>https://github.com/hasanpilot/rss-relay</link>
 <description>Curated from NetNewsWire. One feed, only the keepers.</description>
-<lastBuildDate>Mon, 03 Aug 2026 03:35:59 +0000</lastBuildDate>
+<lastBuildDate>Wed, 05 Aug 2026 01:37:15 +0000</lastBuildDate>
 <generator>feed-digest</generator>
+<item>
+<title>[AI] Import AI 467: Self-sustaining AI viruses; pacing AI progress; confusion about AI and creativity</title>
+<link>https://jack-clark.net/2026/08/03/import-ai-467-self-sustaining-ai-viruses-pacing-ai-progress-confusion-about-ai-and-creativity/</link>
+<guid isPermaLink="false">d-e855eafbfaaa5596</guid>
+<pubDate>Wed, 05 Aug 2026 01:37:14 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Covers a self-replicating AI worm using open-weight LLMs, OpenAI solving 10 open math/CS problems; ~15 min read.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe.
+Subscribe now
+Self-sustaining and self-replicating AI viruses are here:
+…Open weight LLMs + a well-designed harness = a persistent, &lt;/p&gt;&lt;p&gt;&lt;em&gt;AI · Import AI&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[AI] New release of LLM adds support for reasoning traces, OpenAI Responses, server-side tools, and smarter logging</title>
+<link>https://simonwillison.net/2026/Aug/4/new-release-of-llm/#atom-everything</link>
+<guid isPermaLink="false">d-4b9c20603a8a5dad</guid>
+<pubDate>Wed, 05 Aug 2026 01:37:13 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;LLM 0.32 adds visible reasoning traces, server-side tools like WebSearch/CodeExecution, and a stream_events() API you can use today.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;I released
+LLM 0.32
+this morning, the most significant new version of LLM since the initial launch of the project. The new version includes support for visible reasoning traces, server-side provider tools, redesigned content-addressable SQLite logs, new models, and new features enabled by the OpenAI&lt;/p&gt;&lt;p&gt;&lt;em&gt;AI · Simon Willison's Weblog&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Aviation] Incident: Piedmont E145 at Chattanooga on Aug 3rd 2026, runway overrun on rejected takeoff</title>
+<link>https://avherald.com/h?article=53cb5aaa</link>
+<guid isPermaLink="false">d-1fca345fbda8e53c</guid>
+<pubDate>Wed, 05 Aug 2026 01:37:12 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Piedmont ERJ-145 rejected takeoff at 146kts and overran the runway by 200ft after failing to rotate; FAA investigating.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;A Piedmont Airlines Embraer ERJ-145 on behalf of American Airlines, registration N663AR performing flight AA-6105 from Chattanooga,TN to Charlotte,NC (USA) with 50 passengers and 3 crew, was accelerating for takeoff from Chattanooga's runway 20 at high speed (maximum speed over ground 146 knots). Th&lt;/p&gt;&lt;p&gt;&lt;em&gt;Aviation · The Aviation Herald&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Coffee] Coffee Decoded: What is “fresh crop” coffee?</title>
+<link>https://sca.coffee/sca-news/coffee-decoded-10-fresh-green-coffee</link>
+<guid isPermaLink="false">d-384ec9c76b6572f3</guid>
+<pubDate>Wed, 05 Aug 2026 01:37:11 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Explains why green coffee loses flavor over months — oxidation and polyphenol oxidase breakdown, not just staleness.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Welcome to
+Coffee, Decoded
+, the Specialty Coffee Association’s weekly column on science, research, and all things coffee knowledge. Each week,
+PETER GIULIANO
+answers complex coffee questions, interprets new research, and dives deep into the science, putting it all in a fun, understandable format.
+F&lt;/p&gt;&lt;p&gt;&lt;em&gt;Coffee · SCA News - Specialty Coffee Association&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Deen] How many blessings have we forgotten to thank Allah for today?</title>
+<link>https://www.reddit.com/r/islam/comments/1v809cq/how_many_blessings_have_we_forgotten_to_thank/</link>
+<guid isPermaLink="false">d-4c1b50e674ee3569</guid>
+<pubDate>Wed, 05 Aug 2026 01:37:10 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;A gratitude-focused reflection on unnoticed blessings and turning back to Allah after mistakes.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;There are moments when life feels unbearably heavy, when our duas seem delayed, our hearts are tired, and all we can see are the things we wish we had.
+Yet Allah gently asks us in the Qur'an, "So which of the favors of your Lord will you deny?"
+It's a question that isn't meant to shame us, but to aw&lt;/p&gt;&lt;p&gt;&lt;em&gt;Deen · r/islam — top weekly&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Dining] 14 Nightlife Spots in Bahrain: Where To Go After Dark</title>
+<link>https://www.bahrain-confidential.com/bahrain-nightlife-guide/</link>
+<guid isPermaLink="false">d-9aa2767f841833e5</guid>
+<pubDate>Wed, 05 Aug 2026 01:37:09 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Reference — round-up of 14 Manama/Adliya/Seef bars and lounges with location and vibe for each, to consult when picking a spot.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Bahrain’s nightlife scene has grown into one of the most varied in the Gulf, with rooftop lounges, themed bars and late-night restaurants scattered across Manama, Adliya, Seef and Juffair. Whether you’re after skyline views with a cocktail in hand, a bar with a live DJ, or a spot where the food is j&lt;/p&gt;&lt;p&gt;&lt;em&gt;Dining · Bahrain Confidential&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Flight Simulation] Simtek – Andorra Heliport (LFUA) MSFS2024</title>
+<link>https://www.simflight.com/2026/08/03/simtek-andorra-heliport-lfua-msfs2024/</link>
+<guid isPermaLink="false">d-44eb67df7115f03f</guid>
+<pubDate>Wed, 05 Aug 2026 01:37:08 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;New MSFS2024 scenery for Andorra's first international heliport, freshly opened in the Pyrenees this summer.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The scenery captures the heliport in its inauguration distribution: a custom-modeled passenger terminal, the neighbouring fire station and emergency services, precise helipad markings and numbering, and accurate terraforming of the mountain and surrounding vegetation.
+Freshly inaugurated in the summ&lt;/p&gt;&lt;p&gt;&lt;em&gt;Flight Simulation · simFlight&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Flight Simulation] Goodbye to Top Gun Maverick in MSFS2020/2024</title>
+<link>https://thresholdx.net/goodbye-to-top-gun-maverick-in-msfs2020-2024/</link>
+<guid isPermaLink="false">d-60c2b4e62e100aa2</guid>
+<pubDate>Wed, 05 Aug 2026 01:37:07 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Top Gun Maverick DLC pulled from the MSFS Marketplace Aug 2 — already-claimed copies keep working, but new claims are gone.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;By the end of yesterday, August 2nd,
+Top Gun: Maverick, DLC expansion for MSFS 2020, faded into the sunset. The removal from the Marketplace means that players who had not yet claimed it would be unable to do so after August 2nd.
+If you already activated it in MSFS 2020, you can reactivate it in MSF&lt;/p&gt;&lt;p&gt;&lt;em&gt;Flight Simulation · Threshold&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Fountain Pens] Pen Shows 101 (and Stationery Festivals too)</title>
+<link>https://www.penaddict.com/blog/2026/8/3/pen-shows-101</link>
+<guid isPermaLink="false">d-8a28deae36e589e6</guid>
+<pubDate>Wed, 05 Aug 2026 01:37:06 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Reference — practical guide to pen-show logistics: nib-grinder appointments, cash vs card, budgeting, etiquette; ~27 min read.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;(
+Kimberly (she/her) took the express train down the fountain pen/stationery rabbit hole and doesn't want to be rescued. She can be found on Instagram
+@allthehobbies
+because there really are many, many hobbies!.
+)
+My first article for TPA came out in time for the first post-pandemic show in 2021, th&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fountain Pens · The Pen Addict&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Hi-Fi] The Psychology Behind Owning Multiple Audio Systems</title>
+<link>https://www.reddit.com/r/audiophile/comments/1vb4tyk/the_psychology_behind_owning_multiple_audio/</link>
+<guid isPermaLink="false">d-948fab80c8ddf5f3</guid>
+<pubDate>Wed, 05 Aug 2026 01:37:05 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Reddit essay argues owning multiple systems cures upgrade-itis better than chasing the 'perfect' single setup.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;I get asked this a lot. Why do you have so many setups in your home? Isn't one enough? And isn't that expensive in the long run?
+I promised a few of my trusted inner-circle friends I'd post my thoughts here and see how the community feels about it.
+Why so many?
+For me, it actually started with anxie&lt;/p&gt;&lt;p&gt;&lt;em&gt;Hi-Fi · r/audiophile — top weekly&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Philosophy] Preference falsification</title>
+<link>https://seths.blog/2026/08/preference-falsification/</link>
+<guid isPermaLink="false">d-365efaf948ba9224</guid>
+<pubDate>Wed, 05 Aug 2026 01:37:04 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Short: culture as an 'organized lying function' — we shape stated preferences to fit in, which is why trends exist.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;People lie.
+They lie in focus groups, they lie on surveys and they lie to themselves.
+Culture can be seen as an organized lying function. Be aware of what other people are thinking and make choices about your
+preferences
+so you can fit in.
+Without this effect, we wouldn’t have trends, fads or hits.
+&lt;/p&gt;&lt;p&gt;&lt;em&gt;Philosophy · Seth's Blog&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Shoes] News – Bally in deep crisis</title>
+<link>https://shoegazing.com/2026/08/04/news-bally-in-deep-crisis/</link>
+<guid isPermaLink="false">d-ac0a14416b454e34</guid>
+<pubDate>Wed, 05 Aug 2026 01:37:03 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Bally is in Swiss bankruptcy protection, Caslano production has stopped, and the owner rejected a buyout offer to save it.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The Swiss company Bally is one of the world’s oldest still existing luxury shoe and leather goods brands. After several difficult years, the company now appears to be facing its most serious crisis yet. Bally is under the supervision of the bankruptcy office, its Swiss production has ceased, and the&lt;/p&gt;&lt;p&gt;&lt;em&gt;Shoes · Shoegazing.com&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Sim Racing] RaceRoom Summer Update Now Available - Full Changelog</title>
+<link>https://www.overtake.gg/news/raceroom-summer-update-now-available-full-changelog.4738/</link>
+<guid isPermaLink="false">d-32cad71f8d3b9b57</guid>
+<pubDate>Wed, 05 Aug 2026 01:37:02 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;RaceRoom's Summer Update ships the 2026 DTM Pack and the new Lamborghini Temerario GT3 — full changelog live now.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The Summer update for
+RaceRoom
+is now live, including the 2026 DTM Pack and the new Lamborghini Temerario GT3. Here is everything in the update.
+RaceRoom
+has released
+its big Summer Update
+, which not only implements the 2026 DTM Pack, but also a bunch of new features. Monza...
+RaceRoom Summer Updat&lt;/p&gt;&lt;p&gt;&lt;em&gt;Sim Racing · OverTake.gg — News&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Tea] The Teas Japan Forgot</title>
+<link>https://www.teaformeplease.com/the-teas-japan-forgot/</link>
+<guid isPermaLink="false">d-2ce50d55fdb357f3</guid>
+<pubDate>Wed, 05 Aug 2026 01:37:01 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Surveys Japan's non-green teas — wakocha (black), fermented goishicha and awabancha, plus where to actually buy them.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;This post contains affiliate links. I may earn a commission for purchases made through these links at no additional cost to you. You can find my privacy policy
+here
+.
+3–5 minutes
+Japan recently registered a
+Geographical Indication (GI) for the term ‘Japanese tea’
+. It was filed back in October of 20&lt;/p&gt;&lt;p&gt;&lt;em&gt;Tea · Tea for Me Please&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Watches] Opinion: Everybody Must Get Stoned? What’s Going On with the Stone Dial Trend?</title>
+<link>https://wornandwound.com/opinion-everybody-must-get-stoned-whats-going-on-with-the-stone-dial-trend/</link>
+<guid isPermaLink="false">d-9e9c39cad1d014dc</guid>
+<pubDate>Wed, 05 Aug 2026 01:37:00 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Opinion: stone dials have gone from a rare flex to a lazy commodity fill — argues the trend needs to cool off.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Let me take you back to October of 2023. It’s Windup weekend in New York City, and throngs of collectors and enthusiasts have converged on the Altman Building, our old home in Chelsea, to check out new watches from dozens and dozens of brands. That year, I was particularly interested in a new watch &lt;/p&gt;&lt;p&gt;&lt;em&gt;Watches · Worn &amp;amp; Wound&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>✓ digest ran Wed 05 Aug 04:37 · 15 picks from 976 · feeds fetched 1h ago</title>
+<link></link>
+<guid isPermaLink="false">hb-202608050437</guid>
+<pubDate>Wed, 05 Aug 2026 01:37:15 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Heavy day for real incident/analysis content (aviation, AI, opinion pieces) — most folders got 1-2 solid picks; Perfume and Secondaries were all PR blurbs or headline-only Google News stubs, so both sit empty.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;976 arrived, 136 shortlisted, 15 published. Gap-store fetched 10h ago. Folders seen: AI, Aviation, Clothing, Coffee, Deen, Dining, Flight Simulation, Fountain Pens, Hi-Fi, Perfume, Philosophy, Secondaries, Shoes, Sim Racing, Tea, Watches.&lt;/p&gt;</description>
+</item>
 <item>
 <title>[Aviation] Tourist plane crashes near Nazca Lines in Peru, killing 13</title>
 <link>https://www.aerotime.aero/articles/tourist-plane-crashes-near-nazca-lines-in-peru-killing-13</link>
