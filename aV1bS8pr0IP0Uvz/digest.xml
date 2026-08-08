@@ -4,8 +4,165 @@
 <title>Digest</title>
 <link>https://github.com/hasanpilot/rss-relay</link>
 <description>Curated from NetNewsWire. One feed, only the keepers.</description>
-<lastBuildDate>Fri, 07 Aug 2026 04:17:56 +0000</lastBuildDate>
+<lastBuildDate>Sat, 08 Aug 2026 05:35:33 +0000</lastBuildDate>
 <generator>feed-digest</generator>
+<item>
+<title>[AI] Improving Fable 5's biology safeguards</title>
+<link>https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards</link>
+<guid isPermaLink="false">d-0c06ab256f608beb</guid>
+<pubDate>Sat, 08 Aug 2026 05:35:32 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Anthropic rewrote Fable 5's biology classifier, cutting false-positive fallbacks ~85% so everyday health/bio questions get the capable model.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We’re making updates to Claude Fable 5’s biology safeguards in a way that substantially reduces false positives. Fable 5 users will now experience many fewer “fallbacks”—where the system switches to a less capable model after they make a biology-related query. In our testing, this update reduced bio&lt;/p&gt;&lt;p&gt;&lt;em&gt;AI · Anthropic News&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[AI] Now we have a timeline of the OpenAI accidental attack against Hugging Face</title>
+<link>https://simonwillison.net/2026/Aug/7/openai-timeline/#atom-everything</link>
+<guid isPermaLink="false">d-390f36cf5abf3047</guid>
+<pubDate>Sat, 08 Aug 2026 05:35:31 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Willison reconstructs how OpenAI's own agents accidentally chained zero-days to breach Hugging Face's clusters over two months.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;OpenAI gave a last-minute presentation at the Black Hat security on Wednesday about "the Hugging Face Incident" ( previously on this blog). The video was published yesterday. It's short and information dense and well worth watching, in particular because it provides full details of what happened and&lt;/p&gt;&lt;p&gt;&lt;em&gt;AI · Simon Willison's Weblog&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Aviation] New FAA directive requires checks on 471 Boeing 737 MAX jets</title>
+<link>https://www.aerotime.aero/articles/new-faa-airworthiness-directive-requires-checks-boeing-737-max-aircraft</link>
+<guid isPermaLink="false">d-b3dd5e9001652ee7</guid>
+<pubDate>Sat, 08 Aug 2026 05:35:30 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Requires fuselage/bear-strap inspections on 471 737 MAX 8/9/8200 jets for cracks; compliance by Sept 10, 2026.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The US Federal Aviation Administration (FAA) has issued a new airworthiness directive (AD) requiring inspection of 471 Boeing 737 MAX aircraft to check for cracks. 
+
+ On August 8, 2026, the FAA announced that the order had been “prompted by reports of cracks in the bear strap” located at the “forwar&lt;/p&gt;&lt;p&gt;&lt;em&gt;Aviation · AeroTime&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Aviation] Incident: Egypt B738 at Brussels on Aug 7th 2026, flaps problem</title>
+<link>https://avherald.com/h?article=53ceccbc</link>
+<guid isPermaLink="false">d-5eab866c95b0e976</guid>
+<pubDate>Sat, 08 Aug 2026 05:35:29 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Egypt Air 737 declared PAN PAN over a flaps/flight-control failure, landed at ~200kt groundspeed at Brussels.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;An Egypt Air Boeing 737-800, registration SU-GDA performing flight MS-725 from Cairo (Egypt) to Brussels (Belgium) with 132 passengers and 6 crew, was descending towards Brussels when the crew stopped the climb at 3000 feet and climbed back to 4000 feet advising ATC they had some technical problem, &lt;/p&gt;&lt;p&gt;&lt;em&gt;Aviation · The Aviation Herald&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Coffee] New Technology Looks To Turn Gas-Powered Coffee Roasters To Solar</title>
+<link>https://sprudge.com/new-technology-looks-to-turn-gas-powered-coffee-roasters-to-solar-1255721.html</link>
+<guid isPermaLink="false">d-85dec157204e1b80</guid>
+<pubDate>Sat, 08 Aug 2026 05:35:28 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Sandia Labs' rock-bed solar heat store can retrofit existing gas roasters, cutting roast times with no new machine to learn.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;News
+
+Roasting coffee using the power of the sun has been a goal for some sectors of the industry. Wonderstate Coffee , for instance, harnesses all the electricity in their Wisconsin roasting facility from solar panels. James Hoffmann teamed up with electric roaster company Bellwether to roast coffe&lt;/p&gt;&lt;p&gt;&lt;em&gt;Coffee · Sprudge Coffee&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Deen] Prophet Mohammad accurately described our era: Time pass faster, Item from thigh to talk to family [Phone], Widespread of obesity, Connected markets also manipulated, Unavoidable usury/interest, Competition in constructing high buildings, audience for anyone [Platforming], and many more.</title>
+<link>https://www.reddit.com/r/islam/comments/1vgc6a8/prophet_mohammad_accurately_described_our_era/</link>
+<guid isPermaLink="false">d-470d0c96a83427ca</guid>
+<pubDate>Sat, 08 Aug 2026 05:35:27 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;A list of hadith describing modern-day signs — phones, obesity, riba, tall buildings, social media platforming.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;submitted by /u/RedArrow360 [link] [comments]&lt;/p&gt;&lt;p&gt;&lt;em&gt;Deen · r/islam — top weekly&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Flight Simulation] Review: Pimax Dream Air</title>
+<link>https://fselite.net/content/review-pimax-dream-air/</link>
+<guid isPermaLink="false">d-62b40a3a2513d9c1</guid>
+<pubDate>Sat, 08 Aug 2026 05:35:26 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Lighter Pimax VR headset has stunning Micro-OLED visuals but an ill-fitting gasket that lets outside light bleed in.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The Pimax Dream Air marks a major shift in the developers design, but do its features hold up?
+
+Pimax’s latest VR headset is here: the Pimax Dream Air. The headset breaks with the striking design of its previous versions in what can be considered a major shift in approaching the VR market. It remove&lt;/p&gt;&lt;p&gt;&lt;em&gt;Flight Simulation · FSElite&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Flight Simulation] Just Flight Releases Robin DR400 for X-Plane 12</title>
+<link>https://thresholdx.net/just-flight-releases-robin-dr400-for-x-plane-12/</link>
+<guid isPermaLink="false">d-db2074d1fe5c9fd0</guid>
+<pubDate>Sat, 08 Aug 2026 05:35:25 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Just Flight and Thranda release a detailed Robin DR400 trainer for X-Plane 12, modeled on a real Goodwood-based aircraft.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Just Flight – in partnership with Thranda Design – has recently released their rendition of the Robin DR400-180 for X-Plane 12, a single-engine wooden monoplane widely used in flight schools around Europe. 
+ ​ 
+ The airplane was released in 1972, improving on the previously released DR300 with a wid&lt;/p&gt;&lt;p&gt;&lt;em&gt;Flight Simulation · Threshold&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Hi-Fi] Room EQ - WiiM Roomfit, or Eversolo or others - Just do it!</title>
+<link>https://www.audiosciencereview.com/forum/index.php?threads/room-eq-wiim-roomfit-or-eversolo-or-others-just-do-it.72733/</link>
+<guid isPermaLink="false">d-e1c889780706ea40</guid>
+<pubDate>Sat, 08 Aug 2026 05:35:24 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Cheap room-correction tools like WiiM's RoomFit now rival pricier gear — no external mic needed, worth trying.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;This is a quick note for those less experienced with using room EQ, or that think that it is too hard/complex, or just not worth the time. I was kind of in that group for years. But after a few hours with the most user friendly versions that are easily and cheaply available now - no need for externa&lt;/p&gt;&lt;p&gt;&lt;em&gt;Hi-Fi · Audio Science Review (ASR) Forum&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Philosophy] As the crow flies</title>
+<link>https://seths.blog/2026/08/as-the-crow-flies/</link>
+<guid isPermaLink="false">d-3948c85b348bdaae</guid>
+<pubDate>Sat, 08 Aug 2026 05:35:23 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Short essay: project pace isn't constant — the last leg of a journey often takes disproportionately long.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;You’re not a crow, neither is your project. 
+
+ To get from a village in rural France to Los Angeles, the trip to London might be a tiny fraction of the distance from London to LA, but it takes more than half the time. 
+
+ It’s easy to imagine that every step in our journey proceeds at the same veloci&lt;/p&gt;&lt;p&gt;&lt;em&gt;Philosophy · Seth's Blog&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Philosophy] This Is Why We Opened A Banned Books Library (In Rural Texas)</title>
+<link>https://ryanholiday.net/this-is-why-we-opened-a-banned-books-library-in-rural-texas/</link>
+<guid isPermaLink="false">d-f71141b83a71cc87</guid>
+<pubDate>Sat, 08 Aug 2026 05:35:22 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Holiday explains opening a free banned-books library in rural Texas, and why reading a book isn't endorsing it.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;One of my kids’ favorite books is I Need a New Butt .  
+ I don’t want to spoil the plot, but he needs a new butt not for any culture-war reason but because his has a crack in it . That’s funny, especially if you’re four or five or six or seven. 
+ My boys love the sequels too, I Broke My Butt! and My&lt;/p&gt;&lt;p&gt;&lt;em&gt;Philosophy · RyanHoliday.net&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Secondaries] Debt Doesn’t Hallucinate: What Credit Markets Signal for AI Infrastructure &amp; Private Markets</title>
+<link>https://www.nasdaqprivatemarket.com/debt-doesnt-hallucinate-what-credit-markets-signal-for-ai-infrastructure-private-markets/</link>
+<guid isPermaLink="false">d-64ff2875c1ae1430</guid>
+<pubDate>Sat, 08 Aug 2026 05:35:21 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Credit markets are still funding AI data centers cheaply when backed by hyperscaler leases; power access is now a core underwriting metric.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;@import url('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,300..700&amp;amp;family=Geist:wght@300..600&amp;amp;family=Geist+Mono:wght@400..600&amp;amp;display=swap');
+.npmw-article{--ink:#1A1A1A;--body:#1A1A1A;--mut:#8F8F8F;--rule:#E9E9E9;--rule2:#cfc9cc;--teal:#068D9D;--tealdk:#006A76;--mau&lt;/p&gt;&lt;p&gt;&lt;em&gt;Secondaries · Nasdaq Private Market&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Shoes] Grant Stone’s New Store, and a Potential Trajectory for Quality Footwear Retail</title>
+<link>https://www.stitchdown.com/info/grant-stones-retail-store-baroda-nyc/</link>
+<guid isPermaLink="false">d-daf96c0b084cc8ba</guid>
+<pubDate>Sat, 08 Aug 2026 05:35:20 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;How Grant Stone's origin as a rejected private-label sample line led to its first brick-and-mortar store in small-town Michigan.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;St. Joseph is a Michigan beach town with a historic downtown, a couple of even-more-historic lighthouses, and a very nice view of the lake. While I was in town, it happened to choked with smoke because of wildfires burning across the border in Canada. But even through the haze you could see the appe&lt;/p&gt;&lt;p&gt;&lt;em&gt;Shoes · Stitchdown&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Sim Racing] Trak Racer to operate as a Fanatec sub-brand in $50m Corsair deal</title>
+<link>https://traxion.gg/trak-racer-to-operate-as-a-fanatec-sub-brand-in-50m-corsair-deal/</link>
+<guid isPermaLink="false">d-6bc77206e848faf7</guid>
+<pubDate>Sat, 08 Aug 2026 05:35:19 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Corsair folds newly-acquired Trak Racer under Fanatec as a sub-brand in a $50m deal, forming a 'Sim Solutions' division.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Add Traxion to your "Preferred Sources" on Google to make sure you get your sim racing news always from a trusted source
+
+7 August 2026 — 3 minute read
+
+By Thomas Harrison-Lord
+
+Corsair’s acquisition of Trak Racer was for $40 million in cash, with a further $10 million earn-out should performance ta&lt;/p&gt;&lt;p&gt;&lt;em&gt;Sim Racing · Traxion.GG&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Sim Racing] Pimax Crystal Super Micro-OLED Upgrade: How to Swap the Optical Engine</title>
+<link>https://simracingcockpit.gg/pimax-crystal-super-optical-engine-upgrade/</link>
+<guid isPermaLink="false">d-3b2e62dd208ce19c</guid>
+<pubDate>Sat, 08 Aug 2026 05:35:18 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;A hands-on guide to swapping the Pimax Crystal Super's optical engine for different Micro-OLED screens.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;I’ve just pulled the screens out of my Crystal Super and put different ones in. That sentence still sounds mad to me, and I’ve done it. The Super is the… 
+ You're reading Pimax Crystal Super Micro-OLED Upgrade: How to Swap the Optical Engine , a sim racing article that appeared first on SIMRACINGCOC&lt;/p&gt;&lt;p&gt;&lt;em&gt;Sim Racing · SIMRACINGCOCKPIT.GG&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Watches] Bring a Loupe: A Patek Phillipe 5000R, A Seiko 7018-8000, Jaeger-LeCoultre Master Calendar Moonphase Meteorite, And Much More</title>
+<link>https://www.hodinkee.com/articles/a-patek-phillipe-5000r-a-seiko-7018-8000-a-zodiac-poor-mans-heuer-reference-7721-and-a-jaeger-lecoul</link>
+<guid isPermaLink="false">d-78ddcc78ffdc834a</guid>
+<pubDate>Sat, 08 Aug 2026 05:35:17 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Hodinkee's curated vintage picks this week: a rose-gold Patek 5000R, a flyback Seiko 7018, and a meteorite-dial JLC.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Welcome to the dregs and dog days of summer, and happy Friday again. I was emailing someone in Germany who informed me she'd be out of contact until her company reopened—they shut down for the first three weeks of August—and I desperately wish that idea had taken hold worldwide. Especially for those&lt;/p&gt;&lt;p&gt;&lt;em&gt;Watches · Hodinkee&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Watches] The Summer of Ana-Digi: a Helpful Guide to the Retro Format</title>
+<link>https://wornandwound.com/the-summer-of-ana-digi-a-helpful-guide-to-the-retro-format/</link>
+<guid isPermaLink="false">d-e508bf98c7fa7cd5</guid>
+<pubDate>Sat, 08 Aug 2026 05:35:16 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Guide to analog-digital watches across G-Shock, Seiko, Citizen, Omega and Breitling, tracing the format's history and revival.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Analog and digital timepieces used to wage war on the wrists of horological enthusiasts. Nowadays, though, they’re more of a united front against the tide of smart watches and phones, offering wildly differing price points, use cases, and aesthetics. No longer is a digital calculator watch seen as “&lt;/p&gt;&lt;p&gt;&lt;em&gt;Watches · Worn &amp;amp; Wound&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Hi-Fi] KEF Ci3160RLM-THX In-Wall Speaker Review</title>
+<link>https://www.audiosciencereview.com/forum/index.php?threads/kef-ci3160rlm-thx-in-wall-speaker-review.65587/</link>
+<guid isPermaLink="false">d-0c0bbdb56bf432ef</guid>
+<pubDate>Sat, 08 Aug 2026 05:35:15 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;ASR's measured review of the $2,230 KEF Ci3160RLM-THX in-wall speaker, unusually heavy-duty construction for the category.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;This is a review and detailed measurements of the KEF Ci3160RLM-THX in-wall home theater speaker using their meta materials. It is on kind loan from a member and costs US $2,230 (each). 
+ 
+The Ci3160RLM-THX, unlike many in-wall speakers, looks quite nice without its grill so I chose to test it that &lt;/p&gt;&lt;p&gt;&lt;em&gt;Hi-Fi · Audio Science Review (ASR) Forum&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>⚠ digest ran Sat 08 Aug 08:35 · 18 picks from 571 · feeds fetched 0h ago</title>
+<link></link>
+<guid isPermaLink="false">hb-202608080835</guid>
+<pubDate>Sat, 08 Aug 2026 05:35:33 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Gap-store fetch is stale — gap-only feeds may be missing.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;571 arrived, 113 shortlisted, 18 published. Gap-store fetched 15h ago. Folders seen: AI, Aviation, Chocolate, Clothing, Coffee, Deen, Dining, Flight Simulation, Fountain Pens, Hi-Fi, Perfume, Philosophy, Secondaries, Shoes, Sim Racing, Tea, Watches.&lt;/p&gt;</description>
+</item>
 <item>
 <title>[Aviation] Incident: Envoy E175 at Washington on Aug 4th 2026, loss of separation with Marine One</title>
 <link>https://avherald.com/h?article=53cdcc6e</link>
