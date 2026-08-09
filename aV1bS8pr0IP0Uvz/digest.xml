@@ -4,8 +4,134 @@
 <title>Digest</title>
 <link>https://github.com/hasanpilot/rss-relay</link>
 <description>Curated from NetNewsWire. One feed, only the keepers.</description>
-<lastBuildDate>Sat, 08 Aug 2026 05:35:33 +0000</lastBuildDate>
+<lastBuildDate>Sun, 09 Aug 2026 04:50:21 +0000</lastBuildDate>
 <generator>feed-digest</generator>
+<item>
+<title>[AI] Auto mode is now the default in Claude Code for Pro, Max, and Team plans</title>
+<link>https://simonwillison.net/2026/Aug/8/auto-mode/#atom-everything</link>
+<guid isPermaLink="false">d-bbe2e2bb74b9edee</guid>
+<pubDate>Sun, 09 Aug 2026 04:50:19 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Claude Code's auto mode becomes default Aug 14; Anthropic's own evals say it blocks 89% of harmful actions humans approved.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Auto mode is now the default in Claude Code for Pro, Max, and Team plans 
+Anthropic are really confident in Claude Code's auto mode , to the point that they are making it the default setting for new sessions in most Claude Code plans starting on August 14th. 
+ This was one of the topics discussed in&lt;/p&gt;&lt;p&gt;&lt;em&gt;AI · Simon Willison's Weblog&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Aviation] Incident: Delta B752 at Atlanta on Aug 8th 2026, fumes on flight deck</title>
+<link>https://avherald.com/h?article=53cf7273</link>
+<guid isPermaLink="false">d-1c53d8ee9e556b82</guid>
+<pubDate>Sun, 09 Aug 2026 04:50:18 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Delta 757 returned to Atlanta and evacuated via slides after cockpit fumes during climb-out; no reported injuries.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;A Delta Airlines Boeing 757-200, registration N555NW performing flight DL-2204 from Atlanta,GA to Orlando,FL (USA) with 199 passengers and 6 crew, was climbing out of Atlanta's runway 09L when the crew stopped the climb at about 9000 feet reporting fumes on the flight deck. The aircraft returned to &lt;/p&gt;&lt;p&gt;&lt;em&gt;Aviation · The Aviation Herald&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Aviation] Flight Attendant Injured After Pilots of Jetstar Plane Slam On Brakes to Avoid Qatar Airways Boeing 777 While Taxiing at Sydney Airport - PYOK</title>
+<link>https://news.google.com/rss/articles/CBMijwJBVV95cUxPa0ZvRXJORWswZThicXEtUWZxVkVSMTJLTVVMVGNRcUQ2ell3cWlCSmhGcUFwZ1NvNGVPSzF6SXFkcFlBOVVMc2Q4YXc1ajR5N2lnbGtXdHB1SnpHa25KN3FkTDh4S05SZG5sTjhsUngteVUwQ1lRLURhYzZZMHNubE8xU1NRM2gxWWlLLXVWazlqeEZwbUlwWTRaMVQwTEZPV3NWWVpNMFJVdEpMakRTdi00al9fd2dfR3d5VHN4WDZjQk0wSFpoUXUzMVZpYVpCWkZ2bjFEV2FnbF9EWGR6a0NZT2FjV3lNMmlxWXluX0RvSWhtXzR2VGN2MDVjRUJBNUZPRVlEV3VRc2c4THU0?oc=5</link>
+<guid isPermaLink="false">d-23cd884bda668d0d</guid>
+<pubDate>Sun, 09 Aug 2026 04:50:17 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;(headline only) Jetstar crew braked hard to avoid a Qatar 777 while taxiing at Sydney, injuring a flight attendant — second near-miss there this week.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Flight Attendant Injured After Pilots of Jetstar Plane Slam On Brakes to Avoid Qatar Airways Boeing 777 While Taxiing at Sydney Airport    PYOK&lt;/p&gt;&lt;p&gt;&lt;em&gt;Aviation · "("Emirates" OR "Qatar Airways" OR "Etihad" OR "Saudia" OR "Gulf Air") airline" - Google News&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Deen] Children in the mosque</title>
+<link>https://www.reddit.com/r/islam/comments/1vicein/children_in_the_mosque/</link>
+<guid isPermaLink="false">d-87de693aa6aebb77</guid>
+<pubDate>Sun, 09 Aug 2026 04:50:16 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Hadith show the Prophet ◾ prolonging prostration so his grandchildren could ride his back — a gentle case for patience with kids in the mosque.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;It was narrated from 'Abdullah bin Shaddad, this his father said: "The Messenger of Allah (ﷺ) came out to us for one of the nighttime prayers, and he was carrying Hasan or Husain. The Messenger of Allah (ﷺ) came forward and put him down, then he said the Takbir and started to pray. He prostrated dur&lt;/p&gt;&lt;p&gt;&lt;em&gt;Deen · r/islam — top weekly&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Flight Simulation] FS2Crew Launches Generation AI for FlyByWire A32NX</title>
+<link>https://thresholdx.net/fs2crew-launches-generation-ai-for-flybywire-a32nx/</link>
+<guid isPermaLink="false">d-f3208f0273484b23</guid>
+<pubDate>Sun, 09 Aug 2026 04:50:15 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;FS2Crew's new $30 AI First Officer for the A32NX runs in the cloud, handles checklists and callouts by voice.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;FS2Crew Simulations has released Generation AI for the FlyByWire A32NX, bringing an AI-powered virtual crew system to Microsoft Flight Simulator 2020 and 2024. 
+ 
+ The software enables pilots to interact with an AI First Officer using voice commands. It can handle checklists, flows, callouts, and ot&lt;/p&gt;&lt;p&gt;&lt;em&gt;Flight Simulation · Threshold&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Perfume] 56 fragrance allergens</title>
+<link>https://nstperfume.com/2026/08/08/56-fragrance-allergens/</link>
+<guid isPermaLink="false">d-5a586ebdf2a81988</guid>
+<pubDate>Sun, 09 Aug 2026 04:50:14 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;New EU rule bans leave-on cosmetics with any of 56 fragrance allergens (lavender, bergamot, jasmine) unless individually listed past 0.001%.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The three-year transition period of EU Commission Regulation 2023/1545 [closed July 31], and “natural beauty” positioned brands may face the sharpest consequences. Now, cosmetic products containing any of the 56 fragrance allergens added to Annex III of the regulation cannot be placed on the EU mark&lt;/p&gt;&lt;p&gt;&lt;em&gt;Perfume · Now Smell This&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Perfume] Chanel Coco Mademoiselle Crush Absolu (Olivier Polge; 2026) and ‘new’ No. 5 eau de toilette reviews</title>
+<link>https://persolaise.com/2026/08/chanel-coco-mademoiselle-crush-absolu-olivier-polge-2026-and-new-no-5-eau-de-toilette-reviews.html?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=chanel-coco-mademoiselle-crush-absolu-olivier-polge-2026-and-new-no-5-eau-de-toilette-reviews</link>
+<guid isPermaLink="false">d-2ef711a311a093ec</guid>
+<pubDate>Sun, 09 Aug 2026 04:50:13 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Persolaise reviews Chanel's new Coco Mademoiselle Crush Absolu and the 'new' No. 5 EDT, admitting he's never fully understood the original.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;If Gabrielle is the Chanel perfume I most frequently forget exists, then Coco Mademoiselle is the one I most struggle to understand. Goodness knows, I’ve smelt it enough times. Since it first appeared in 2001, it has been as ubiquitous as fragrance gets, making it all the way to the wardrobe of a ve&lt;/p&gt;&lt;p&gt;&lt;em&gt;Perfume · Persolaise&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Philosophy] The McIntosh Modernity Index</title>
+<link>https://seths.blog/2026/08/the-mcintosh-modernity-index/</link>
+<guid isPermaLink="false">d-5c1574d5da2750f0</guid>
+<pubDate>Sun, 09 Aug 2026 04:50:12 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;A donkey tied outside a digital-trading hub in Luxembourg becomes Seth Godin's measure for how unevenly the future actually arrives.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;There’s a village in Luxembourg that’s right outside the main metropolis. A farmer often ties up a donkey to the little bridge leading to town. 
+
+ The juxtaposition of international digital trading and donkeys is a reminder that as fast as the future arrives, the past also sticks around. We can meas&lt;/p&gt;&lt;p&gt;&lt;em&gt;Philosophy · Seth's Blog&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Shoes] NBD: Urban Wolf Club, Colt with customizations.</title>
+<link>https://www.reddit.com/r/goodyearwelt/comments/1vj821i/nbd_urban_wolf_club_colt_with_customizations/</link>
+<guid isPermaLink="false">d-574cfe0a9c5a1969</guid>
+<pubDate>Sun, 09 Aug 2026 04:50:11 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Independent review: Urban Wolf Club's customized $200 Colt boots beat Thursday on leather, though not quite Red Wing territory.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;New Boot Day: Urban Wolf Club Colt with Customizations I’m very surprised by how much I like these boots. I honestly wasn’t expecting this level of quality for the price, and after wearing them for a few days, I figured they deserved a shoutout here. The leather is thick and seems to be quite good q&lt;/p&gt;&lt;p&gt;&lt;em&gt;Shoes · High Quality Footwear&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Sim Racing] Simagic Zeus Wheel Ecosystem Review: Three Wheels, One Clever Platform</title>
+<link>https://ocracing.com/reviews/simagic-zeus-wheel-ecosystem-review/</link>
+<guid isPermaLink="false">d-af45aaa624ea947f</guid>
+<pubDate>Sun, 09 Aug 2026 04:50:10 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Independent review of Simagic's modular Zeus wheel line ($330-$500): one shared touchscreen swaps between all three, but compatibility is confusing.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Before getting into the wheels themselves, a necessary disclosure. Simagic provided the Zeus wheels at no cost for review . They had no input on this article and did not see it before publication. For additional transparency, Moza , a competing brand, is a paid sponsor of the channel. As always, all&lt;/p&gt;&lt;p&gt;&lt;em&gt;Sim Racing · OC Racing&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Sim Racing] BeamNG.drive Incorporates Polyphony Digital HDR Technology for PlayStation Release</title>
+<link>https://www.overtake.gg/news/beamng-drive-incorporates-polyphony-digital-hdr-technology-for-playstation-release.4754/</link>
+<guid isPermaLink="false">d-30425e09fb65eebb</guid>
+<pubDate>Sun, 09 Aug 2026 04:50:09 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;BeamNG.drive's v0.39 update adds Gran Turismo 7's HDR tone-mapping tech ahead of its PlayStation debut later in 2026.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;BeamNG.drive has taken a significant step forward in its visual representation with the newly released v0.39 update. The big step forward is to arm the sim, ready for its momentous PlayStation debut later in 2026. 
+ 
+With the introduction of the same tone mapping system developed by Polyphony Digita&lt;/p&gt;&lt;p&gt;&lt;em&gt;Sim Racing · OverTake.gg — News&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Watches] The ABCs of Time – When and Why Did We Start Measuring Seconds?</title>
+<link>https://monochrome-watches.com/when-and-why-did-we-start-measuring-seconds/</link>
+<guid isPermaLink="false">d-61303456e6888a71</guid>
+<pubDate>Sun, 09 Aug 2026 04:50:08 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Reference — ~15-min history of the seconds hand: pendulums, tachymeters, telemeters, pulsometers, and why hacking seconds became a WWII standard.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The seconds hand was a bit late to the party, as original pocket watches only featured an hour hand – movements were so inaccurate early on that even minute hands weren’t considered. Two key inventions changed the game in the mid-17 th century, with one genius behind them. In 1656, Dutch scientist a&lt;/p&gt;&lt;p&gt;&lt;em&gt;Watches · Monochrome Watches&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Watches] Seiko marks 145th Anniversary with Edo Purple Limited Editions</title>
+<link>http://www.timeandwatches.com/2026/08/seiko-145th-anniversary-edo-purple-limited-editions.html</link>
+<guid isPermaLink="false">d-a6a13fdc0982f984</guid>
+<pubDate>Sun, 09 Aug 2026 04:50:07 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Seiko's 145th-anniversary Edo Purple collection: 6 limited-edition models across Prospex, Astron and Presage, €450-€3,000, out October 2026.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;To celebrate its 145th anniversary, Seiko has created a collection of limited-edition timepieces united by a design motif inspired by Edo purple, a distinctive shade associated with Japan’s Edo period (1603–1868).  Combined with gold-coloured accents, the historic hue defines the commemorative model&lt;/p&gt;&lt;p&gt;&lt;em&gt;Watches · Time and Watches&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Flight Simulation] DCS AH-64D to Receive DTC and George AI Updates</title>
+<link>https://thresholdx.net/dcs-ah-64d-to-receive-dtc-and-george-ai-updates/</link>
+<guid isPermaLink="false">d-2c060b442cebf1ba</guid>
+<pubDate>Sun, 09 Aug 2026 04:50:06 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;DCS's AH-64D gets a real Data Transfer Cartridge (waypoints, routes, threat data) plus a George AI that now evades threats and manages hover power.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Eagle Dynamics has announced upcoming updates for the DCS: AH-64D Apache, including the Data Transfer Cartridge (DTC) and improvements to the George AI pilot. 
+ 
+ The DTC will support: 
+ 
+ 50 waypoint/hazard, 49 control measure, and 50 target/threat points 
+ 10 routes 
+ 15 battlefield lines and 12 e&lt;/p&gt;&lt;p&gt;&lt;em&gt;Flight Simulation · Threshold&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Shoes] Montebove Italian Navy Service Boots Initial Impressions</title>
+<link>https://www.reddit.com/r/goodyearwelt/comments/1vikgpe/montebove_italian_navy_service_boots_initial/</link>
+<guid isPermaLink="false">d-c04a3fcfdf5794a6</guid>
+<pubDate>Sun, 09 Aug 2026 04:50:05 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Dead-stock 2019 Italian navy service boots (Goodyear welted, $127) reviewed first-hand — surprising quality for a military-surplus find.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Background I don't like writing reviews based only on initial impressions but Montebove doesn't seem to be a name that you see on this subreddit much ( this was the only post I found and they're a completely different style of boot) so I figured I would share my thoughts on these. I found some dead &lt;/p&gt;&lt;p&gt;&lt;em&gt;Shoes · High Quality Footwear&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>⚠ digest ran Sun 09 Aug 07:50 · 15 picks from 375 · feeds fetched 0h ago</title>
+<link></link>
+<guid isPermaLink="false">hb-202608090750</guid>
+<pubDate>Sun, 09 Aug 2026 04:50:20 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Gap-store fetch is stale — gap-only feeds may be missing.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;375 arrived, 83 shortlisted, 15 published. Gap-store fetched 14h ago. Folders seen: AI, Aviation, Deen, Dining, Flight Simulation, Fountain Pens, Hi-Fi, Perfume, Philosophy, Secondaries, Shoes, Sim Racing, Watches.&lt;/p&gt;</description>
+</item>
 <item>
 <title>[AI] Improving Fable 5's biology safeguards</title>
 <link>https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards</link>
