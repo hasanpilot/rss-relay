@@ -4,8 +4,130 @@
 <title>Digest</title>
 <link>https://github.com/hasanpilot/rss-relay</link>
 <description>Curated from NetNewsWire. One feed, only the keepers.</description>
-<lastBuildDate>Sun, 09 Aug 2026 04:50:21 +0000</lastBuildDate>
+<lastBuildDate>Mon, 10 Aug 2026 05:31:24 +0000</lastBuildDate>
 <generator>feed-digest</generator>
+<item>
+<title>[AI] Message your other Claude Code sessions</title>
+<link>https://code.claude.com/docs/en/cross-session-messaging</link>
+<guid isPermaLink="false">d-f7f8198220a3247f</guid>
+<pubDate>Mon, 10 Aug 2026 05:31:23 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Explains Claude Code's new cross-session messaging: sessions can hand off findings, coordinate worktrees, and report status to each other.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;​ When to use cross-session messaging
+
+Hand over a finding : when one session discovers a breaking change or makes a decision, Claude summarizes it for the session working on the affected area, instead of you re-explaining it there.
+
+Coordinate parallel worktrees : when sessions work the same reposi&lt;/p&gt;&lt;p&gt;&lt;em&gt;AI · Hacker News - Newest: ""Claude" "Anthropic""&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[AI] SQLite compressed text-history prototypes</title>
+<link>https://simonwillison.net/2026/Aug/9/sqlite-text-history-prototype/#atom-everything</link>
+<guid isPermaLink="false">d-d61269225dd15990</guid>
+<pubDate>Mon, 10 Aug 2026 05:31:22 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Willison prototypes storing document revision history as zstd-compressed JSON in SQLite, shrinking 20MB of history to 80KB.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Research: SQLite compressed text-history prototypes 
+ I'm perennially interested in options for storing revision histories in relational databases. While out on a dog walk I had a new idea: how about taking the full text of every prior version in a big JSON array of strings and then applying zlib or&lt;/p&gt;&lt;p&gt;&lt;em&gt;AI · Simon Willison's Weblog&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Aviation] Delta passengers evacuate on escape slides after emergency landing</title>
+<link>https://www.aerotime.aero/articles/delta-passengers-evacuate-on-escape-slides-after-emergency-landing</link>
+<guid isPermaLink="false">d-4b9f6676bd8a992d</guid>
+<pubDate>Mon, 10 Aug 2026 05:31:21 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Delta 757 diverted back to Atlanta with cockpit smoke; 199 passengers evacuated via slides onto the taxiway, two treated for injuries.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Delta Air Lines passengers were forced to evacuate a Boeing 757-200 on escape slides at Hartsfield-Jackson Atlanta International Airport (ATL) following an emergency landing. 
+
+ On August 8, 2026, the Delta Air Lines flight left Atlanta at 07:35, for Orlando International Airport (MCO) but diverted &lt;/p&gt;&lt;p&gt;&lt;em&gt;Aviation · AeroTime&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Aviation] Incident: Cebu Pacific A21N at Butuan on Aug 9th 2026, runway excursion during line up</title>
+<link>https://avherald.com/h?article=53d0878d</link>
+<guid isPermaLink="false">d-f49e17da32fc831c</guid>
+<pubDate>Mon, 10 Aug 2026 05:31:20 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Cebu Pacific A321neo's nose gear went off the runway edge while lining up at Butuan; aircraft still disabled 14.5 hours later.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;A Cebu Pacific Airlines Airbus A321-200N, registration RP-C4120 performing flight 5J-786 from Butuan to Manila (Philippines), was backtracking Butuan's runway 12 for departure when upon turning around to line up the aircraft's nose gear went off the paved surface. The aircraft became disabled. The a&lt;/p&gt;&lt;p&gt;&lt;em&gt;Aviation · The Aviation Herald&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Watches] Just Because – The Rising Creativity of China’s Independent Watchmakers</title>
+<link>https://monochrome-watches.com/just-because-qin-gan-atelier-wen-fam-al-hut-qian-guobiao-peacock-chinese-watchmaking/</link>
+<guid isPermaLink="false">d-04724abcc15f3995</guid>
+<pubDate>Mon, 10 Aug 2026 05:31:19 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Profiles five independent Chinese watchmakers (Qin Gan, Fam Al-Hut, Atelier Wen, Qian GuoBiao, Peacock) making genuinely original high-end pieces, not copies.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Despite Switzerland still being the epicentre of the industry, our love of watchmaking goes far beyond its borders. For years, we have been following the developments of other nations, virtually extending to all corners of the world. That always comes with the burden of stigmas, as changing one’s pe&lt;/p&gt;&lt;p&gt;&lt;em&gt;Watches · Monochrome Watches&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Secondaries] Anthropic warns investors against secondary platforms offering access to its shares - TechCrunch</title>
+<link>https://news.google.com/rss/articles/CBMiugFBVV95cUxPMlNqQ1Z3TUJoSFRzQ3dQaUswVUdGZ1ROeGN0Rnd6VHFSQmN0bV8xTURUMjUxSDFrSnRIQjFzVGFLS00tLXFUekw1U2N6LXo2T1RzVE9MOXd6SWItZVppenNVSzlPNkxiQS1aYjUxZ2JMcWJNRTM2cWdPVEg5MWU5Yi03NUw5eEI5R0ZjcEFfYWY1Ykpfak9IN3NYY1ZkSG1QRm9UNWx3UzZCUlZtWkRPVHNCejNiMWx2SVE?oc=5</link>
+<guid isPermaLink="false">d-0abe187e735c74a5</guid>
+<pubDate>Mon, 10 Aug 2026 05:31:18 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Anthropic is warning investors off unauthorized secondary platforms selling access to its private shares.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Anthropic warns investors against secondary platforms offering access to its shares    TechCrunch&lt;/p&gt;&lt;p&gt;&lt;em&gt;Secondaries · Secondary marketplaces — Google News · published May 2026&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Philosophy] “We’re all being surprised at the same time”</title>
+<link>https://seths.blog/2026/08/were-all-being-surprised-at-the-same-time/</link>
+<guid isPermaLink="false">d-71ccacded476f9c0</guid>
+<pubDate>Mon, 10 Aug 2026 05:31:17 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;One-line Seth Godin post: Keith Jarrett on how real-time improvisation with an audience turns "performance" into pure creation.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;“We’re all being surprised at the same time”
+
+Keith Jarrett on improvisation.
+
+When the artist is creating in real time, in conjunction with the witnesses in the room, “performance” goes away.
+
+It’s creation.
+
+Improvisation is a privilege, a chance to create without a guarantee.
+
+August 9, 2026&lt;/p&gt;&lt;p&gt;&lt;em&gt;Philosophy · Seth's Blog&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Flight Simulation] Orbx Releases PNG Highland Bush Strips Pack 6 for MSFS 2024</title>
+<link>https://fselite.net/content/orbx-releases-png-highland-bush-strips-pack-6-for-msfs-2024/</link>
+<guid isPermaLink="false">d-0a5d4a6a38e423fb</guid>
+<pubDate>Mon, 10 Aug 2026 05:31:16 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Orbx ships PNG Highland Bush Strips Pack 6 for MSFS 2024: seven high-difficulty Papua New Guinea strips with river-valley approaches, $18.99 AUD.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Orbx and indie scenery developer Ken Hall return to the treacherous airstrips of Papua New Guinea with its latest PNG bush strips pack…
+
+Scenery developer Ken Hall, in partnership with Orbx, has released the next entry in his acclaimed bush flying series: PNG Highland Bush Strips Pack 6 for Microsof&lt;/p&gt;&lt;p&gt;&lt;em&gt;Flight Simulation · FSElite&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Flight Simulation] IronSim – ENZV Stavanger Sola MSFS24/20 Beautifully Renders the Airport Terminal of Norway’s Oil Capital</title>
+<link>https://www.simflight.com/2026/08/09/ironsim-enzv-stavanger-sola-msfs24-20-beautifully-renders-the-airport-terminal-of-norways-oil-capital/</link>
+<guid isPermaLink="false">d-b9204b2c77468b5b</guid>
+<pubDate>Mon, 10 Aug 2026 05:31:15 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;~12 min read — IronSim's new Stavanger Sola scenery for MSFS, Norway's offshore-helicopter hub, free cross-update between MSFS 2020/2024.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;IronSim – ENZV Stavanger Sola MSFS24 brings Stavanger Airport Sola to Microsoft Flight Simulator 2024, giving virtual pilots a detailed gateway to Norway’s southwestern coast and one of Scandinavia’s most important aviation and offshore-energy regions. 
+
+ Located near Stavanger in Rogaland, IronSim &lt;/p&gt;&lt;p&gt;&lt;em&gt;Flight Simulation · simFlight&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Dining] Sustainable Travel in 2026: What Actually Works (and What Just Feels Good)</title>
+<link>https://www.bahrain-confidential.com/sustainable-travel-2026-guide/</link>
+<guid isPermaLink="false">d-393d847c8d3b90ac</guid>
+<pubDate>Mon, 10 Aug 2026 05:31:14 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Explains the new CCP label that separates verified carbon offsets from greenwashing, and ranks which travel habits actually cut emissions.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;For years, buying a carbon offset at checkout felt like the responsible travel thing to do. You tick a box, pay a small fee, and board your flight with a lighter conscience. The trouble is that most offsets have functioned less like an environmental transaction and more like a promise, one that ofte&lt;/p&gt;&lt;p&gt;&lt;em&gt;Dining · Bahrain Confidential&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Hi-Fi] ESI Juli@ XTe Sound Card</title>
+<link>https://www.audiosciencereview.com/forum/index.php?threads/esi-juli-xte-sound-card.23543/</link>
+<guid isPermaLink="false">d-f1da92707d20894e</guid>
+<pubDate>Mon, 10 Aug 2026 05:31:13 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Sean Olive flags a cheap in-ear mic that lets you measure and personalize headphone calibration instead of using the generic Harman curve.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;This was a popular card 10-15 years ago. I've had mine about that long. It's unique in that it has a daughter board that you can unplug &amp;amp; flip around to switch between single ended (RCA) &amp;amp; balanced (1/4" TRS) outputs and inputs. It uses the AK4358 for DA and AK5385A for AD. It supports PCM up to 24-&lt;/p&gt;&lt;p&gt;&lt;em&gt;Hi-Fi · Audio Science Review (ASR) Forum&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Sim Racing] Sim racing star Rogers takes first real-world car victory, then triples up</title>
+<link>https://traxion.gg/sim-racing-star-rogers-takes-first-real-world-car-victory-then-triples-up/</link>
+<guid isPermaLink="false">d-94f1b0517ddddc25</guid>
+<pubDate>Mon, 10 Aug 2026 05:31:12 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Esports driver Joshua Rogers won his first real-world motorsport race at Knockhill, then took two more the same weekend.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Porsche Coanda Esports driver Joshua Rogers took his maiden real-world motorsport race victory, and immediately backed it up with two more at Knockhill. 
+ The post Sim racing star Rogers takes first real-world car victory, then triples up appeared first on Traxion.GG .&lt;/p&gt;&lt;p&gt;&lt;em&gt;Sim Racing · Traxion.GG&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Hi-Fi] "Limp mode" for Beginners</title>
+<link>https://www.audiosciencereview.com/forum/index.php?threads/limp-mode-for-beginners.71856/</link>
+<guid isPermaLink="false">d-79a6f98676b9f162</guid>
+<pubDate>Mon, 10 Aug 2026 05:31:11 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Explains "limp mode," a hardware catch some 2021 Dirac-equipped AVRs from Premium Audio Company have been quietly hitting.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;There's been enough confusion on this topic that I think it rightfully deserves it's own thread: 
+ 
+In 2021, a number of "better than entry" and mid-range AVRs were introduced by Premium Audio Company (PAC), some of the first in the industry to include Dirac room correction in the price! Over the ye&lt;/p&gt;&lt;p&gt;&lt;em&gt;Hi-Fi · Audio Science Review (ASR) Forum&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>⚠ digest ran Mon 10 Aug 08:31 · 13 picks from 318 · feeds fetched 1h ago</title>
+<link></link>
+<guid isPermaLink="false">hb-202608100831</guid>
+<pubDate>Mon, 10 Aug 2026 05:31:24 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Gap-store fetch is stale — gap-only feeds may be missing.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;318 arrived, 80 shortlisted, 13 published. Gap-store fetched 15h ago. Folders seen: AI, Aviation, Clothing, Deen, Dining, Flight Simulation, Fountain Pens, Hi-Fi, Philosophy, Secondaries, Sim Racing, Tea, Watches.&lt;/p&gt;</description>
+</item>
 <item>
 <title>[AI] Auto mode is now the default in Claude Code for Pro, Max, and Team plans</title>
 <link>https://simonwillison.net/2026/Aug/8/auto-mode/#atom-everything</link>
