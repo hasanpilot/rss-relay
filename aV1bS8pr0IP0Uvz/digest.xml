@@ -4,8 +4,165 @@
 <title>Digest</title>
 <link>https://github.com/hasanpilot/rss-relay</link>
 <description>Curated from NetNewsWire. One feed, only the keepers.</description>
-<lastBuildDate>Mon, 10 Aug 2026 05:31:24 +0000</lastBuildDate>
+<lastBuildDate>Tue, 11 Aug 2026 05:42:07 +0000</lastBuildDate>
 <generator>feed-digest</generator>
+<item>
+<title>[AI] Auto mode is now the default in Claude Code</title>
+<link>https://claude.com/blog/auto-mode-default-in-claude-code</link>
+<guid isPermaLink="false">d-0f03b558ea0c10c4</guid>
+<pubDate>Tue, 11 Aug 2026 05:42:06 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Claude Code makes auto mode default Aug 14; their tests show the classifier blocks dangerous commands better than manual approval (~16 min read).&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Claude Code will soon run auto mode by default for Pro, Max, and Team plans, enabling longer-running autonomous work, and catching more dangerous commands than manual review in our testing.
+
+Category Claude Code
+
+Product Claude Code
+
+Date August 7, 2026
+
+Reading time 5 min
+
+Share Copy link https://c&lt;/p&gt;&lt;p&gt;&lt;em&gt;AI · Hacker News - Newest: ""Claude" "Anthropic""&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[AI] Introducing Muse Glimmer</title>
+<link>https://simonwillison.net/2026/Aug/10/introducing-muse-glimmer/#atom-everything</link>
+<guid isPermaLink="false">d-8aabd946d649bdf9</guid>
+<pubDate>Tue, 11 Aug 2026 05:42:05 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Meta's new 30B open-weights model under a clean Apache 2.0 license; Simon runs it locally via LM Studio and his coding-agent plugin.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Introducing Muse Glimmer 
+Meta are back in the open weights game! Muse Glimmer is a brand new 30B model under a clean Apache 2.0 license (a step up from the janky Llama licenses of old). 
+ They claim to have optimized it for exactly the kind of things I'm looking for in a local model: 
+ 
+ 
+ End-to-e&lt;/p&gt;&lt;p&gt;&lt;em&gt;AI · Simon Willison's Weblog&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Aviation] Incident: Swiss A333 over Atlantic on Aug 9th 2026, smoke in cabin</title>
+<link>https://avherald.com/h?article=53d226f3</link>
+<guid isPermaLink="false">d-52a2c03e8608e9cf</guid>
+<pubDate>Tue, 11 Aug 2026 05:42:04 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;A passenger's overheating power bank filled Swiss business class with smoke on a transatlantic A330; diverted to Dublin, aircraft grounded 14+ hours.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;A Swiss International Airlines Airbus A330-300, registration HB-JHN performing flight LX-52 from Zurich (Switzerland) to Boston,MA (USA) with 206 passengers and 12 crew, was enroute at FL380 over the Atlantic Ocean about 660nm westsouthwest of Dublin (Ireland) when the crew decided to turn around an&lt;/p&gt;&lt;p&gt;&lt;em&gt;Aviation · The Aviation Herald&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Aviation] S7 Airlines suffers second Boeing 737 runway overrun in six weeks</title>
+<link>https://www.aerotime.aero/articles/s7-second-boeing-737-runway-overrun-six-weeks</link>
+<guid isPermaLink="false">d-c3bf00a9665b8433</guid>
+<pubDate>Tue, 11 Aug 2026 05:42:03 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;S7's second Boeing 737 runway overrun in six weeks, this time a freighter at Norilsk; Russian prosecutors are investigating both.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;An S7 Airlines Boeing 737-800 freighter overran the runway while landing in Norilsk, Russia, marking the airline’s second 737 runway overrun in less than six weeks. 
+
+ The cargo aircraft was arriving at Norilsk Alykel Airport (NSK) from Moscow Domodedovo Airport (DME) on August 8, 2026, when it went&lt;/p&gt;&lt;p&gt;&lt;em&gt;Aviation · AeroTime&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Flight Simulation] No Money Mondays: Gdańsk Lech Wałęsa Airport by pngraf</title>
+<link>https://thresholdx.net/no-money-mondays-gdansk-lech-walesa-airport-by-pngraf/</link>
+<guid isPermaLink="false">d-3c6ac77df300b7fb</guid>
+<pubDate>Tue, 11 Aug 2026 05:42:02 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Freeware X-Plane rendition of Gdańsk airport just got a major feature update worth revisiting.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Editorial Note : While we have already covered pngraf’s fantastic scenery, a recent update has brought a lot of new features and improvements, so we felt that it is worth a revisit. 
+ 
+ Welcome to another edition of No Money Mondays! This week, we’re headed to the north of Poland to check out an ama&lt;/p&gt;&lt;p&gt;&lt;em&gt;Flight Simulation · Threshold&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Flight Simulation] Hardware Review: Hoowalt D201 &amp; D203 B737 ATC &amp; RTP</title>
+<link>https://www.simflight.com/2026/08/10/hardware-review-hoowalt-d201-d203-b737-atc-rtp/</link>
+<guid isPermaLink="false">d-b4ea44cf88aba165</guid>
+<pubDate>Tue, 11 Aug 2026 05:42:01 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Critical review of a $390 737 radio/ATC panel: cheap 3D-printed build quality but works reliably once configured (~13 min read).&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;This hardware bundle comes from the manufacturer Hoowalt based in Hong Kong, who were kind enough to provide me with the product free of charge for this review. The set consists of the D201 as a Radio Tuning Panel (RTP) and the D203, which serves as an ATC unit for entering the squawk code and contr&lt;/p&gt;&lt;p&gt;&lt;em&gt;Flight Simulation · simFlight&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Fountain Pens] Pairings Party: Nahvalur Original Plus Powder Blue, Wearingeul Undine</title>
+<link>https://www.penaddict.com/blog/2026/8/10/pairings-party-nahvalur-original-plus-powder-blue-wearingeul-undine</link>
+<guid isPermaLink="false">d-3747ec26d111423a</guid>
+<pubDate>Tue, 11 Aug 2026 05:42:00 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Hands-on comparison of the Nahvalur Original Plus vacuum-filler against the Pilot Prera, plus a Wearingeul Undine ink pairing.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Even if I’ve reviewed a product before, I like to return to it every few years if the company keeps it in the lineup. It doesn’t have to be changed much, if at all, but I do want to see if anything is different as the product matures. And let’s be clear, I’m a simple man. I see fun colors, I’m inter&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fountain Pens · The Pen Addict&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Hi-Fi] Dump everything you know about HDMI eARC here</title>
+<link>https://www.audiosciencereview.com/forum/index.php?threads/dump-everything-you-know-about-hdmi-earc-here.55559/</link>
+<guid isPermaLink="false">d-4b0a8cd7a98f599f</guid>
+<pubDate>Tue, 11 Aug 2026 05:41:59 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;A teardown of a cheap HDMI eARC audio extractor to see what chips actually make it work.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Hi, 
+As a tangent from another project i recently became interested about HDMI eARC, to the point that I went and read everything about it I could find in the internet. It took me about 30 minutes. 
+Not satisfied, i bought from Aliexpress the cheapest eARC audio extractor that I could find. It is on&lt;/p&gt;&lt;p&gt;&lt;em&gt;Hi-Fi · Audio Science Review (ASR) Forum&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Philosophy] Give me one reason</title>
+<link>https://seths.blog/2026/08/give-me-one-reason/</link>
+<guid isPermaLink="false">d-185eb234aca00f23</guid>
+<pubDate>Tue, 11 Aug 2026 05:41:58 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Rejection letters never give the real reason — read every one as simply 'no' instead of parsing it for lessons.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;When your project, proposal or resume is rejected, it’s tempting to try to understand why. 
+
+ Scrutinize the rejection letter and turn the short sentence into a paragraph or an essay, then play it over and over in your search for how to do better next time. 
+
+ If you can simply answer this rejection&lt;/p&gt;&lt;p&gt;&lt;em&gt;Philosophy · Seth's Blog&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Philosophy] PSA: Know What You’re Doing</title>
+<link>https://www.artofmanliness.com/character/self-improvement/psa-know-what-youre-doing/</link>
+<guid isPermaLink="false">d-d781b8f3fcb2f3dc</guid>
+<pubDate>Tue, 11 Aug 2026 05:41:57 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Short essay on 'social situational awareness' — knowing what you need before you reach the counter.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The comedian Sinbad had a bit where he talks about how much he hates standing in line behind people at McDonald’s. The fact that folks would be hemming and hawing about what to order left Sinbad shaking his head in frustration: “People act like they ain’t ever been to McDonald’s! They got the same m&lt;/p&gt;&lt;p&gt;&lt;em&gt;Philosophy · The Art of Manliness&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Secondaries] Private credit faces rising defaults and weaker returns despite upbeat outlook from managers</title>
+<link>https://www.privateequitywire.co.uk/private-credit-faces-rising-defaults-and-weaker-returns-despite-upbeat-outlook-from-managers/</link>
+<guid isPermaLink="false">d-e06eff7c4e99edd3</guid>
+<pubDate>Tue, 11 Aug 2026 05:41:56 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Non-accrual loans at Ares, Blackstone, Blue Owl and Golub hit 5-year highs; software-loan exposure to AI disruption is the new worry.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Private credit is showing mounting signs of strain, with defaults rising and more borrowers being placed on lenders’ watchlists, even as some of the industry’s largest managers maintain that concerns about the asset class are overstated, according to a report by the Wall Street Journal. 
+ An analysi&lt;/p&gt;&lt;p&gt;&lt;em&gt;Secondaries · Private Equity Wire&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Shoes] How Long Does It Really Take to Make a Pair of Shoes?</title>
+<link>https://theshoesnobblog.com/how-long-does-it-take-to-make-shoes/</link>
+<guid isPermaLink="false">d-41f31da46e57acd2</guid>
+<pubDate>Tue, 11 Aug 2026 05:41:55 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Pushes back on shoemaking marketing myths about hundreds of steps and weeks of untouched sitting time.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;How long does it actually take to make a pair of shoes? If you listen to the marketing surrounding shoemaking, you might believe that every good pair requires hundreds of individual steps, weeks sitting untouched on a...&lt;/p&gt;&lt;p&gt;&lt;em&gt;Shoes · The Shoe Snob&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Sim Racing] iRacing Pro Drivers Face Backlash Over Intentional Top-Split Track Disruption</title>
+<link>https://www.overtake.gg/news/iracing-pro-drivers-face-backlash-over-intentional-top-split-track-disruption.4758/</link>
+<guid isPermaLink="false">d-9cf391bf043cdf91</guid>
+<pubDate>Tue, 11 Aug 2026 05:41:54 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Real-life drivers caught deliberately laying gravel on track before qualifying to disrupt top-split iRacing rivals; community backlash.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Two high-profile real-life drivers and a pro sim racer have come under fire after being seen intentionally running through gravel traps and laying down gravel on the surface before qualifying. 
+ 
+There is no shortage of real-life racing drivers who can be found on iRacing , having fun and mucking ab&lt;/p&gt;&lt;p&gt;&lt;em&gt;Sim Racing · OverTake.gg — News&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Sim Racing] Over The Hill releases on PC October, consoles 2027</title>
+<link>https://traxion.gg/over-the-hill-releases-october-consoles-2027/</link>
+<guid isPermaLink="false">d-ba5c937855b62205</guid>
+<pubDate>Tue, 11 Aug 2026 05:41:53 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Funselektor's co-op overlanding driving game (1.2M Steam wishlists) gets a confirmed October 14 PC release date.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The slow-paced overlanding driving exploration will hit Steam on 14th October 2026, following 1.2 million wishlists. 
+ The post Over The Hill releases on PC October, consoles 2027 appeared first on Traxion.GG .&lt;/p&gt;&lt;p&gt;&lt;em&gt;Sim Racing · Traxion.GG&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Watches] Inside The Manufacture: Making A Tudor: A Behind-The-Scenes Look, From Raw Material To Finished Product [Video]</title>
+<link>https://www.hodinkee.com/articles/making-a-tudor-a-behind-the-scenes-look-from-raw-material-to-finished-product-video</link>
+<guid isPermaLink="false">d-5246600a1045455a</guid>
+<pubDate>Tue, 11 Aug 2026 05:41:52 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;A real behind-the-scenes teardown of how a Tudor gets made, case to dial to movement, across Swiss workshops (~8 min read).&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Earlier this year, Tudor invited a small group of watch media into its Swiss manufacturing network to see what "Swiss Made" actually means in practice—not a one-stop visit in a single day, but the full process from start to finish over multiple days. I've been on plenty of manufacturer tours, and I'&lt;/p&gt;&lt;p&gt;&lt;em&gt;Watches · Hodinkee&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Watches] Introducing – The Ceon GR-01, an Indie Watch Designed and Built in Brazil</title>
+<link>https://monochrome-watches.com/the-ceon-gr-01-an-indie-watch-designed-and-built-in-brazil/</link>
+<guid isPermaLink="false">d-75fda9516a1c2a2c</guid>
+<pubDate>Tue, 11 Aug 2026 05:41:51 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;A solo Brazilian watchmaker's ultra-thin indie debut, with a magnetic clasp made possible by heat-treated steel that turns ferromagnetic.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Independent watchmaking sprouts far beyond well-known centres, and one of the latest examples comes from an unexpected country we largely associate with Carnival, samba, football legends, and the Amazon rainforest. Ceon Watch Co., a new atelier based in Curitiba, Brazil, reveals the GR-01, an ultra-&lt;/p&gt;&lt;p&gt;&lt;em&gt;Watches · Monochrome Watches&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Hi-Fi] Topping DX3 Pro+ Review (DAC &amp; Headphone Amp)</title>
+<link>https://www.audiosciencereview.com/forum/index.php?threads/topping-dx3-pro-review-dac-headphone-amp.27148/</link>
+<guid isPermaLink="false">d-acac4a3f33ab4057</guid>
+<pubDate>Tue, 11 Aug 2026 05:41:50 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Measured review of Topping's $199 DX3 Pro+ DAC/headphone amp, successor to a reviewer favorite.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;This is a review and detailed measurements of the Topping DX3 Pro+ DAC and headphone amplifier. It is a replacement for one of my most favorite combo products, the DX3 Pro. It was sent to me by the company and costs US $199. 
+ 
+The DX3 Pro+ maintains the gorgeous and high contrast orange LEDs which &lt;/p&gt;&lt;p&gt;&lt;em&gt;Hi-Fi · Audio Science Review (ASR) Forum&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>⚠ digest ran Tue 11 Aug 08:42 · 17 picks from 412 · feeds fetched 0h ago</title>
+<link></link>
+<guid isPermaLink="false">hb-202608110842</guid>
+<pubDate>Tue, 11 Aug 2026 05:42:07 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Gap-store fetch is stale — gap-only feeds may be missing.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;412 arrived, 77 shortlisted, 17 published. Gap-store fetched 15h ago. Folders seen: AI, Aviation, Clothing, Dining, Flight Simulation, Fountain Pens, Hi-Fi, Philosophy, Secondaries, Shoes, Sim Racing, Tea, Watches.&lt;/p&gt;</description>
+</item>
 <item>
 <title>[AI] Message your other Claude Code sessions</title>
 <link>https://code.claude.com/docs/en/cross-session-messaging</link>
