@@ -4,8 +4,166 @@
 <title>Digest</title>
 <link>https://github.com/hasanpilot/rss-relay</link>
 <description>Curated from NetNewsWire. One feed, only the keepers.</description>
-<lastBuildDate>Fri, 14 Aug 2026 04:43:26 +0000</lastBuildDate>
+<lastBuildDate>Sat, 15 Aug 2026 05:48:56 +0000</lastBuildDate>
 <generator>feed-digest</generator>
+<item>
+<title>[AI] How Claude’s text watermark works</title>
+<link>https://www.anthropic.com/news/claude-text-watermark</link>
+<guid isPermaLink="false">d-b90e699de5c03816</guid>
+<pubDate>Sat, 15 Aug 2026 05:48:55 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Explains SynthID-style watermarking Anthropic adds to all future Claude output for EU AI Act compliance; no quality or cost impact.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Future Claude models will generate text that contains a watermark. This is a way of determining the likelihood that Claude was involved in writing the text, and we, along with several other major AI providers, are implementing this change to comply with the EU AI Act. In this article, we share answe&lt;/p&gt;&lt;p&gt;&lt;em&gt;AI · Anthropic News&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[AI] Don't classify. Hallucinate!</title>
+<link>https://simonwillison.net/2026/Aug/14/dont-classify-hallucinate/</link>
+<guid isPermaLink="false">d-d8d4bedafdbee086</guid>
+<pubDate>Sat, 15 Aug 2026 05:48:54 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Doug Turnbull's trick: let the LLM invent tags freely, then embedding-match them to your real taxonomy instead of feeding it 1,856 options.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Don't classify. Hallucinate! 
+I still have quite a bit of older content on my blog that I never got round to tagging. My blog has 1,856 tags - likely too many to feed to an LLM in one go and say "which of these tags match the following content". 
+ Doug Turnbull has a neat solution. Tell the model to&lt;/p&gt;&lt;p&gt;&lt;em&gt;AI · Simon Willison's Weblog&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Aviation] FAA proposes Boeing 787 fan cowl fix over risk of dual engine shutdown</title>
+<link>https://www.aerotime.aero/articles/faa-boeing-787-fan-cowl-dual-engine-shutdown</link>
+<guid isPermaLink="false">d-1f17483bf275b54e</guid>
+<pubDate>Sat, 15 Aug 2026 05:48:53 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Proposed AD requires inspecting/modifying the right engine's left fan cowl on 22 US Trent 1000 787s to prevent dual engine shutdown.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The Federal Aviation Administration (FAA) is proposing mandatory fan cowl modifications on certain Boeing 787 Dreamliners after Boeing found that debris from a serious failure of one engine could damage critical components on the other and potentially cause both engines to shut down in flight.  
+
+ T&lt;/p&gt;&lt;p&gt;&lt;em&gt;Aviation · AeroTime&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Coffee] A Magnitude 7.4 Earthquake In Colombia Has Halted Most Coffee Exports</title>
+<link>https://sprudge.com/a-magnitude-7-4-earthquake-in-colombia-has-halted-most-coffee-exports-1265752.html</link>
+<guid isPermaLink="false">d-10c8efd560c1e841</guid>
+<pubDate>Sat, 15 Aug 2026 05:48:52 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;7.4 quake near Cali blocked the road carrying 60% of Colombia's coffee exports and shut the port of Buenaventura for inspection.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;News
+
+On August 11 th , a magnitude 7.4 earthquake hit the western part of Colombia . Striking roughly 200km north of Cali, the earthquake is the largest in the country since 2016 and could be felt in neighboring Ecuador and Panama. There are currently over 250 casualties reported.
+
+Amidst the trage&lt;/p&gt;&lt;p&gt;&lt;em&gt;Coffee · Sprudge Coffee&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Deen] A lil more sacrifice here and imagine what we could have there</title>
+<link>https://www.reddit.com/r/islam/comments/1vo9yw0/a_lil_more_sacrifice_here_and_imagine_what_we/</link>
+<guid isPermaLink="false">d-4eb62119a368defd</guid>
+<pubDate>Sat, 15 Aug 2026 05:48:51 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Short reflection imagining Jannah's endless small joys as motivation for accepting the minor sacrifices asked of us now.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;sometimes i think we need to actually imagine jannah properly instead of thinking of it as this vague place where we just exist forever. like imagine a movie where everything is perfect. you wake up and you have eternity ahead of you. you and your perfect partner and your closest friends decide to j&lt;/p&gt;&lt;p&gt;&lt;em&gt;Deen · r/islam — top weekly&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Hi-Fi] Hifiman Ananda Nano Headphone Review</title>
+<link>https://www.audiosciencereview.com/forum/index.php?threads/hifiman-ananda-nano-headphone-review.53534/</link>
+<guid isPermaLink="false">d-fddc17468b2523b0</guid>
+<pubDate>Sat, 15 Aug 2026 05:48:50 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Independent ASR review and measurements of the $499 Hifiman Ananda Nano, including EQ and fit notes.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;This is a review, listening tests, equalization and detailed measurements of the Hifiman Ananda Nano headphone. It was kindly purchased by a member for testing and costs US $499. 
+ 
+The Nano looks attractive although the feel is not that of luxury. It is a bit light. The forward part of the pad is q&lt;/p&gt;&lt;p&gt;&lt;em&gt;Hi-Fi · Audio Science Review (ASR) Forum&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Perfume] Positive scent memories from early life</title>
+<link>https://nstperfume.com/2026/08/14/positive-scent-memories-from-early-life/</link>
+<guid isPermaLink="false">d-9733e150d2b7a123</guid>
+<pubDate>Sat, 15 Aug 2026 05:48:49 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;PLOS Biology study traces how positive childhood scent memories form in the olfactory bulb and persist into adult emotion.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;A recent study in PLOS Biology explored how positive scent memories from early life form, survive, and change inside the brain. Through a human survey and a series of mouse experiments, the study traces these memories from their first roots in the olfactory bulb to the wider networks that carry thei&lt;/p&gt;&lt;p&gt;&lt;em&gt;Perfume · Now Smell This&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Philosophy] Emotional hygiene</title>
+<link>https://seths.blog/2026/08/emotional-hygiene/</link>
+<guid isPermaLink="false">d-edea78c4af89dfea</guid>
+<pubDate>Sat, 15 Aug 2026 05:48:48 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Short Seth Godin essay: protect your mood by simply skipping activities you already know will wreck it, like doctors washing hands.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;After doing an autopsy at the morgue, it’s a good idea for doctors to wash their hands before delivering babies. 
+
+ A few hundred years ago, Ignaz Semmelweis proved this now-obvious insight about hygiene. Doctors don’t scrub because it’s fun or convenient, they do it because it’s a powerful way to c&lt;/p&gt;&lt;p&gt;&lt;em&gt;Philosophy · Seth's Blog&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Secondaries] SEC zeroes in on private funds valuations</title>
+<link>https://www.buyoutsinsider.com/sec-zeroes-in-on-private-funds-valuations/</link>
+<guid isPermaLink="false">d-7217fa68f8cba203</guid>
+<pubDate>Sat, 15 Aug 2026 05:48:47 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;SEC examiners now name specific private funds in valuation inquiries; enforcement attention on fund valuations is picking up.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Examiners ask about funds by name in opening requests. Enforcement has picked up the scent, too, affiliate title Private Funds CFO has learned.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Secondaries · Buyouts&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Secondaries] Digging In: $15B+ for Private Critical Mineral Firms</title>
+<link>https://www.nasdaqprivatemarket.com/digging-in-15b-for-private-critical-mineral-firms/</link>
+<guid isPermaLink="false">d-91ec37064ea62154</guid>
+<pubDate>Sat, 15 Aug 2026 05:48:46 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;~20 min read — deep dive on $15B+ the US has funneled into critical minerals/battery firms via DoD, DOE, CHIPS and Ex-Im since 2024.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;@import url('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,300..700&amp;amp;family=Geist:wght@300..600&amp;amp;family=Geist+Mono:wght@400..600&amp;amp;display=swap');
+.npmw-article{--ink:#1A1A1A;--body:#1A1A1A;--mut:#8F8F8F;--rule:#E9E9E9;--rule2:#cfc9cc;--card:#F7F6F6;--teal:#068D9D;--teald&lt;/p&gt;&lt;p&gt;&lt;em&gt;Secondaries · Nasdaq Private Market&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Shoes] First Impressions: Ken Diamond OMB</title>
+<link>https://www.reddit.com/r/goodyearwelt/comments/1vnd2q3/first_impressions_ken_diamond_omb/</link>
+<guid isPermaLink="false">d-dbfe350b2bc5125a</guid>
+<pubDate>Sat, 15 Aug 2026 05:48:45 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Detailed first-look at a custom stitchdown wedge boot from bootmaker Ken Diamond in C.F. Stead naked kudu leather, full build breakdown.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Album HNW last C.F. Stead Naked Kudu whiskey leather Lined only in the vamp Horween dark brown horsefront rolled top Unstructured toe Veg tan leather insole and midsole (chocolate colored midsole edge) Wooden shank Cork filling Vibram 2060 Sport brown outsole Ordered May 6, 2025, delivered on August&lt;/p&gt;&lt;p&gt;&lt;em&gt;Shoes · High Quality Footwear&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Sim Racing] Motorsport Games Reports Soaring Growth in Q2 2026 Alongside Tease of New Game Release</title>
+<link>https://www.overtake.gg/news/motorsport-games-reports-soaring-growth-in-q2-2026-alongside-tease-of-new-game-release.4775/</link>
+<guid isPermaLink="false">d-6f4330b4fbbba2aa</guid>
+<pubDate>Sat, 15 Aug 2026 05:48:44 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Le Mans Ultimate's publisher posts 37% revenue growth, sixth straight profitable quarter, half a million DLC units sold.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Motorsport Games has reported a 36.6% year-over-year increase in revenue for the second quarter of 2026, while continuing to invest heavily in Le Mans Ultimate and its RaceControl platform. 
+ 
+ 
+	.bb-highlight &amp;gt; br:first-child {
+ display:none
+	}
+	.bb-highlight &amp;gt; br+.bbHeading { margin-top:0;}
+ 
+ 
+ 
+&lt;/p&gt;&lt;p&gt;&lt;em&gt;Sim Racing · OverTake.gg — News&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Watches] Introducing – The New Kiwame Tokyo Yane</title>
+<link>https://monochrome-watches.com/introducing-kiwame-tokyo-yane-japanese-watchmaking-miyota-6t27-specs-price-pics/</link>
+<guid isPermaLink="false">d-2ab8a8b0a68d7a6a</guid>
+<pubDate>Sat, 15 Aug 2026 05:48:43 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Independent Tokyo microbrand Kiwame launches a 44mm rectangular Art Deco dress watch inspired by temple roofs, $730, pre-orders Aug 19.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Kiwame Tokyo , the independent Japanese microbrand, is something of an anomaly in a country dominated by big players like Seiko , Orient , Citizen and Grand Seiko . Based in Asakusa, the historical centre of Tokyo, the brand founded by Masami Watanabe produces stylish Calatrava-inspired dress watche&lt;/p&gt;&lt;p&gt;&lt;em&gt;Watches · Monochrome Watches&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Watches] Review: the Sinn 544, a Tool Watch for Minimalists</title>
+<link>https://wornandwound.com/review/review-the-sinn-544-a-tool-watch-for-minimalists/</link>
+<guid isPermaLink="false">d-4aedfc009a4b5036</guid>
+<pubDate>Sat, 15 Aug 2026 05:48:42 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Full review of the minimalist Sinn 544 tool watch: bead-blasted case, crownless-feel D3 crown, 200m WR at just 38.5mm.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Simple and sporty. That’s it. That’s the review. Well, sure, I can elaborate. Sinn likes to surprise us on occasion, and in the most Sinn way possible. Not by releasing something high-tech or with a ton of bells and whistles, though they occasionally do that, but rather by releasing something we did&lt;/p&gt;&lt;p&gt;&lt;em&gt;Watches · Worn &amp;amp; Wound&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Aviation] NTSB: Ryanair 737 engine had five suspected bird strikes before blade failure</title>
+<link>https://www.aerotime.aero/articles/ryanair-737-five-bird-strikes-blade-failure</link>
+<guid isPermaLink="false">d-6482dc5bddf1be3f</guid>
+<pubDate>Sat, 15 Aug 2026 05:48:41 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;NTSB: bird remains found in the Ryanair 737 engine that shed a fan blade in July; same engine had 4 prior bird strikes.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Bird remains and feathers were found inside the damaged engine of a Ryanair Boeing 737-800 that was involved in a July 2026 uncontained engine failure over Greece that left a passenger partially pulled through a shattered window, according to a preliminary report from the US National Transportation &lt;/p&gt;&lt;p&gt;&lt;em&gt;Aviation · AeroTime&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Hi-Fi] Bass Response Correction for Klippel NFS Measurements</title>
+<link>https://www.audiosciencereview.com/forum/index.php?threads/bass-response-correction-for-klippel-nfs-measurements.22493/</link>
+<guid isPermaLink="false">d-9de0d184279184cf</guid>
+<pubDate>Sat, 15 Aug 2026 05:48:40 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Reference — increasing mic distance fixes inaccurate Klippel NFS bass/port readings on tower speakers; a technique worth filing.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Almost since I started measuring speakers using Klippel NFS, we have been having trouble with tower speakers and ports. The more drivers, the more ports, the worse the results there. A few months ago I experimented and realized that increasing the microphone distance from the speaker helps fair bit.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Hi-Fi · Audio Science Review (ASR) Forum&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Shoes] Review: Edward Green Galway in cordovan and brown utah.</title>
+<link>https://www.reddit.com/r/goodyearwelt/comments/1vmu3wf/review_edward_green_galway_in_cordovan_and_brown/</link>
+<guid isPermaLink="false">d-02fef9da01f9f3f6</guid>
+<pubDate>Sat, 15 Aug 2026 05:48:39 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;First impressions of Edward Green's Galway boot in burgundy shell cordovan vs Kentmeres, on the 202 last.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Picked these up from Gentlemen’s Footwear during their current sale and wanted to share some first impressions. https://gentlemensfootwear.com/pages/last-pairs?srsltid=AfmBOorND2a_S7aMS1_pTc83ruqcnqoXc3LNiwS3WXdNt03XBoiYk91U Specs: Edward Green Galway 202 last UK 9F Burgundy shell cordovan Dark brow&lt;/p&gt;&lt;p&gt;&lt;em&gt;Shoes · High Quality Footwear&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Sim Racing] iRacing Companion App 3.0 Launches With a Major Redesign</title>
+<link>https://www.overtake.gg/news/iracing-companion-app-3-0-launches-with-a-major-redesign.4773/</link>
+<guid isPermaLink="false">d-806a8bde3f865e19</guid>
+<pubDate>Sat, 15 Aug 2026 05:48:38 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;iRacing's mobile companion app hits 3.0 with a redesigned interface, expanding into a real account-management extension of the sim.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;iRacing released version 3.0 of its mobile companion app, bringing a major redesign and expanding its role as a way for members to manage their iRacing accounts outside the simulator. 
+ 
+For experienced iRacers, the companion app has increasingly become a useful extension of the main iRacing service&lt;/p&gt;&lt;p&gt;&lt;em&gt;Sim Racing · OverTake.gg — News&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>⚠ digest ran Sat 15 Aug 08:48 · 18 picks from 458 · feeds fetched 0h ago</title>
+<link></link>
+<guid isPermaLink="false">hb-202608150848</guid>
+<pubDate>Sat, 15 Aug 2026 05:48:56 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Gap-store fetch is stale — gap-only feeds may be missing.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;458 arrived, 110 shortlisted, 18 published. Gap-store fetched 15h ago. Folders seen: AI, Aviation, Clothing, Coffee, Deen, Dining, Flight Simulation, Fountain Pens, Hi-Fi, Perfume, Philosophy, Secondaries, Shoes, Sim Racing, Watches.&lt;/p&gt;</description>
+</item>
 <item>
 <title>[AI] Learning more about Claude's mathematical capabilities</title>
 <link>https://www.anthropic.com/research/riemann-zeta</link>
@@ -2046,139 +2204,6 @@ It follows a &lt;/p&gt;&lt;p&gt;&lt;em&gt;Sim Racing · Traxion.GG&lt;/em&gt;&lt
 <guid isPermaLink="false">d-de1423c6ce5f81d7</guid>
 <pubDate>Tue, 28 Jul 2026 13:21:46 +0000</pubDate>
 <description>&lt;p&gt;&lt;strong&gt;The Ulysse Nardin Blast Moonstruck returns — Oechslin's astronomical complication, the piece that defined the manufacture's identity.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Astronomical watches are part of Ulysse Nardin‘s identity, and Dr Ludwig Oechslin, like no other, shaped this chapter of the manufacture’s history. Shortly after entrepreneur Rolf Schnyder acquired the brand in 1983, he challenged the Swiss astronomer, mathematician and watchmaker to create a wristw&lt;/p&gt;&lt;p&gt;&lt;em&gt;Watches · Monochrome Watches&lt;/em&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Watches] Delugs and Vacheron Constantin: A Simple Partnership That Speaks Volumes</title>
-<link>https://delugs.com/blogs/news/delugs-and-vacheron-constantin-a-simple-partnership-that-speaks-volumes</link>
-<guid isPermaLink="false">d-c3fdc91f7cf34ba1</guid>
-<pubDate>Tue, 28 Jul 2026 13:21:45 +0000</pubDate>
-<description>&lt;p&gt;&lt;strong&gt;Delugs has collaborated with Vacheron Constantin — a notable step up for a strap maker you already follow.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;In our latest collaboration with Vacheron Constantin, we asked ourselves two questions: Could a strap do more than just hold a watch to your wrist? Could it honour centuries of horological excellence, pay tribute to national heritage and elevate the wearing experience through thoughtful design and u&lt;/p&gt;&lt;p&gt;&lt;em&gt;Watches · Delugs - Blog · published Jul 2025&lt;/em&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Shoes] Picture special – Catella Shoemaker seamless faux adelaide</title>
-<link>https://shoegazing.com/2026/05/22/picture-special-catella-shoemaker-seamless-faux-adelaide/</link>
-<guid isPermaLink="false">d-2881c0d3bb42ccc5</guid>
-<pubDate>Tue, 28 Jul 2026 13:21:44 +0000</pubDate>
-<description>&lt;p&gt;&lt;strong&gt;Picture special on a bespoke seamless faux adelaide by Catella — one of the harder patterns to execute without a seam.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;My latest new pair is a bespoke seamless faux adelaide in a lovely medium brown suede, made by Catella Shoemaker. Shoes made to the absolute highest level possible. In this article there’s loads of photos as well as films of both the making and the final pair. As Shoegazing readers likely know by no&lt;/p&gt;&lt;p&gt;&lt;em&gt;Shoes · Shoegazing.com · published May 2026&lt;/em&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Cinema] “I use musical theory to shoot an action sequence”: an exclusive online interview with John Woo</title>
-<link>https://www.bfi.org.uk/interviews/john-woo-better-tomorrow-killer-hard-boiled</link>
-<guid isPermaLink="false">d-98df8dc64e696a9e</guid>
-<pubDate>Tue, 28 Jul 2026 13:21:43 +0000</pubDate>
-<description>&lt;p&gt;&lt;strong&gt;BFI exclusive with John Woo on using musical theory to structure an action sequence.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;John Woo set a new high bar for action cinema in the 1980s and 90s, leaving Hollywood rushing to catch up. Now his Hong Kong masterpieces have emerged from long-term unavailability, Woo reflects on the development of his electrifying style, his star collaborations with Tom Cruise and John Travolta, &lt;/p&gt;&lt;p&gt;&lt;em&gt;Cinema · BFI | Features and reviews&lt;/em&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>✓ digest ran Tue 28 Jul 16:21 · 15 picks from 2080 · feeds fetched 0h ago</title>
-<link></link>
-<guid isPermaLink="false">hb-202607281621</guid>
-<pubDate>Tue, 28 Jul 2026 13:21:58 +0000</pubDate>
-<description>&lt;p&gt;&lt;strong&gt;Run 2. First issue where the terse feeds could compete — OPSGROUP, EASA, Leeham, Aerossurance and The Air Current were structurally invisible until the per-feed round-robin fix. Aviation now leads on merit rather than on body length.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;2080 arrived, 220 shortlisted, 15 published. Folders seen: Aviation, Books, Chocolate, Cinema, Clothing, Coffee, Cooking, Deen, Flight Simulation, Fountain Pens, Hi-Fi, Home, Houseplants, Newsletters, Paintings, Perfume, Shoes, Sim Racing, Smart Home, Tea, Watches, ⚠ Unverified — site blocks automated checks.&lt;/p&gt;</description>
-</item>
-<item>
-<title>✓ digest ran Tue 28 Jul 14:46 · 0 picks from 0 · feeds fetched 2h ago</title>
-<link></link>
-<guid isPermaLink="false">hb-202607281446</guid>
-<pubDate>Tue, 28 Jul 2026 11:46:37 +0000</pubDate>
-<description>&lt;p&gt;&lt;strong&gt;no candidates&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;0 arrived, 0 shortlisted, 0 published. Folders seen: .&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Aviation] FSF Warns of Rising Risk in Mixed-Use Airspace Near Busy Airports</title>
-<link>https://flightsafety.org/fsf-warns-of-rising-risk-in-mixed-use-airspace-near-busy-airports/</link>
-<guid isPermaLink="false">d-ff2e1bfe66f65105</guid>
-<pubDate>Tue, 28 Jul 2026 11:37:37 +0000</pubDate>
-<description>&lt;p&gt;&lt;strong&gt;FSF says traditional and uncrewed traffic mixing near busy airports is outpacing current separation practice — relevant to line ops, not just policy.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;ALEXANDRIA, Virginia — Increasing operational complexity and growing demand from traditional and nontraditional operators is putting ever greater pressure on the aviation safety ecosystem, Flight Safety Foundation warned today in releasing its 2025 Safety Report . The industry must respond with clea&lt;/p&gt;&lt;p&gt;&lt;em&gt;Aviation · Flight Safety Foundation · published Feb 2026&lt;/em&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Aviation] Foundation Unveils Seven Principles of Aviation Safety Leadership</title>
-<link>https://flightsafety.org/foundation-unveils-seven-principles-of-aviation-safety-leadership/</link>
-<guid isPermaLink="false">d-dcb4f338037c7daf</guid>
-<pubDate>Tue, 28 Jul 2026 11:37:36 +0000</pubDate>
-<description>&lt;p&gt;&lt;strong&gt;Flight Safety Foundation's new seven-principle safety leadership framework — directly usable material for the instructor/evaluator track.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;ALEXANDRIA, Va. — Flight Safety Foundation today unveiled the “ Seven Essential Principles of Aviation Safety Leadership ,” a practical framework to help aviation organizations embed safety into governance, culture, and strategy — from the boardroom to the front line. Rooted in decades of global res&lt;/p&gt;&lt;p&gt;&lt;em&gt;Aviation · Flight Safety Foundation · published Oct 2025&lt;/em&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Coffee] WHAT CHANGED IN COFFEE OVER THE PAST 30 YEARS?</title>
-<link>https://www.scottrao.com/blog/2023/10/6/what-changed-in-coffee-over-the-past-30-years</link>
-<guid isPermaLink="false">d-ec3fc424e38cfe98</guid>
-<pubDate>Tue, 28 Jul 2026 11:37:35 +0000</pubDate>
-<description>&lt;p&gt;&lt;strong&gt;Rao's 30-year retrospective on what actually changed in specialty coffee, written as answers to two questions he was asked in Rotterdam.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;When I was in Rotterdam in August, I had coffee with my friend Han. She asked me two interesting questions when I told her I had been in coffee for 30 years: What changed over the past 30 years? What beliefs did you once hold and decide were wrong? Those questions seemed like the basis for an intere&lt;/p&gt;&lt;p&gt;&lt;em&gt;Coffee · Q&amp;amp;A Coffee Podcast with Scott Rao · published Oct 2023&lt;/em&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Coffee] Dialing In, Decoded: How Electrochemistry Helps Us Understand Espresso Extraction | 25, Issue 25</title>
-<link>https://sca.coffee/sca-news/25/issue-25-research-dialing-in-decoded-efd8g</link>
-<guid isPermaLink="false">d-d9d2d9e313f6db32</guid>
-<pubDate>Tue, 28 Jul 2026 11:37:34 +0000</pubDate>
-<description>&lt;p&gt;&lt;strong&gt;SCA on the Hendon lab using electrochemistry to measure espresso extraction — a genuinely new instrument for dialling in, not another ratio argument.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The SCA’s Content Development Manager, Laurel Carmichael , speaks to researchers at the Hendon Coffee Lab about their chemistry lab that looks like a café, and about how they use electrochemistry and Design of Experiments to better understand the complexities of espresso extraction. Photo credits: H&lt;/p&gt;&lt;p&gt;&lt;em&gt;Coffee · SCA News - Specialty Coffee Association · published Apr 2026&lt;/em&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Tea] Matcha Shortage | Part 2: Current Situation and the Future</title>
-<link>https://www.tezumi.com/blogs/tezumi-insights/matcha-shortage-part-2-current-situation-and-the-future</link>
-<guid isPermaLink="false">d-89e66ae87b6dc08e</guid>
-<pubDate>Tue, 28 Jul 2026 11:37:33 +0000</pubDate>
-<description>&lt;p&gt;&lt;strong&gt;Part two of the matcha shortage explainer: where supply actually stands now and what the trade expects next.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;In Part 1 , I did my best to summarise 800 or so years of matcha production in order to provide the relevant context to understand the current supply chain and shortage scenario. So now, let’s look at how the 2024 demand surge stressed this supply chain and how this stress has affected 2025 matcha h&lt;/p&gt;&lt;p&gt;&lt;em&gt;Tea · Tezumi - Tezumi Insights · published Dec 2025&lt;/em&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Tea] How Sencha is Made, Part 1: Cultivation and Harvest</title>
-<link>https://www.tezumi.com/blogs/tezumi-insights/how-sencha-is-made-part-1-cultivation-and-harvest</link>
-<guid isPermaLink="false">d-9d2301eabfe1e0e6</guid>
-<pubDate>Tue, 28 Jul 2026 11:37:32 +0000</pubDate>
-<description>&lt;p&gt;&lt;strong&gt;How sencha is grown and harvested, from the 1738 Nagatani method forward — the cultivation half of why one sencha differs from another.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Since the earliest form of sencha was developed in 1738 by Nagatani Soen (永谷宗円), it has become by far the most popular type of Japanese tea, comprising around 60% of Japan’s tea production. Sencha is classically made from unshaded first flush leaves, which are immediately steamed to prevent oxidatio&lt;/p&gt;&lt;p&gt;&lt;em&gt;Tea · Tezumi - Tezumi Insights · published May 2023&lt;/em&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Watches] Micro-Adjust CTS Deployant Clasp — The Technical Side</title>
-<link>https://delugs.com/blogs/news/micro-adjust-cts-deployant-clasp-the-technical-side</link>
-<guid isPermaLink="false">d-96b64060ef171707</guid>
-<pubDate>Tue, 28 Jul 2026 11:37:31 +0000</pubDate>
-<description>&lt;p&gt;&lt;strong&gt;Delugs on the engineering of micro-adjust deployant clasps — why the problem is hard and what the CTS mechanism actually does.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The problem worth solving One of the most familiar and useful features of a traditional leather strap is also one of the simplest: The row of sizing holes. Those holes do more than accommodate different wrist sizes. They also allow the wearer to make quick adjustments throughout the day, whether for&lt;/p&gt;&lt;p&gt;&lt;em&gt;Watches · Delugs - Blog · published Apr 2026&lt;/em&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Watches] J.N. Shapiro: Building America’s Watch Renaissance</title>
-<link>https://delugs.com/blogs/news/jn-shapiro-building-america-s-watch-renaissance</link>
-<guid isPermaLink="false">d-49bb9772c3f88ff5</guid>
-<pubDate>Tue, 28 Jul 2026 11:37:30 +0000</pubDate>
-<description>&lt;p&gt;&lt;strong&gt;J.N. Shapiro on reviving American watchmaking end-to-end, including in-house guilloche and hairsprings — a rare full-stack independent.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;In an industry dominated by Swiss heritage and tradition, Joshua Shapiro represents something remarkable—the successful revival of an entire national watchmaking tradition that had been declared dead for over half a century. What began as an educator's hobby, inspired by a George Daniels book and 10&lt;/p&gt;&lt;p&gt;&lt;em&gt;Watches · Delugs - Blog · published Jul 2025&lt;/em&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Hi-Fi] Cayin’s CP6 puts a real tube stage in a portable CD player</title>
-<link>https://darko.audio/2026/07/cayins-cp6-puts-a-real-tube-stage-in-a-portable-cd-player/</link>
-<guid isPermaLink="false">d-e2cb027b3d3a873c</guid>
-<pubDate>Tue, 28 Jul 2026 11:37:29 +0000</pubDate>
-<description>&lt;p&gt;&lt;strong&gt;Cayin's CP6 is a battery-powered portable CD player with a real tube output stage — an odd, specific object worth knowing exists.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Portable CD players keep on coming. And out of China. The latest is the Cayin CP6, a battery-powered CD player with a proper tube stage built into its headphone and line-level outputs. Cayin’s been building tube gear for decades. This isn’t their first rodeo. Two tubes Two Raytheon JAN6418 pentodes &lt;/p&gt;&lt;p&gt;&lt;em&gt;Hi-Fi · Darko.Audio&lt;/em&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Hi-Fi] Talk Talk’s The Colour of Spring gets the half-speed remaster treatment</title>
-<link>https://darko.audio/2026/07/talk-talks-the-colour-of-spring-gets-the-half-speed-remaster-treatment/</link>
-<guid isPermaLink="false">d-0c65dd303267b910</guid>
-<pubDate>Tue, 28 Jul 2026 11:37:28 +0000</pubDate>
-<description>&lt;p&gt;&lt;strong&gt;Talk Talk's The Colour of Spring gets a half-speed remaster, joining Spirit of Eden and It's My Life in the reissue run.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Talk Talk’s third album is next in line for the half-speed remaster treatment, joining Spirit of Eden and It’s My Life in the band’s ongoing reissue campaign. A newly remastered Colour of Spring arrives (appropriately) in the early Autumn, on vinyl via Parlophone. The new edition was cut by Matt […]&lt;/p&gt;&lt;p&gt;&lt;em&gt;Hi-Fi · Darko.Audio&lt;/em&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Chocolate] Tradition in every layer – Feitoria do Cacao</title>
-<link>https://www.chocolateawards.com/competitions/european-bean-to-bar/tradition-in-every-layer-feitoria-do-cacao/</link>
-<guid isPermaLink="false">d-21e93a8e0eb08ebb</guid>
-<pubDate>Tue, 28 Jul 2026 11:37:27 +0000</pubDate>
-<description>&lt;p&gt;&lt;strong&gt;Feitoria do Cacao interview from June — a bean-to-bar maker arguing that maker wellbeing is upstream of chocolate quality.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Tradition in Every Layer – Interview with Feitoria do Cacao 25 June, 2026 European Bean to Bar "If we are not happy, we can never create the kind of chocolate that brings pleasure to others." Sue &amp;amp; Tomoko - Feitoria do Cacao As Portugal’s first bean-to-bar chocolate maker, Feitoria do Cacao has spen&lt;/p&gt;&lt;p&gt;&lt;em&gt;Chocolate · Chocolate Awards&lt;/em&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Smart Home] The Lost Wilderness of Technology: From AltaVista to Local AI Smart Homes</title>
-<link>https://community.home-assistant.io/t/the-lost-wilderness-of-technology-from-altavista-to-local-ai-smart-homes/1019044</link>
-<guid isPermaLink="false">d-a55f2154fa767e2e</guid>
-<pubDate>Tue, 28 Jul 2026 11:37:26 +0000</pubDate>
-<description>&lt;p&gt;&lt;strong&gt;Home Assistant essay on local AI as the return of an open, un-brokered internet — an argument about where the platform is heading.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We are not visitors here. We belong to it, and it belongs to us. Author’s Note I wrote this after thinking about how every generation remembers its own “golden age” of technology. Perhaps what we truly miss isn’t the technology itself, but the sense that it still belonged to us. A personal reflectio&lt;/p&gt;&lt;p&gt;&lt;em&gt;Smart Home · Home Assistant Community - Latest topics&lt;/em&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Smart Home] Kincmo No-Drill Smart Blinds w/ Matter over Thread (review)</title>
-<link>https://homekitnews.com/2026/07/20/kincmo-no-drill-smart-blinds-w-matter-over-thread-review/</link>
-<guid isPermaLink="false">d-116329e099d6dbd4</guid>
-<pubDate>Tue, 28 Jul 2026 11:37:25 +0000</pubDate>
-<description>&lt;p&gt;&lt;strong&gt;No-drill smart blinds running Matter over Thread, reviewed against the four other blind systems the author has installed since 2022.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Since testing my first set of custom smart blinds in 2022, Omnia’s HomeKit over Thread MotionBlinds, I’ve reviewed blinds from several other manufacturers, including SmartWings, SmartWave, and Bringnox, all of which have supported Matter over Thread. Now it’s Kincmo’s turn, after the company approac&lt;/p&gt;&lt;p&gt;&lt;em&gt;Smart Home · Homekit News and Reviews&lt;/em&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Flight Simulation] A220-100 will not be a free update like Ini/Synaptic promised</title>
-<link>https://www.reddit.com/r/flightsim/comments/1v8ca77/a220100_will_not_be_a_free_update_like/</link>
-<guid isPermaLink="false">d-ba7ab70a83be1bb3</guid>
-<pubDate>Tue, 28 Jul 2026 11:37:24 +0000</pubDate>
-<description>&lt;p&gt;&lt;strong&gt;Ini/Synaptic quietly edited a 2025 dev update so the A220-100 is no longer a free upgrade — affects whether the base pack is worth buying.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Pretty shady practice by the Ini/Synaptic dev team to silently update a dev update from April 2025 and not say anything about the -100 not being a free update anymore. Not great for those who are under the assumption A220 releasing tomorrow would include both the -100 and -300 variant First screensh&lt;/p&gt;&lt;p&gt;&lt;em&gt;Flight Simulation · r/flightsim - All flight sim related discussion welcome&lt;/em&gt;&lt;/p&gt;</description>
 </item>
 </channel>
 </rss>
