@@ -4,8 +4,163 @@
 <title>Digest</title>
 <link>https://github.com/hasanpilot/rss-relay</link>
 <description>Curated from NetNewsWire. One feed, only the keepers.</description>
-<lastBuildDate>Sat, 15 Aug 2026 05:48:56 +0000</lastBuildDate>
+<lastBuildDate>Sun, 16 Aug 2026 06:59:00 +0000</lastBuildDate>
 <generator>feed-digest</generator>
+<item>
+<title>[AI] Maximizing the value of your Claude Code sessions</title>
+<link>https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions</link>
+<guid isPermaLink="false">d-5bf860bd28b52392</guid>
+<pubDate>Sun, 16 Aug 2026 06:53:44 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Anthropic explains prompt-cache mechanics and gives concrete techniques (/clear, /compact, @-mention) to cut Claude Code token costs.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;How to run efficient sessions that get the most value from every token.
+
+Category Claude Code Enterprise AI
+
+Product Claude Code
+
+Date August 14, 2026
+
+Reading time 5 min
+
+Share Copy link https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions
+
+Author(s) Lydia Hallie
+
+TL;DR
+
+Run /c&lt;/p&gt;&lt;p&gt;&lt;em&gt;AI · Hacker News - Newest: ""Claude" "Anthropic""&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[AI] CORS Chat</title>
+<link>https://simonwillison.net/2026/Aug/15/cors-chat/</link>
+<guid isPermaLink="false">d-99d6c84f827d8964</guid>
+<pubDate>Sun, 16 Aug 2026 06:53:43 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Simon built a web UI for testing local/OpenRouter chat endpoints that live-renders SVGs while tokens stream in.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Tool: CORS Chat 
+ I built this today ( with GPT-5.6-Sol xhigh ) to help test Qwen 3.8 27B running in LM Studio on both my M5 MacBook Pro and an NVIDIA DGX Spark. 
+ It provides a web UI for exercising an OpenAI-Responses-compatible chat endpoint. I've tried it against LM Studio with the --cors option&lt;/p&gt;&lt;p&gt;&lt;em&gt;AI · Simon Willison's Weblog&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Aviation] Accident: Vietnam B789 at Munich on Aug 15th 2026, late rotation, tailstrike, runway overrun, tyre damage</title>
+<link>https://avherald.com/h?article=53da99f6</link>
+<guid isPermaLink="false">d-b364083fb60997b6</guid>
+<pubDate>Sun, 16 Aug 2026 06:53:42 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Vietnam Airlines 787 rotated late, struck its tail, then overran the runway on landing at Munich; runway closed, tyre damage.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;A Vietnam Airlines Boeing 787-9, registration VN-A867 performing flight VN-34 from Munich (Germany) to Hanoi (Vietnam), was departing Munich's runway 26L when huge clouds of dust and dirt rose when the aircraft rotated very late and became airborne, the tail struck the ground. The aircraft climbed t&lt;/p&gt;&lt;p&gt;&lt;em&gt;Aviation · The Aviation Herald&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Deen] Dua to say in sujood for forgiveness of sins</title>
+<link>https://www.reddit.com/r/islam/comments/1vo5th8/dua_to_say_in_sujood_for_forgiveness_of_sins/</link>
+<guid isPermaLink="false">d-770105fa420e3a4d</guid>
+<pubDate>Sun, 16 Aug 2026 06:53:41 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Short, sourced dua from Sahih Muslim: seeking forgiveness for all sins, small and great, first and last, open and secret.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Abu Huraira reported: The Messenger of Allah (ﷺ) used to say while prostrating himself: O Lord, forgive me all my sins, small and great, first and last, open and secret. Sahih Muslim 483 submitted by /u/Playful_Teaching_343 [link] [comments]&lt;/p&gt;&lt;p&gt;&lt;em&gt;Deen · r/islam — top weekly&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Flight Simulation] MSFS2024 – Sim Update 6 v1.8.14.0</title>
+<link>https://www.simflight.com/2026/08/15/msfs2024-sim-update-6-v1-8-14-0/</link>
+<guid isPermaLink="false">d-3b9ce3a9899bb3d1</guid>
+<pubDate>Sun, 16 Aug 2026 06:53:40 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;MSFS2024's Sim Update 6 is live: bush trips return, DLSS 4.5 support, many aircraft updates, and a big batch of bug fixes.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Finally the Sim Update 6 for MSFS2024 is online. Since a several day’s. Many YouTube users did make post about it. Here you can read all the new content and features and bug fixes . Way to many to mention it here. 
+
+ As they say: “include the return of bush trips, support for Nvidia DLSS 4.5, update&lt;/p&gt;&lt;p&gt;&lt;em&gt;Flight Simulation · simFlight&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Flight Simulation] ChasePlane’s Spotting Feature Now Fully Rolled Out for MSFS 2024</title>
+<link>https://thresholdx.net/chaseplanes-spotting-feature-fully-rolled-out-for-msfs-2024/</link>
+<guid isPermaLink="false">d-edd0b419dbbdf022</guid>
+<pubDate>Sun, 16 Aug 2026 06:53:39 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;ChasePlane's Spotting feature fully rolled out: track and record AI traffic, ships and animals, plus a new browser remote UI.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Following the initial announcement on August 3, Parallel 42 has now completed the rollout of ChasePlane’s latest update for Microsoft Flight Simulator 2024, notably releasing the “Spotting” feature to all users. 
+ 
+ Spotting allows ChasePlane users to find and track AI aircraft, helicopters, balloon&lt;/p&gt;&lt;p&gt;&lt;em&gt;Flight Simulation · Threshold&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Fountain Pens] Ask TGS:  Are Leather or Fabric Pen Cases "Better" for your Pens?</title>
+<link>https://www.gentlemanstationer.com/blog/2026/8/15/ask-tgs-are-leather-or-cloth-pen-cases-better-for-your-pens</link>
+<guid isPermaLink="false">d-42f2a6d32b38a538</guid>
+<pubDate>Sun, 16 Aug 2026 06:53:38 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Independent breakdown of leather vs. fabric pen cases — durability, patina, and what actually counts as 'damage' to a pen.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Four cases I’m currently using, in a mix of leather and fabric, clockwise from top left: Craft Design Technology Pen Pouch , Soolla Studio Pouch , Nagasawa Kip Leather 10-Pen Folio , and a Rickshaw Fillmore . 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+
+ Though it initially struck me as a somewhat odd question, I get asked &lt;/p&gt;&lt;p&gt;&lt;em&gt;Fountain Pens · The Gentleman Stationer&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Hi-Fi] Does Op-amp Rolling Work?</title>
+<link>https://www.audiosciencereview.com/forum/index.php?threads/does-op-amp-rolling-work.61518/</link>
+<guid isPermaLink="false">d-fcca365a671e4772</guid>
+<pubDate>Sun, 16 Aug 2026 06:53:37 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;ASR retests whether swapping op-amps changes a DAC/amp's sound after viewer pushback — same null result as before.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;When I post my last video on review of Douk A5 amplifier , I mentioned that rolling (changing) op-amp ICs in there is fruitless. I got have a dozen comments under that video in youtube asking why so I thought I experiment again with the A5. Note that I have done the same testing with both DACs and P&lt;/p&gt;&lt;p&gt;&lt;em&gt;Hi-Fi · Audio Science Review (ASR) Forum&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Philosophy] Short term dumb, long term smart</title>
+<link>https://seths.blog/2026/08/short-term-dumb-long-term-smart/</link>
+<guid isPermaLink="false">d-1f3e3e4b16683740</guid>
+<pubDate>Sun, 16 Aug 2026 06:53:36 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Short Seth Godin essay: we're bad at anything new until culture normalizes it — patience matters more than instinct.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Culture provides scaffolding, and learning happens over time. 
+
+ The result is that we’re each capable of extraordinary feats. People can fly planes, ski down mountains, figure out how to use Photoshop or a solve a crossword puzzle. 
+
+ But… 
+
+ Most people only exhibit this skill when there’s months &lt;/p&gt;&lt;p&gt;&lt;em&gt;Philosophy · Seth's Blog&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Shoes] The tip – Handling light streaks and compressed suede</title>
+<link>https://shoegazing.com/2026/08/15/the-tip-handling-light-streaks-and-compressed-suede/</link>
+<guid isPermaLink="false">d-42edeb53e2642487</guid>
+<pubDate>Sun, 16 Aug 2026 06:53:35 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Explains why suede shows light streaks at creases and goes flat in storage, and how brushing/dampening actually fixes it.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The nappy surface of suede is very different from regular smooth leather, and people often seem to have less knowledge about some of its special characteristics. Two such things are the light streaks that commonly appear where the shoes bend, and how the nap can become completely flat after, for exa&lt;/p&gt;&lt;p&gt;&lt;em&gt;Shoes · Shoegazing.com&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Sim Racing] New RSF Richard Burns Rally mod update adds historic Sanremo and RAC rally stages, plus ‘94 WRC season</title>
+<link>https://traxion.gg/new-rsf-richard-burns-rally-mod-update-adds-historic-sanremo-and-rac-rally-stages-plus-94-wrc-season/</link>
+<guid isPermaLink="false">d-30d64e4ae91691a5</guid>
+<pubDate>Sun, 16 Aug 2026 06:53:34 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;New RSF mod for Richard Burns Rally adds historic Sanremo and RAC stages plus a full 1994 WRC rally season.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;A new RSF update for RBR has been released, adding classic Rallye Sanremo and RAC Rally stages to the game, alongside a1994-based Rally Season mode. 
+ The post New RSF Richard Burns Rally mod update adds historic Sanremo and RAC rally stages, plus ‘94 WRC season appeared first on Traxion.GG .&lt;/p&gt;&lt;p&gt;&lt;em&gt;Sim Racing · Traxion.GG&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Watches] The Petrolhead Corner – Singer and Louis Vuitton Go To Extremes With Two Bespoke Porsche 911s</title>
+<link>https://monochrome-watches.com/the-petrolhead-corner-porsche-911-reimagined-by-singer-vehicle-design-louis-vuitton-lv-01-classic-lv-02-classic-turbo-tambour/</link>
+<guid isPermaLink="false">d-33540b5e08565a83</guid>
+<pubDate>Sun, 16 Aug 2026 06:53:33 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Singer and Louis Vuitton built two bespoke Porsche 911 restomods with Tambour-inspired dashboard clocks and a matching wristwatch.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Collaborations between watch companies and other industries come in all shapes and sizes, and extend well beyond the usual realms of fashion and art. We’ve seen pretty much anything we’d say, but every now and then, one comes along that surprises us, regardless of how natural the connection might be&lt;/p&gt;&lt;p&gt;&lt;em&gt;Watches · Monochrome Watches&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Watches] Kiwame Tokyo Yane draws inspiration from the temple roofs of Asakusa</title>
+<link>http://www.timeandwatches.com/2026/08/kiwame-tokyo-yane-kuro-enji.html</link>
+<guid isPermaLink="false">d-0b37f8f91fbe1773</guid>
+<pubDate>Sun, 16 Aug 2026 06:53:32 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;New Kiwame Tokyo Yane watch takes its case and dial design from Asakusa temple roof architecture; $730, preorders open Aug 19.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Kiwame Tokyo introduces Yane , a watch whose design takes its cues from the traditional temple roofs of Asakusa, the Tokyo district where the independent brand was born. The name Yane, meaning “roof” in Japanese, refers not to a single architectural feature but to the characteristic forms of traditi&lt;/p&gt;&lt;p&gt;&lt;em&gt;Watches · Time and Watches&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Aviation] Incident: American B738 and American B738 at Phoenix on Aug 13th 2026, two aircraft same callsign one on departure one on arrival</title>
+<link>https://avherald.com/h?article=53da5ce0</link>
+<guid isPermaLink="false">d-7b5d4473f265f8ae</guid>
+<pubDate>Sun, 16 Aug 2026 06:53:31 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Two American 737s sharing flight number AA-2482 nearly collided over Phoenix on crossing paths; a 25-year controller called it unprecedented.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;An American Airlines Boeing 737-800, registration N925AN performing flight AA-2482 from Phoenix,AZ to Chicago O'Hare,IL (USA), was climbing out of Phoenix's runway 07L cleared to climb to 9000 feet. An American Airlines Boeing 737-800, registration N946NN performing flight AA-2482 from Chicago O'Har&lt;/p&gt;&lt;p&gt;&lt;em&gt;Aviation · The Aviation Herald&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Hi-Fi] Lab Gruppen FP 10000Q 4-Ch Amp Clone Review</title>
+<link>https://www.audiosciencereview.com/forum/index.php?threads/lab-gruppen-fp-10000q-4-ch-amp-clone-review.71683/</link>
+<guid isPermaLink="false">d-eae11097fde7ea1c</guid>
+<pubDate>Sun, 16 Aug 2026 06:53:30 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Measured review of an $800 clone of the $2,850 Lab Gruppen FP10000Q pro amp — how close it actually gets.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;This is a review and detailed measurements of a clone implementation of the Lab Gruppen FP10000Q four channel amplifier. The real one costs about US $2,850. The clone version was kindly send to me by a member and costs around $800. 
+ 
+I get a kick out of them not putting the label in the provided sp&lt;/p&gt;&lt;p&gt;&lt;em&gt;Hi-Fi · Audio Science Review (ASR) Forum&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>⚠ digest ran Sun 16 Aug 09:59 · 15 picks from 352 · feeds fetched 0h ago</title>
+<link></link>
+<guid isPermaLink="false">hb-202608160959</guid>
+<pubDate>Sun, 16 Aug 2026 06:53:45 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Gap-store fetch is stale — gap-only feeds may be missing.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;352 arrived, 86 shortlisted, 15 published. Gap-store fetched 16h ago. Folders seen: AI, Aviation, Coffee, Deen, Dining, Flight Simulation, Fountain Pens, Hi-Fi, Perfume, Philosophy, Secondaries, Shoes, Sim Racing, Watches.&lt;/p&gt;</description>
+</item>
 <item>
 <title>[AI] How Claude’s text watermark works</title>
 <link>https://www.anthropic.com/news/claude-text-watermark</link>
@@ -2092,118 +2247,6 @@ It follows a &lt;/p&gt;&lt;p&gt;&lt;em&gt;Sim Racing · Traxion.GG&lt;/em&gt;&lt
 <guid isPermaLink="false">d-feb4f8837805b9b4</guid>
 <pubDate>Wed, 29 Jul 2026 01:31:20 +0000</pubDate>
 <description>&lt;p&gt;&lt;strong&gt;OpenAI's first hardware is reportedly a screenless smart speaker co-designed with Jony Ive, a phone said to follow next year.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;OpenAI's hardware roadmap has sharpened considerably in recent months, with its first device now identified, a smartphone said to be arriving as soon as next year, and a wider lineup taking shape behind them. AI Smart Speaker OpenAI's first product is a portable, screenless smart speaker developed w&lt;/p&gt;&lt;p&gt;&lt;em&gt;Smart Home · MacRumors: Mac News and Rumors - All Stories&lt;/em&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Smart Home] Open-source library and web app to control a Fisher-Price Lumalou after its app was discontinued</title>
-<link>https://www.reddit.com/r/homeassistant/comments/1v8ukp3/opensource_library_and_web_app_to_control_a/</link>
-<guid isPermaLink="false">d-7716aa0be712428e</guid>
-<pubDate>Wed, 29 Jul 2026 01:31:19 +0000</pubDate>
-<description>&lt;p&gt;&lt;strong&gt;A parent reverse-engineered a discontinued Fisher-Price sleep device's Bluetooth protocol after Mattel killed its app, and open-sourced it.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;My daughter's Fisher-Price Lumalou is a bedtime device: night light, sound machine, and guided sleep routines. All of it was controlled by Mattel's Smart Connect app. When that app was pulld and support ended, the hardware kept working but most of what it does became unreachable. A lot of parents en&lt;/p&gt;&lt;p&gt;&lt;em&gt;Smart Home · Home Assistant&lt;/em&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Watches] Hands-on – The Quiet Luxury of the Rolex Oyster Perpetual 34 in Solid Gold</title>
-<link>https://monochrome-watches.com/rolex-oyster-perpetual-34mm-gold-collection-2026-stone-markers-124205-124208-review-price/</link>
-<guid isPermaLink="false">d-cc170ad25b828c50</guid>
-<pubDate>Wed, 29 Jul 2026 01:31:18 +0000</pubDate>
-<description>&lt;p&gt;&lt;strong&gt;Hands-on with the solid-gold Oyster Perpetual 34, marking 100 years since Rolex's original waterproof Oyster case.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;2026 marks the 100th anniversary of the Oyster Perpetual, the game-changing waterproof watch that altered the course of Rolex’s history. Put to the test by British swimmer Mercedes Gleitze as she swam across the English Channel with a gold Oyster on her wrist in 1927, the hermetic Oyster case was fu&lt;/p&gt;&lt;p&gt;&lt;em&gt;Watches · Monochrome Watches&lt;/em&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Watches] A Majestic Journey Through Clocks &amp; Watches Made for Royalty: The Enlightened Empress – Maria Theresa and the Mechanics of Wonder</title>
-<link>https://wornandwound.com/a-majestic-journey-through-clocks-watches-made-for-royalty-the-enlightened-empress-maria-theresa-and-the-mechanics-of-wonder/</link>
-<guid isPermaLink="false">d-8586fd86397c01e8</guid>
-<pubDate>Wed, 29 Jul 2026 01:31:17 +0000</pubDate>
-<description>&lt;p&gt;&lt;strong&gt;New series tracing clocks and watches made for European royalty, from Tudor astronomical clocks to Victorian pendant watches.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;From the imposing astronomical clocks of Tudor England to the exquisite pendant watches of Victorian Britain, timekeeping has long been a symbol of power, prestige, and technological marvel within Europe’s royal courts. This new series explores the fascinating evolution of clocks and watches crafted&lt;/p&gt;&lt;p&gt;&lt;em&gt;Watches · Worn &amp;amp; Wound&lt;/em&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>✓ digest ran Wed 29 Jul 04:31 · 15 picks from 441 · feeds fetched 0h ago</title>
-<link></link>
-<guid isPermaLink="false">hb-202607290431</guid>
-<pubDate>Wed, 29 Jul 2026 01:31:32 +0000</pubDate>
-<description>&lt;p&gt;&lt;strong&gt;Heavy on forum chatter and listicles today; aviation earnings season and a wave of hardware launches (MOZA, OpenAI, Synaptic) carried the issue.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;441 arrived, 135 shortlisted, 15 published. Folders seen: Aviation, Books, Cinema, Clothing, Coffee, Dining, Flight Simulation, Fountain Pens, Hi-Fi, Home, Newsletters, Paintings, Perfume, Sim Racing, Smart Home, Tea, Watches, ⚠ Unverified — site blocks automated checks.&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Aviation] Flying commercial to France? Get ready for API/PNR</title>
-<link>https://ops.group/blog/flying-commercial-to-france/</link>
-<guid isPermaLink="false">d-c12aac66fd8f71c2</guid>
-<pubDate>Tue, 28 Jul 2026 13:21:57 +0000</pubDate>
-<description>&lt;p&gt;&lt;strong&gt;France now requires API/PNR reporting for commercial BizAv and enforcement is about to get strict — check before the next France pairing.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Key Points France has introduced new API/PNR reporting requirements for commercial BizAv. Strict enforcement starts...&lt;/p&gt;&lt;p&gt;&lt;em&gt;Aviation · International Ops 2026 – OPSGROUP&lt;/em&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Aviation] Pratt &amp; Whitney adding composite materials to next GTF engine</title>
-<link>https://leehamnews.com/2026/07/20/pw-adding-cmcs-composite-blades-to-next-gtf/</link>
-<guid isPermaLink="false">d-96d7a4a5be7eb1bb</guid>
-<pubDate>Tue, 28 Jul 2026 13:21:56 +0000</pubDate>
-<description>&lt;p&gt;&lt;strong&gt;Pratt &amp;amp; Whitney is putting composites into the next GTF — the engine family on your own fleet's neos.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;By Scott Hamilton July 17, 2026, © Leeham News/AIN: When rivals Pratt &amp;amp; Whitney and CFM International developed the Geared TurboFan (GTF) and the LEAP engines powering today’s single-aisle airliners, they pursued different technologies. Each naturally said their... Read More The post Pratt &amp;amp; Whitney&lt;/p&gt;&lt;p&gt;&lt;em&gt;Aviation · Leeham News and Analysis&lt;/em&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Paintings] Betye Saar Dies at 99</title>
-<link>https://hyperallergic.com/betye-saar-dies-at-99/</link>
-<guid isPermaLink="false">d-b9a5dec9d379b59f</guid>
-<pubDate>Tue, 28 Jul 2026 13:21:55 +0000</pubDate>
-<description>&lt;p&gt;&lt;strong&gt;Betye Saar has died in Los Angeles, four days short of her hundredth birthday.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Today we begin with sad news: Betye Saar dies in Los Angeles just four days before her 100th birthday. Read Associate Editor Lisa Yin Zhang's obituary of the beloved assemblage artist, who inspired many. In other stories, the Smithsonian is under attack, again. In the latest episode of the Trump adm&lt;/p&gt;&lt;p&gt;&lt;em&gt;Paintings · Hyperallergic&lt;/em&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Paintings] Trump Orders Installation of Warning Signs Outside Smithsonian Museum</title>
-<link>https://hyperallergic.com/trump-orders-installation-of-warning-signs-outside-smithsonian-museum/</link>
-<guid isPermaLink="false">d-830aa1006e04c979</guid>
-<pubDate>Tue, 28 Jul 2026 13:21:54 +0000</pubDate>
-<description>&lt;p&gt;&lt;strong&gt;Trump has ordered content warning labels installed outside Smithsonian museums — a direct federal intervention in museum interpretation.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;President Trump has ordered federal officials to install content warning labels outside the Smithsonian National Museum of American History (NMAH) after his administration accused the institution of “ anti-white ” practices. The order, issued on Friday, July 24, compels the Department of the Interio&lt;/p&gt;&lt;p&gt;&lt;em&gt;Paintings · Hyperallergic&lt;/em&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Flight Simulation] Synaptic A220 Available for Sale on 28th July</title>
-<link>https://fselite.net/content/synaptic-a220-available-for-sale-on-28th-july/</link>
-<guid isPermaLink="false">d-d6303f5ae4e52610</guid>
-<pubDate>Tue, 28 Jul 2026 13:21:53 +0000</pubDate>
-<description>&lt;p&gt;&lt;strong&gt;The Synaptic A220 goes on sale today for MSFS 2020 and 2024 — the aircraft behind last issue's not-a-free-upgrade row.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The Synaptic A220 is arriving tomorrow for MSFS 2020 and MSFS 2024. Click here for more details on the next-gen narrowbody airliner!&lt;/p&gt;&lt;p&gt;&lt;em&gt;Flight Simulation · FSElite&lt;/em&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Hi-Fi] CD sales are up 16 percent. Half of buyers can’t play them.</title>
-<link>https://darko.audio/2026/07/cd-sales-are-up-16-percent-half-the-buyers-cant-play-them/</link>
-<guid isPermaLink="false">d-4b720be072e76074</guid>
-<pubDate>Tue, 28 Jul 2026 13:21:52 +0000</pubDate>
-<description>&lt;p&gt;&lt;strong&gt;US CD sales are up 16 percent and roughly half of buyers own no CD player. Darko unpicks what that actually means.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Half of the people buying CDs in the USA this year don’t own a CD player. Hold that thought, though, because CD sales are up 16 percent year on year for the first half of 2026, reaching 16.3 million units against vinyl’s 2.4 percent growth. That’s according to Luminate’s 2026 […] The post CD sales a&lt;/p&gt;&lt;p&gt;&lt;em&gt;Hi-Fi · Darko.Audio&lt;/em&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Tea] Why "Ceremonial Grade" is Meaningless</title>
-<link>https://www.tezumi.com/blogs/tezumi-insights/why-ceremonial-grade-is-meaningless</link>
-<guid isPermaLink="false">d-11cd69cfebacd3be</guid>
-<pubDate>Tue, 28 Jul 2026 13:21:51 +0000</pubDate>
-<description>&lt;p&gt;&lt;strong&gt;Tezumi argues "ceremonial grade" is a pure marketing invention with no standard behind it — useful before the next matcha order.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;If you’ve ever gone shopping for matcha (and if you’re reading this blog post, then I’m sure you have), you’ve undoubtedly come across the term ‘ceremonial grade’ plastered on a can’s label or an online product description. You may have even been told only to buy matcha that bears this term. We’re o&lt;/p&gt;&lt;p&gt;&lt;em&gt;Tea · Tezumi - Tezumi Insights · published Jan 2024&lt;/em&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Tea] How to Store Matcha Green Tea</title>
-<link>https://www.teaformeplease.com/how-to-store-matcha-green-tea/</link>
-<guid isPermaLink="false">d-e6f446fc9481c156</guid>
-<pubDate>Tue, 28 Jul 2026 13:21:50 +0000</pubDate>
-<description>&lt;p&gt;&lt;strong&gt;Why matcha that tasted good on opening turns flat weeks later, and how to store it so it doesn't.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;4–6 minutes Have you ever had a matcha that tasted great when you first bought it, but a little while later it tasted terrible? The way you store matcha was most likely the culprit! Here’s everything you need to know about the best way to store matcha, things to avoid, and how to tell if your tea is&lt;/p&gt;&lt;p&gt;&lt;em&gt;Tea · Tea for Me Please&lt;/em&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Coffee] The Flair 49 Pro: Lever Espresso Gets a New Mid-Range Contender</title>
-<link>https://coffeegeek.com/blog/new-products/the-flair-49-pro-lever-espresso-gets-a-new-mid-range-contender/</link>
-<guid isPermaLink="false">d-2e79ca07ea732cf6</guid>
-<pubDate>Tue, 28 Jul 2026 13:21:49 +0000</pubDate>
-<description>&lt;p&gt;&lt;strong&gt;Flair's 49 Pro is a new passive lever machine built around the 49mm puck — first look at build and workflow.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Flair's new 49 Pro is a passive lever espresso machine built around the 49mm puck trend. Here's our first look at the build, workflow, and a small QC issue. The post The Flair 49 Pro: Lever Espresso Gets a New Mid-Range Contender appeared first on CoffeeGeek .&lt;/p&gt;&lt;p&gt;&lt;em&gt;Coffee · CoffeeGeek · published Apr 2026&lt;/em&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Coffee] The Cezve is Mightier than the Spro</title>
-<link>https://www.baristahustle.com/the-cezve-is-mightier-than-the-spro/</link>
-<guid isPermaLink="false">d-3504746c0778afd3</guid>
-<pubDate>Tue, 28 Jul 2026 13:21:48 +0000</pubDate>
-<description>&lt;p&gt;&lt;strong&gt;Barista Hustle makes the case for the cezve as the fastest genuinely good home brew method. Contrarian and practical.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;You’re at home, you decide you want a coffee, and you need it quick cause you’re about to run out the door. What do you make? I can tell you right now it’s not espresso. I timed myself making... The post The Cezve is Mightier than the Spro appeared first on Barista Hustle .&lt;/p&gt;&lt;p&gt;&lt;em&gt;Coffee · Barista Hustle · published Sep 2025&lt;/em&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Smart Home] ADB MCP Server — let an AI assistant actually operate your Android devices</title>
-<link>https://community.home-assistant.io/t/adb-mcp-server-let-an-ai-assistant-actually-operate-your-android-devices/1019061</link>
-<guid isPermaLink="false">d-7b0fdebd1fd7c355</guid>
-<pubDate>Tue, 28 Jul 2026 13:21:47 +0000</pubDate>
-<description>&lt;p&gt;&lt;strong&gt;An MCP server that lets an assistant actually drive an Android TV over ADB — author rebuilt a wiped Fire TV by describing what he wanted.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;My Fire TV came back from a factory reset with nothing on it. Instead of an evening with a keyboard, I described what I wanted in a chat window and watched eight apps get installed, two keyboards enabled and the right one set as system IME — including a split-APK app that adb install refuses outrigh&lt;/p&gt;&lt;p&gt;&lt;em&gt;Smart Home · Home Assistant Community - Latest topics&lt;/em&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Watches] Introducing – The Fascinating Ulysse Nardin Blast Moonstruck is back in Rose Gold</title>
-<link>https://monochrome-watches.com/introducing-ulysse-nardin-blast-moonstruck-rose-gold-astronomical-watch-price/</link>
-<guid isPermaLink="false">d-de1423c6ce5f81d7</guid>
-<pubDate>Tue, 28 Jul 2026 13:21:46 +0000</pubDate>
-<description>&lt;p&gt;&lt;strong&gt;The Ulysse Nardin Blast Moonstruck returns — Oechslin's astronomical complication, the piece that defined the manufacture's identity.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Astronomical watches are part of Ulysse Nardin‘s identity, and Dr Ludwig Oechslin, like no other, shaped this chapter of the manufacture’s history. Shortly after entrepreneur Rolf Schnyder acquired the brand in 1983, he challenged the Swiss astronomer, mathematician and watchmaker to create a wristw&lt;/p&gt;&lt;p&gt;&lt;em&gt;Watches · Monochrome Watches&lt;/em&gt;&lt;/p&gt;</description>
 </item>
 </channel>
 </rss>
