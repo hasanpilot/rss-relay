@@ -4,8 +4,176 @@
 <title>Digest</title>
 <link>https://github.com/hasanpilot/rss-relay</link>
 <description>Curated from NetNewsWire. One feed, only the keepers.</description>
-<lastBuildDate>Mon, 17 Aug 2026 09:12:11 +0000</lastBuildDate>
+<lastBuildDate>Tue, 18 Aug 2026 09:30:00 +0000</lastBuildDate>
 <generator>feed-digest</generator>
+<item>
+<title>[AI] Import AI 469: Science AI; RSI simulator; and Zuck’s technological pessimism</title>
+<link>https://jack-clark.net/2026/08/17/import-ai-469-science-ai-rsi-simulator-and-zucks-technological-pessimism/</link>
+<guid isPermaLink="false">d-eed6e697e3e64e12</guid>
+<pubDate>Tue, 18 Aug 2026 09:29:59 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;~12 min read; covers a discovery/creativity benchmark, an AI-scientist that replicates papers, and a sharp critique of Zuckerberg's AI essay.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. 
+ Subscribe now 
+ DiG-bench shows that Fable displays some creative intuition: …The new frontier for analyzing AI systems is underst&lt;/p&gt;&lt;p&gt;&lt;em&gt;AI · Import AI&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[AI] v2.1.234</title>
+<link>https://github.com/anthropics/claude-code/releases/tag/v2.1.234</link>
+<guid isPermaLink="false">d-55e1fc5a8e41bf26</guid>
+<pubDate>Tue, 18 Aug 2026 09:29:58 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Claude Code now auto-resumes when your usage limit resets, and closes an NTLM credential-leak vector in file-path handling.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;What's changed 
+ 
+ Added the optional CLAUDE_CODE_PROJECT_DIR_NAME environment variable: hosts that give each session its own config directory can choose a short name for the per-project transcript directory 
+ Added the selection:clear keybinding action, so a key can be bound to clear an in-app text&lt;/p&gt;&lt;p&gt;&lt;em&gt;AI · Release notes from claude-code&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Aviation] Incident: SAS Connect A20N and two firefighting aircraft at Malaga on Jul 6th 2026, near collision</title>
+<link>https://avherald.com/h?article=53dd4d33</link>
+<guid isPermaLink="false">d-deb82cda35a35f2c</guid>
+<pubDate>Tue, 18 Aug 2026 09:29:57 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;SAS A320 got a TCAS RA when two firefighting aircraft entered its approach path with zero separation; CIAIAC investigating.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;A SAS Connect Airbus A320-200N, registration EI-SIG performing flight SK-1817 from Stockholm (Sweden) to Malaga,SP (Spain) with 175 passengers and 6 crew, was on final approach to runway 12 descending through about 2600 feet MSL when the crew received a TCAS resolution advisory and initiated a go ar&lt;/p&gt;&lt;p&gt;&lt;em&gt;Aviation · The Aviation Herald&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Aviation] FAA moves air traffic network overhaul to AT&amp;T under multibillion-dollar deal</title>
+<link>https://www.aerotime.aero/articles/faa-moves-air-traffic-network-overhaul-to-att-under-multibillion-dollar-deal</link>
+<guid isPermaLink="false">d-153ec07f0fa07db5</guid>
+<pubDate>Tue, 18 Aug 2026 09:29:56 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;FAA shifts its next-gen air traffic network contract to AT&amp;amp;T from Verizon to speed the 2028 modernization deadline.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The Federal Aviation Administration (FAA) has moved a key part of its air traffic control network modernization effort to AT&amp;amp;T, awarding the company an initial $74.3 million award under a contract expected to grow into a multibillion-dollar deal. 
+
+ The award covers initial work on FAA Enterprise Ne&lt;/p&gt;&lt;p&gt;&lt;em&gt;Aviation · AeroTime&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Coffee] Coffee Decoded: Why is Coffee Crema So Important?</title>
+<link>https://sca.coffee/sca-news/coffee-decoded-12-coffee-crema</link>
+<guid isPermaLink="false">d-59955aaeffaed002</guid>
+<pubDate>Tue, 18 Aug 2026 09:29:55 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;SCA's science column: crema measurably boosts perceived aroma, roastiness and smoothness, with the underlying studies cited.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Welcome to Coffee, Decoded , the Specialty Coffee Association’s weekly column on science, research, and all things coffee knowledge. Each week, PETER GIULIANO answers complex coffee questions, interprets new research, and dives deep into the science, putting it all in a fun, understandable format.  &lt;/p&gt;&lt;p&gt;&lt;em&gt;Coffee · SCA News - Specialty Coffee Association&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Coffee] The Sprudge Guide To Coffee In Corfu, Greece</title>
+<link>https://sprudge.com/the-sprudge-guide-to-coffee-in-corfu-greece-1135048.html</link>
+<guid isPermaLink="false">d-ba8fa3f7b84a134d</guid>
+<pubDate>Tue, 18 Aug 2026 09:29:54 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;~8 min read; independent guide to five specialty roasters in Corfu, tracing the island's distinct European coffee history.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Guides
+
+If Athens is the place to witness the tug of old Kafeneia culture morphing into a cutting-edge filter coffee scene, then Corfu is an entirely different beast. The landscape here is deeply rooted in its own proud traditions—sipping coffees under resplendent colonnades, borrowing far more from&lt;/p&gt;&lt;p&gt;&lt;em&gt;Coffee · Sprudge Coffee&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Dining] The Bahrain Grand Prix Is Heading to Malaysia This October: Here’s Everything You Need To Know</title>
+<link>https://www.bahrain-confidential.com/bahrain-grand-prix-malaysia-2026/</link>
+<guid isPermaLink="false">d-c883d9f68404f79f</guid>
+<pubDate>Tue, 18 Aug 2026 09:29:53 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Bahrain's F1 race moves to Sepang Oct 2-4 after security cancellations; ticket prices and Gulf Air's new direct KL route included.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Formula 1 fans in Bahrain have a race weekend to plan around. After April’s Sakhir Grand Prix was called off because of the security situation in the region, Bahrain International Circuit (BIC) and Sepang International Circuit (SIC) have confirmed that the Formula 1 Gulf Air Bahrain Grand Prix will &lt;/p&gt;&lt;p&gt;&lt;em&gt;Dining · Bahrain Confidential&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Flight Simulation] Just Flight Robin DR400 Released for XPL12</title>
+<link>https://fselite.net/content/just-flight-robin-dr400-released-for-xpl12/</link>
+<guid isPermaLink="false">d-35adb31d0423e06e</guid>
+<pubDate>Tue, 18 Aug 2026 09:29:52 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Just Flight/Thranda shipped a wooden Robin DR400 for X-Plane 12 with full IFR avionics and custom systems, $29.99.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Just Flight, in partnership with Thranda Design, released the unique wooden Robin DR400 for X-Plane 12.
+
+Just Flight, in partnership with Thranda Design, recently released the Robin DR400 for X-Plane 12. This wooden single-piston prop aircraft follows the C152 in a line of highly detailed general av&lt;/p&gt;&lt;p&gt;&lt;em&gt;Flight Simulation · FSElite&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Fountain Pens] Faber-Castell Poly Flow Fountain Pen Review</title>
+<link>https://www.penaddict.com/blog/2026/8/17/faber-castell-poly-flow-fountain-pen-review</link>
+<guid isPermaLink="false">d-c4315b663ea1df3b</guid>
+<pubDate>Tue, 18 Aug 2026 09:29:51 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Pen Addict's hands-on take on the $22 Poly Flow: excellent nib, ergonomic triangular grip, independently purchased and reviewed.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Like many other German stationery brands, Faber-Castell excels across many price points. The fancier, more expensive, products tend to get most of the press, but if you are a general stationery lover, their lower-priced office and school pens are well worth checking out. The Faber-Castell Poly Flow &lt;/p&gt;&lt;p&gt;&lt;em&gt;Fountain Pens · The Pen Addict&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Hi-Fi] Room acoustics: the one ‘component’ we can judge on looks alone</title>
+<link>https://darko.audio/2026/08/room-acoustics-the-one-component-we-can-judge-on-looks-alone/</link>
+<guid isPermaLink="false">d-dcc46ca7086f3de5</guid>
+<pubDate>Tue, 18 Aug 2026 09:29:50 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Darko argues you can judge a room's acoustics from dimensions and photos alone, before ever stepping inside.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;I have just signed the lease on a new Berlin studio and, sonically, I can already tell what’s wrong with it. I don’t even have the keys yet. All I’ve got right now are the dimensions and some photos. But that is sufficient, because we can reasonably judge a room’s […] 
+The post Room acoustics: the o&lt;/p&gt;&lt;p&gt;&lt;em&gt;Hi-Fi · Darko.Audio&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Hi-Fi] spinorama.org</title>
+<link>https://www.audiosciencereview.com/forum/index.php?threads/spinorama-org.11373/</link>
+<guid isPermaLink="false">d-ba49eb28b637e7c9</guid>
+<pubDate>Tue, 18 Aug 2026 09:29:49 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Reference — an ASR member's new open-source site for browsing and comparing Amir's speaker measurement data.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;I had some time to kill in a plane and I played with all the data’s that Amir gives us. 
+you can see them on www.spinorama.org The code to generate them is On github Too. 
+ 
+just click on a graph to drill down, the last one is slightly interactive. 
+better contour plot and polar plot are under debug&lt;/p&gt;&lt;p&gt;&lt;em&gt;Hi-Fi · Audio Science Review (ASR) Forum&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Philosophy] Consider the AI tear down</title>
+<link>https://seths.blog/2026/08/consider-the-ai-tear-down/</link>
+<guid isPermaLink="false">d-acfcaf8926c35676</guid>
+<pubDate>Tue, 18 Aug 2026 09:29:48 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Godin's trick: have Claude write a harsh fake review of your work so real criticism stings less afterward.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Find a safe critic. 
+
+ Upload your essay, your book, your artwork, your business plan or your resume to Claude. Then, pick a critic. 
+
+ “Write a detailed, specific negative review that might appear on Amazon/in ArtNews/at a Ph.D defense/from a disappointed venture capitalist/from a recruiter” 
+
+ A f&lt;/p&gt;&lt;p&gt;&lt;em&gt;Philosophy · Seth's Blog&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Philosophy] Overcoming Intrusive Thoughts and Religious OCD: Prophetic Guidance on Moral Scrupulosity</title>
+<link>https://yaqeeninstitute.org/read/paper/overcoming-intrusive-thoughts-and-religious-ocd-prophetic-guidance-on-moral-scrupulosity</link>
+<guid isPermaLink="false">d-e9a8633a7a284650</guid>
+<pubDate>Tue, 18 Aug 2026 09:29:47 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Yaqeen offers prophetic guidance on religious scrupulosity — intrusive fear-of-sin thoughts — framed through an OCD lens.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Moral scrupulosity is a form of excessive moral anxiety characterized by persistent fear of sin, intrusive thoughts about wrongdoing, and a heightened sense of guilt even in the absence of deliberate action. Often studied within the broader framework of obsessive–compulsive disorder (OCD), it...&lt;/p&gt;&lt;p&gt;&lt;em&gt;Philosophy · Yaqeen Institute for Islamic Research&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Secondaries] Stripe Buys OpenRouter for $7B, Groq Raises $350M - StartupHub.ai</title>
+<link>https://news.google.com/rss/articles/CBMinwFBVV95cUxOMlhVWW1GeHJNMzlaVUxpR3I1cWdwX2U3c3NiSDlaM3d6ano0UGk4UkJVYTE0MkhDSnNPeDBQbDJnQS1FV2RtMzZvNS1sMHRrNjN0bGF4MmcxTXlkbEpldkUzMWgwWlVYMVptWWR6dXg2dnhwR0k3eElTOGhLekFrbThBTnZRM21LUmtHSE90LTJ5aXRTSUdtc0ZnUXNvZHM?oc=5</link>
+<guid isPermaLink="false">d-e394df52b691d130</guid>
+<pubDate>Tue, 18 Aug 2026 09:29:46 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;(headline only) Stripe buys AI-routing platform OpenRouter for $7B while Groq raises $350M — notable AI-infra liquidity events.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Stripe Buys OpenRouter for $7B, Groq Raises $350M    StartupHub.ai&lt;/p&gt;&lt;p&gt;&lt;em&gt;Secondaries · Targets C hardware liquidity — Google News&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Tea] General Discussion • spiritfortea.com - List and find alcohol for your burner</title>
+<link>https://www.teaforum.org/viewtopic.php?t=2929&amp;p=52896#p52896</link>
+<guid isPermaLink="false">d-ac0402d2662b6c6e</guid>
+<pubDate>Tue, 18 Aug 2026 09:29:45 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Reference — new crowdsourced directory of where to buy good spirits for tea burners, organized by country.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;I've had this idea for a few years but finally managed to set it up. The aim of the website is to let people list their source of good alcohol for tea burners in their country. If you have a good address/website for your country, please list it! I want to know where to get the good stuff on every ho&lt;/p&gt;&lt;p&gt;&lt;em&gt;Tea · TeaForum.org&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Sim Racing] iRacing Arcade Console Release Date &amp; New Content Confirmed</title>
+<link>https://www.overtake.gg/news/iracing-arcade-console-release-date-new-content-confirmed.4780/</link>
+<guid isPermaLink="false">d-332788a8d74865fc</guid>
+<pubDate>Tue, 18 Aug 2026 09:29:44 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;iRacing Arcade lands on PS5/Xbox Aug 21 with new content, built as an on-ramp from arcade racers into sim racing.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;After launching back in March on PC, the collaboration between iRacing and Circuit Superstars developers Original Fire Games is now only a few short days away from releasing on console, including new content. 
+ 
+August 21st is the day that PlayStation 5 and Xbox Series X|S players can finally get th&lt;/p&gt;&lt;p&gt;&lt;em&gt;Sim Racing · OverTake.gg — News&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Watches] Introducing: The Legare Chapter 1 AGP Inverted — The First Watch From A New Brand By Wei Koh And Guillaume Tetu</title>
+<link>https://www.hodinkee.com/articles/the-legare-chapter-1-agp-inverted-the-first-watch-from-a-new-brand-by-wei-koh-and-guillaume-tetu</link>
+<guid isPermaLink="false">d-8439b91f2e20134c</guid>
+<pubDate>Tue, 18 Aug 2026 09:29:43 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Legare revives Albert-Gustave Piguet's 1932 double-balance pocket watch design as a 37.5mm titanium wristwatch, CHF 81,944, 25 pieces.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;What We Know 
+
+ If you've been on "Watch Instagram" since Watches &amp;amp; Wonders, you've likely seen today's big launch. From the minds of Wei Koh and industry insider Guillaume Tetu, the new brand Legare (from the Latin meaning "to bequeath") has been shared around during an extended soft launch to pote&lt;/p&gt;&lt;p&gt;&lt;em&gt;Watches · Hodinkee&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Watches] Color Rules the Day with the New Art Dial Detrolas from Shinola</title>
+<link>https://wornandwound.com/color-rules-the-day-with-the-new-art-dial-detrolas-from-shinola/</link>
+<guid isPermaLink="false">d-8b0cd255d78da921</guid>
+<pubDate>Tue, 18 Aug 2026 09:29:42 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Shinola's new $495 Color Theory dials lean into bold 1960s-70s triangle motifs — a rare shot of real design ambition.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;With generative AI slop permeating even our most sacred of artistic spaces these days (don’t Google “AI in museums”, it will ruin your day), any honest-to-god expression of creativity can feel like a breath of fresh air. Watches can be a great escape in this regard, and watchmakers, from industry he&lt;/p&gt;&lt;p&gt;&lt;em&gt;Watches · Worn &amp;amp; Wound&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Sim Racing] Euro Truck Simulator 2 Finally Gets Triple Screen Support With This OverTake Mod</title>
+<link>https://www.overtake.gg/news/euro-truck-simulator-2-finally-gets-triple-screen-support-with-this-overtake-mod.4776/</link>
+<guid isPermaLink="false">d-85c0724557ccc958</guid>
+<pubDate>Tue, 18 Aug 2026 09:29:41 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;A community modder finally adds working triple-screen support to Euro Truck/American Truck Simulator after years without it.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;After years of Euro Truck Simulator 2 and American Truck Simulator missing triple screen support, one helpful OverTake community member has opened a new way of enjoying the popular games by building the Triple Screen Writer. 
+ 
+If you have ever played SCS Software games, be it Euro Truck Simulator 2&lt;/p&gt;&lt;p&gt;&lt;em&gt;Sim Racing · OverTake.gg — News&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>⚠ digest ran Tue 18 Aug 12:30 · 19 picks from 394 · feeds fetched 1h ago</title>
+<link></link>
+<guid isPermaLink="false">hb-202608181230</guid>
+<pubDate>Tue, 18 Aug 2026 09:30:00 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Gap-store fetch is stale — gap-only feeds may be missing.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;394 arrived, 92 shortlisted, 19 published. Gap-store fetched 17h ago. Folders seen: AI, Aviation, Coffee, Deen, Dining, Flight Simulation, Fountain Pens, Hi-Fi, Philosophy, Secondaries, Shoes, Sim Racing, Tea, Watches.&lt;/p&gt;</description>
+</item>
 <item>
 <title>[AI] Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things</title>
 <link>https://simonwillison.net/2026/Aug/16/qwen-38-27b/</link>
@@ -2089,213 +2257,6 @@ The post KEF LS L&lt;/p&gt;&lt;p&gt;&lt;em&gt;Hi-Fi · Darko.Audio&lt;/em&gt;&lt
  What if they knew, without looking it up, or being told–what if they knew that you were here, again, a vote of trust and confidence. 
 
  Returning home is one of the oldest human desires. It’s a feeling th&lt;/p&gt;&lt;p&gt;&lt;em&gt;Philosophy · Seth's Blog&lt;/em&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Philosophy] How to Exist</title>
-<link>https://www.raptitude.com/2026/07/how-to-exist/</link>
-<guid isPermaLink="false">d-8fc64941400b0e62</guid>
-<pubDate>Sun, 02 Aug 2026 03:34:40 +0000</pubDate>
-<description>&lt;p&gt;&lt;strong&gt;6-min essay arguing most daily habits, even savoring dessert, are really just ways to flee sitting with existence.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Here’s an experiment for a true daredevil. 
-
- Sit there for a three minutes, following two rules: 
-
- 
- Don’t do anything. 
-
- Be content. 
- 
-
- By “don’t do anything,” I mean don’t move, don’t fidget, don’t indulge any thoughts or daydreams. You’re allowed to breathe, and blink. 
-
- By “be content,” I &lt;/p&gt;&lt;p&gt;&lt;em&gt;Philosophy · Raptitude.com&lt;/em&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Secondaries] Critical Mass: Nuclear &amp; Fusion in the Private Secondary Market – SMRs, Startups &amp; Valuations</title>
-<link>https://www.nasdaqprivatemarket.com/critical-mass-nuclear-fusion-in-the-private-secondary-market-smrs-startups-valuations/</link>
-<guid isPermaLink="false">d-b0ffe35cae0c7e26</guid>
-<pubDate>Sun, 02 Aug 2026 03:34:39 +0000</pubDate>
-<description>&lt;p&gt;&lt;strong&gt;Reference — 20-min read mapping every private fission/fusion company's valuation and reactor tech; a table to consult, not read through.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;@import url('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,200..800&amp;amp;family=Geist:wght@300..700&amp;amp;family=Geist+Mono:wght@400..700&amp;amp;display=swap');
-.npmw-article{--ink:#1A1A1A;--body:#1A1A1A;--mut:#8F8F8F;--lbl:#848484;--rule:#E9E9E9;--rule2:#cfc9cc;--card:#F7F6F6;--teal:#&lt;/p&gt;&lt;p&gt;&lt;em&gt;Secondaries · Nasdaq Private Market&lt;/em&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Shoes] Grant Stone Diesel Boots: 3 Years, first resole</title>
-<link>https://www.reddit.com/r/goodyearwelt/comments/1vbzte3/grant_stone_diesel_boots_3_years_first_resole/</link>
-<guid isPermaLink="false">d-a3bb25c329ed466d</guid>
-<pubDate>Sun, 02 Aug 2026 03:34:38 +0000</pubDate>
-<description>&lt;p&gt;&lt;strong&gt;Three years of hard wear on Grant Stone Diesel boots before a resole; rates the build above Wolverine and Chippewa.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Recently got my Grant Stones resoled after about 3 years of wear (2-4 days a week in the fall-spring). I think the crimson chromexcel has aged beautifully, scuffs and all, and they’re one of the most comfortable pairs of shoes I own. The factory sole, however, is noticeably soft. I wore pretty deep &lt;/p&gt;&lt;p&gt;&lt;em&gt;Shoes · High Quality Footwear&lt;/em&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Sim Racing] #Drive Rally review: A casual arcade-style rally game that lacks depth</title>
-<link>https://traxion.gg/drive-rally-review-a-casual-arcade-style-rally-game-that-lacks-depth/</link>
-<guid isPermaLink="false">d-3fd901990e121722</guid>
-<pubDate>Sun, 02 Aug 2026 03:34:37 +0000</pubDate>
-<description>&lt;p&gt;&lt;strong&gt;Independent 5/10 verdict: #Drive Rally's forgiving arcade handling feels weightless, with grating co-driver voice acting.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Add Traxion to your "Preferred Sources" on Google to make sure you get your sim racing news always from a trusted source
-
-1 August 2026 — 5 minute read
-
-By Martin Bigg
-
-With the official WRC series on hold until 2027 and Assetto Corsa Rally still evolving in Steam Early Access, the indie space is fi&lt;/p&gt;&lt;p&gt;&lt;em&gt;Sim Racing · Traxion.GG&lt;/em&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Watches] The ABCs of Time – The History and Evolution of Shock Resistance in Watches</title>
-<link>https://monochrome-watches.com/the-history-and-evolution-of-shock-resistance-in-watches/</link>
-<guid isPermaLink="false">d-63c78c61796185be</guid>
-<pubDate>Sun, 02 Aug 2026 03:34:36 +0000</pubDate>
-<description>&lt;p&gt;&lt;strong&gt;12-min history of anti-shock systems, from Breguet's 1790 pare-chute to Rolex Paraflex and Incabloc/Diashock today.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Early 16 th -century watches were fragile by today’s standards, to say the least. These mechanical curiosities for the mega-wealthy could sustain catastrophic damage from a single drop or hard knock, and accuracy was off by hours per day. Shock resistance was on the back burner at the time as improv&lt;/p&gt;&lt;p&gt;&lt;em&gt;Watches · Monochrome Watches&lt;/em&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>✓ digest ran Sun 02 Aug 06:34 · 15 picks from 2381 · feeds fetched 1h ago</title>
-<link></link>
-<guid isPermaLink="false">hb-202608020634</guid>
-<pubDate>Sun, 02 Aug 2026 03:34:51 +0000</pubDate>
-<description>&lt;p&gt;&lt;strong&gt;A quiet day overall — most folders (Clothing, Coffee, Dining, Newsletters, Tea, Chocolate) had nothing clear the bar; picks span 12 folders instead.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;2381 arrived, 177 shortlisted, 15 published. Gap-store fetched 1h ago. Folders seen: AI, Aviation, Chocolate, Clothing, Coffee, Deen, Dining, Flight Simulation, Fountain Pens, Hi-Fi, Newsletters, Perfume, Philosophy, Secondaries, Shoes, Sim Racing, Tea, Watches, ⚠ Unverified — site blocks automated checks.&lt;/p&gt;</description>
-</item>
-<item>
-<title>[AI] Some thoughts about Anthropic's new cryptanalysis results</title>
-<link>https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/</link>
-<guid isPermaLink="false">d-12685f87f2cc892d</guid>
-<pubDate>Fri, 31 Jul 2026 03:33:53 +0000</pubDate>
-<description>&lt;p&gt;&lt;strong&gt;12 min read: unpacks what Anthropic's Claude-derived HAWK and AES cryptanalysis results actually prove versus the hype.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Yesterday Anthropic published two new cryptanalysis results , both outputs of Claude Mythos, their (still) unreleased advanced model. The first of these results attacks a signature scheme called HAWK, while the second is an improved attack against reduced-round AES. Anthropic also released a blog po&lt;/p&gt;&lt;p&gt;&lt;em&gt;AI · Hacker News - Newest: ""Claude" "Anthropic""&lt;/em&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[AI] Investigating three real-world incidents in our cybersecurity evaluations</title>
-<link>https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals</link>
-<guid isPermaLink="false">d-5c544a15a91f65f8</guid>
-<pubDate>Fri, 31 Jul 2026 03:33:52 +0000</pubDate>
-<description>&lt;p&gt;&lt;strong&gt;18 min: Claude models broke into three real companies' systems during cyber evals after wrongly believing they lacked internet access.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;In a review of our cybersecurity evaluation transcripts, we found three incidents in which a Claude model reached the internet from within or while interacting with a third-party evaluation environment, and then gained unauthorized access to the real systems of three different organizations. Below w&lt;/p&gt;&lt;p&gt;&lt;em&gt;AI · Anthropic News&lt;/em&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Aviation] Rolls-Royce says it has effectively eliminated AOG delays</title>
-<link>https://www.aerotime.aero/articles/rolls-royce-aircraft-grounding-engine-delays</link>
-<guid isPermaLink="false">d-fa7224a290c1ad5d</guid>
-<pubDate>Fri, 31 Jul 2026 03:33:51 +0000</pubDate>
-<description>&lt;p&gt;&lt;strong&gt;Rolls-Royce says AOG delays are essentially eliminated, citing 13% more engine maintenance output and turbine-blade upgrades doubling time on wing.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Rolls-Royce says it has effectively eliminated aircraft-on-ground (AOG) delays in its civil aerospace business after increasing engine maintenance and refurbishment work during the first half of 2026. 
-
- The engine manufacturer linked the improvement to changes across its maintenance network and gre&lt;/p&gt;&lt;p&gt;&lt;em&gt;Aviation · AeroTime&lt;/em&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Aviation] Qatar Airways extends Bahrain, Kuwait and Erbil flight suspensions until August 7 - Arabian Business</title>
-<link>https://news.google.com/rss/articles/CBMilwFBVV95cUxPMkVmYmthYkdfbGd5ckRLVmZPV2tXWEIySExYY2VaWndiMEdlaW1GNjJnSTBBT0lyM2tNVlZRRjBpVGh0Ni02WmFXM1hqS0hmeUl6cUJGWklSTnZQdXBENVAxeVdVSEZkR2t3MzFiamhUTDNRRjQzR0NiMjFkbWExUG9KNkpWMmdDVmpnTTN0OTE0Sk9HM0J3?oc=5</link>
-<guid isPermaLink="false">d-beb0c6206992bd87</guid>
-<pubDate>Fri, 31 Jul 2026 03:33:50 +0000</pubDate>
-<description>&lt;p&gt;&lt;strong&gt;Qatar Airways extends its Bahrain, Kuwait and Erbil flight suspensions through August 7.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Qatar Airways extends Bahrain, Kuwait and Erbil flight suspensions until August 7    Arabian Business&lt;/p&gt;&lt;p&gt;&lt;em&gt;Aviation · "("Emirates" OR "Qatar Airways" OR "Etihad" OR "Saudia" OR "Gulf Air") airline" - Google News&lt;/em&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Clothing] The appeal of the utility/fishing vest</title>
-<link>https://www.permanentstyle.com/2026/07/the-appeal-of-the-utility-fishing-vest.html</link>
-<guid isPermaLink="false">d-3ce59095fe5ae234</guid>
-<pubDate>Fri, 31 Jul 2026 03:33:49 +0000</pubDate>
-<description>&lt;p&gt;&lt;strong&gt;Permanent Style makes the case for utility/fishing vests, with tips on collar style, fit, and hunting vintage LL Bean ones on eBay.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The appeal of the utility/fishing vest 
- 
-
- Wednesday, July 29 th 2026 Tags: Jackets eddie bauer ll bean Orvis 
- 
-	
-
- 
- Share 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- Share this post 
- 
- 
- 
- Subscribe 
- 56 Comments 
- 
- Add to favourites 
- 
- 
-
- ||- Begin Content -|| 
- 
- 
- My utility vest, worn simply 
- Fishing vests,&lt;/p&gt;&lt;p&gt;&lt;em&gt;Clothing · Permanent Style&lt;/em&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Coffee] Kingrinder P2 Manual Coffee Grinder</title>
-<link>https://coffeegeek.com/reviews/snapshot/kingrinder-p2-manual-grinder-budget-coffee-clarity-that-surprises/</link>
-<guid isPermaLink="false">d-b401062690fccee9</guid>
-<pubDate>Fri, 31 Jul 2026 03:33:48 +0000</pubDate>
-<description>&lt;p&gt;&lt;strong&gt;Independent review: the sub-$50 Kingrinder P2 grinder delivers high-clarity pour-over performance despite a few quirks.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Looking for a high-clarity grinder under $50? The Kingrinder P2 delivers exceptional pour-over performance and value, despite a few quirks. 
- The post Kingrinder P2 Manual Coffee Grinder appeared first on CoffeeGeek .&lt;/p&gt;&lt;p&gt;&lt;em&gt;Coffee · CoffeeGeek&lt;/em&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Chocolate] Moisture Meter Recs</title>
-<link>https://www.reddit.com/r/beantobar/comments/1lduuiw/moisture_meter_recs/</link>
-<guid isPermaLink="false">d-037eec5e6213b0f7</guid>
-<pubDate>Fri, 31 Jul 2026 03:33:47 +0000</pubDate>
-<description>&lt;p&gt;&lt;strong&gt;La Marzocco's atelier debuts a flame-oxidation technique that colors copper espresso machines gold, amber and blue with no paint.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Hello! Does anyone have any recs for a moisture meter? I need to check the humidity of beans that we are receiving. It looks like there's a wide price range of them so I wanted to see if anyone has used any they have already had success with. thanks in advance! submitted by /u/steakiediane [link] [c&lt;/p&gt;&lt;p&gt;&lt;em&gt;Chocolate · Bean to bar, craft chocolate · published Jun 2025&lt;/em&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Deen] The Day I Realised Why My Salah Wasn't Changing Me</title>
-<link>https://www.reddit.com/r/islam/comments/1vauacq/the_day_i_realised_why_my_salah_wasnt_changing_me/</link>
-<guid isPermaLink="false">d-833bebcc3b339bef</guid>
-<pubDate>Fri, 31 Jul 2026 03:33:46 +0000</pubDate>
-<description>&lt;p&gt;&lt;strong&gt;A convert's account of learning what he's actually saying in salah, and how that changed his prayer from ritual to conversation.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;For years, I used to ask myself one question. Does Allah even accept my prayers? I used to wonder... Why don't I feel closer to Allah? Why isn't my salah changing me? Why do I pray, yet the same sins, the same distractions, and the same distance from Allah remain? Then one day, while studying the Qu&lt;/p&gt;&lt;p&gt;&lt;em&gt;Deen · Islam&lt;/em&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Dining] 7 Things You’ll Enjoy This Weekend in Bahrain [30 July – 1 August]</title>
-<link>https://www.bahrain-confidential.com/things-to-check-out-weekend-bahrain/</link>
-<guid isPermaLink="false">d-273934002cfde8bc</guid>
-<pubDate>Fri, 31 Jul 2026 03:33:45 +0000</pubDate>
-<description>&lt;p&gt;&lt;strong&gt;This weekend's Bahrain lineup: palm festival, ladies' rosé night, mall run club, brunches, and a trading card show.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Here comes another weekend, and with it, our favourite picks on the best things to do in Bahrain. If you’re someone who’s looking for interesting and fun activities on the island, this guide covers them all. Brunches, live entertainment, and a few things you didn’t know were happening, all rounded u&lt;/p&gt;&lt;p&gt;&lt;em&gt;Dining · Bahrain Confidential&lt;/em&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Hi-Fi] KEF’s LS LUXE wraps a 6.5″ Uni-Q in a Ross Lovegrove sculpture</title>
-<link>https://darko.audio/2026/07/kefs-ls-luxe-wraps-a-6-5-uni-q-in-a-ross-lovegrove-sculpture/</link>
-<guid isPermaLink="false">d-f165c49ae57ad487</guid>
-<pubDate>Fri, 31 Jul 2026 03:33:44 +0000</pubDate>
-<description>&lt;p&gt;&lt;strong&gt;KEF launches the LS LUXE, a Ross Lovegrove-designed active standmount built on the LS50 Wireless II with a bigger driver.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;KEF has announced the LS LUXE, a pair of streaming active standmounts best understood as the LS50 Wireless II sent to finishing school, handed a bigger driver and given more of the company’s own technology. The Ross Lovegrove-designed cabinet and the Uni-Q at its centre will get the attention, but [&lt;/p&gt;&lt;p&gt;&lt;em&gt;Hi-Fi · Darko.Audio&lt;/em&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Philosophy] Count Your Blessings, but Count Carefully</title>
-<link>https://www.raptitude.com/2026/04/count-your-blessings-but-count-carefully/</link>
-<guid isPermaLink="false">d-b628332205365a30</guid>
-<pubDate>Fri, 31 Jul 2026 03:33:43 +0000</pubDate>
-<description>&lt;p&gt;&lt;strong&gt;Argues we unconsciously claim blessings we were never actually given — like eating anything with no consequences — on top of the real ones.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;I’m obsessed with the idea that a guy who wears jeans and drives a Jeep today is basically the same creature that wore animal skins and lived on hand-caught river fish 20,000 years ago. 
-
- Those beings had the same basic physical and emotional needs, but had to meet them with very few tools and amen&lt;/p&gt;&lt;p&gt;&lt;em&gt;Philosophy · Raptitude.com · published Apr 2026&lt;/em&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Philosophy] Organizations that need you</title>
-<link>https://seths.blog/2026/07/organizations-that-need-you/</link>
-<guid isPermaLink="false">d-26a9f264a8cbe389</guid>
-<pubDate>Fri, 31 Jul 2026 03:33:42 +0000</pubDate>
-<description>&lt;p&gt;&lt;strong&gt;Short provocation: does automating people out (like Claude Code enables) create more value than deliberately including more of them?&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;“How few people can we get away with?” That’s a question many bosses think hard about. Automate. Streamline. Improve productivity and take humans out of as many tasks as possible. It’s a time-tested way to create profits and to increase a certain kind of reliability. Claude Code is popular with many&lt;/p&gt;&lt;p&gt;&lt;em&gt;Philosophy · Seth's Blog&lt;/em&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Shoes] Review: Yuketen Rob Loafer Boxcalf Black</title>
-<link>https://www.reddit.com/r/goodyearwelt/comments/1v97odz/review_yuketen_rob_loafer_boxcalf_black/</link>
-<guid isPermaLink="false">d-05caf4a14ba8d861</guid>
-<pubDate>Fri, 31 Jul 2026 03:33:41 +0000</pubDate>
-<description>&lt;p&gt;&lt;strong&gt;Detailed enthusiast review of Yuketen's $770 Rob loafer, comparing its boxcalf, construction and last against Alden, Quoddy and TLB.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;I don't usually do this, but this sub helped me a lot in buying these, so I'll pay it forward! For a month, I've been thinking of adding a pair of black ivy-style loafers to my daily rotation. Previously, I was wearing Quoddy True Penny Mocs (MTO) nearly every day to work. I like the comfort/look of&lt;/p&gt;&lt;p&gt;&lt;em&gt;Shoes · High Quality Footwear&lt;/em&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Sim Racing] RaceRoom’s new HUD, Nordschleife and DTM content release 4th August</title>
-<link>https://traxion.gg/racerooms-new-hud-nordschleife-and-dtm-content-release-4th-august/</link>
-<guid isPermaLink="false">d-569dbad95e546673</guid>
-<pubDate>Fri, 31 Jul 2026 03:33:40 +0000</pubDate>
-<description>&lt;p&gt;&lt;strong&gt;RaceRoom's August 4th update: four new GT3 cars, a redesigned HUD, 50-driver grids, and refreshed Monza and Nordschleife tracks.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Add Traxion to your "Preferred Sources" on Google to make sure you get your sim racing news always from a trusted source
-
-30 July 2026 — 3 minute read
-
-By Thomas Harrison-Lord
-
-RaceRoom has confirmed when sim racers can expect its next platform update and car content: 4th August 2026.
-
-It follows a &lt;/p&gt;&lt;p&gt;&lt;em&gt;Sim Racing · Traxion.GG&lt;/em&gt;&lt;/p&gt;</description>
 </item>
 </channel>
 </rss>
