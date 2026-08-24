@@ -4,8 +4,152 @@
 <title>Digest</title>
 <link>https://github.com/hasanpilot/rss-relay</link>
 <description>Curated from NetNewsWire. One feed, only the keepers.</description>
-<lastBuildDate>Sat, 22 Aug 2026 03:37:13 +0000</lastBuildDate>
+<lastBuildDate>Mon, 24 Aug 2026 03:36:16 +0000</lastBuildDate>
 <generator>feed-digest</generator>
+<item>
+<title>[AI] Anthropic appears to be A/B testing reduced effort levels in Claude Code</title>
+<link>https://twitter.com/argofowl/status/2091150597374537729</link>
+<guid isPermaLink="false">d-1229cdf1ebfc12ea</guid>
+<pubDate>Mon, 24 Aug 2026 03:36:15 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;HN reports Anthropic silently cut Fable's "high" effort to what "low" used to be, no changelog mention.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Post
+
+Post
+
+🥔🥔🥔 @argofowl update: it's server-side, not the app
+
+anthropic enrols fable 5 sessions on claude code 2.1.236+ into an experiment that shrinks the effort scale, older versions and opus 5 are left alone
+
+probably an a/b test, so not everyone will see it
+
+if "high" feels like "low" for you&lt;/p&gt;&lt;p&gt;&lt;em&gt;AI · Hacker News - Newest: ""Claude" "Anthropic""&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[AI] llm 0.33</title>
+<link>https://simonwillison.net/2026/Aug/22/llm/</link>
+<guid isPermaLink="false">d-439689f8d4db0fab</guid>
+<pubDate>Mon, 24 Aug 2026 03:36:14 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Simon Willison's llm CLI adds per-call API keys, combinable prompt templates, and a reasoning_summary option for Responses API models.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Release: llm 0.33 
+ My highlights from this release: 
+ 
+ 
+ Upgraded to the OpenAI Python library 3.x and switched the HTTP client dependency from httpx to httpx2 . #1608 , #1631 
+ 
+ 
+ I shipped a quick 0.32.1 fix for this yesterday, but this is the more comprehensive fix. 
+ 
+ 
+ llm embed and llm emb&lt;/p&gt;&lt;p&gt;&lt;em&gt;AI · Simon Willison's Weblog&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Aviation] Incident: Delta B764 at New York on Aug 21st 2026, engine compressor stalls</title>
+<link>https://avherald.com/h?article=53e49c42</link>
+<guid isPermaLink="false">d-795df67684f729f6</guid>
+<pubDate>Mon, 24 Aug 2026 03:36:13 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Delta 767's right CF6 engine had compressor stalls after takeoff; crew ran checklists and returned to JFK safely.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;A Delta Airlines Boeing 767-400, registration N845MH performing flight DL-747 from New York JFK,NY to Los Angeles,CA (USA), was climbing out of New York's runway 31L when the crew reported the right hand engine (CF6) compressor stalls, they regained control of the engine but nonetheless were returni&lt;/p&gt;&lt;p&gt;&lt;em&gt;Aviation · The Aviation Herald&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Aviation] Maintenance Error Re-Fitting a Louver Panel Causes Loss of Air Ambulance Tail Rotor</title>
+<link>https://aerossurance.com/air-accidents-incidents/haa-bk117-louver-tr-maintenance-error/</link>
+<guid isPermaLink="false">d-a3d0119830e41314</guid>
+<pubDate>Mon, 24 Aug 2026 03:36:12 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Investigators found a maintenance error re-fitting a louver panel caused an air ambulance to lose its tail rotor in flight.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;A skillful landing after a minor panel detached causing major damage. Investigators point to maintenance 
+ The post Maintenance Error Re-Fitting a Louver Panel Causes Loss of Air Ambulance Tail Rotor appeared first on .&lt;/p&gt;&lt;p&gt;&lt;em&gt;Aviation · Aerossurance&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Flight Simulation] Bad Weather Finder: Free Tool Plans Flight Simulator Routes Based on Weather Forecasts</title>
+<link>https://www.simflight.com/2026/08/23/bad-weather-finder-free-tool-plans-flight-simulator-routes-based-on-weather-forecasts/</link>
+<guid isPermaLink="false">d-7730c01c92147c3b</guid>
+<pubDate>Mon, 24 Aug 2026 03:36:11 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Free tool flips flight planning around, matching MSFS routes to forecasted bad-weather windows instead of current conditions, with SimBrief handoff.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;For flight simmers looking for challenging weather conditions, the scenario is all too familiar: selecting a destination because current reports show storms or low visibility, only for the weather to clear up by the time the flight is prepared and airborne. To solve this, a new free project created &lt;/p&gt;&lt;p&gt;&lt;em&gt;Flight Simulation · simFlight&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Flight Simulation] StrataSim Designs Releases StrataWx for MSFS 2020/2024</title>
+<link>https://thresholdx.net/stratasim-designs-releases-stratawx-for-msfs-2020-2024/</link>
+<guid isPermaLink="false">d-c59d8fb30dac6755</guid>
+<pubDate>Mon, 24 Aug 2026 03:36:10 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;New MSFS weather engine processes live/historical data outside the sim for smoother, more realistic wind, cloud and hazard transitions; $30-36.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;StrataSim Designs has released StrataWx . a new weather engine addon for Microsoft Flight Simulator 2020 and 2024. It provides live, historical, and manually configured weather data. 
+ 
+ 
+ 
+ 
+ StrataSim says StrataWx processes weather data outside the simulator and continuously updates in-flight con&lt;/p&gt;&lt;p&gt;&lt;em&gt;Flight Simulation · Threshold&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Fountain Pens] Three Keeper Inks: Choosing Inks for 10 Fountain Pens</title>
+<link>https://www.gentlemanstationer.com/blog/2026/8/22/three-unique-inks-choosing-inks-for-10-fountain-pens</link>
+<guid isPermaLink="false">d-c65b6bea654769e6</guid>
+<pubDate>Mon, 24 Aug 2026 03:36:09 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Gentleman Stationer explains matching wet/dry inks (including iron gall) to specific pens to fix flow and legibility problems.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;About a month ago, I undertook the “10 Fountain Pens” prompt challenge , in which I pulled 10 fountain pens from my collection that I would keep “if I could only keep 10.” Rather than just photograph them, I decided to ink or re-ink all 10 pens, since I hadn’t used several in quite some time. The in&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fountain Pens · The Gentleman Stationer&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Fountain Pens] How To Burnish Brass Pens?</title>
+<link>https://www.galenleather.com/blogs/news/how-to-burnish-brass-pens</link>
+<guid isPermaLink="false">d-916e43c693c272c4</guid>
+<pubDate>Mon, 24 Aug 2026 03:36:08 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Galen Leather explains burnishing brass with steel wool as a mechanical alternative to chemical polish, plus copper-vs-brass patina differences.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;There is something charming about the aged, antique look of brass. This is why, in true Galen Leather fashion, we created our Brass Collection of brass rulers, measuring tapes, paper clips, letter openers and more. We love antiques and we love the handcraft nature of these fine tools. 
+ What Does "B&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fountain Pens · Galen Leather - Blog&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Philosophy] The Drucker drift</title>
+<link>https://seths.blog/2026/08/the-drucker-drift/</link>
+<guid isPermaLink="false">d-3b2c3e3a4c08511d</guid>
+<pubDate>Mon, 24 Aug 2026 03:36:07 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Seth Godin contrasts Drucker's customer-first view of corporations with Friedman's shareholder-only one, arguing the drift toward Friedman costs everyone.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Peter Drucker argued that the purpose of a corporation is to serve the customer. It turns out that organizations that focus on this do well. 
+
+ Milton Friedman argued (mistakenly, in my view) that the corporation doesn’t need to care about customers, unless this helps increase the value of the compa&lt;/p&gt;&lt;p&gt;&lt;em&gt;Philosophy · Seth's Blog&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Shoes] World Championships of Shoemaking 2026 – All competition shoes pt. 1</title>
+<link>https://shoegazing.com/2026/08/23/world-championships-of-shoemaking-2026-all-competition-shoes-pt-1/</link>
+<guid isPermaLink="false">d-b74404cdb3d67395</guid>
+<pubDate>Mon, 24 Aug 2026 03:36:06 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;~21 min read — Shoegazing's detailed judged breakdown of the top 10 competition chelsea boots, techniques and construction photos.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Time for the substantial review of all 20 competition shoes that entered this year’s World Championships of Shoemaking. Info about the makers and the boots, comments, loads of pictures and, in some cases, photos of the manufacturing process. A close look at some seriously impressive black chelsea bo&lt;/p&gt;&lt;p&gt;&lt;em&gt;Shoes · Shoegazing.com&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Sim Racing] AMS2 Custom Mod Tracks Black Box Is Being Cracked: Mid-Ohio &amp; G&amp;J Kartway Await</title>
+<link>https://www.overtake.gg/news/ams2-custom-mod-tracks-black-box-is-being-cracked-mid-ohio-g-j-kartway-await.4788/</link>
+<guid isPermaLink="false">d-20998a294d0d235f</guid>
+<pubDate>Mon, 24 Aug 2026 03:36:05 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Modders cracked Automobilista 2's closed track-mod format; early Mid-Ohio and G&amp;amp;J Kartway conversions now downloadable.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Custom track mods for Automobilista 2 seemed impossible - until now: Two early versions of tracks are available in our download section. 
+ 
+One of Automobilista 2 's greatest strengths is its enormous variety in first-party content. Because of this, there is perhaps not as much of a need for mods as&lt;/p&gt;&lt;p&gt;&lt;em&gt;Sim Racing · OverTake.gg — News&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Watches] The ABCs of Time – The History and Evolution of Watch Clasps</title>
+<link>https://monochrome-watches.com/abcs-of-time-history-and-evolution-of-watch-clasps/</link>
+<guid isPermaLink="false">d-138a723a91b1a844</guid>
+<pubDate>Mon, 24 Aug 2026 03:36:04 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;~11 min read — Monochrome traces pin buckles to deployant, butterfly and modern micro-adjust clasps like Rolex Glidelock and Tudor's pressure-adaptive T-Fit.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Following up on our recent ABCs of Time article on the history of watch bracelets , we turn our attention to clasps, which are much more than simple closures today. In fact, some of the best are R&amp;amp;D marvels with intense engineering, CNC machining, extensive hand finishing and dozens of parts requiri&lt;/p&gt;&lt;p&gt;&lt;em&gt;Watches · Monochrome Watches&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Watches] Inside the Patek Philippe Cubitus 5840P, the first grand complication in the Cubitus collection</title>
+<link>http://www.timeandwatches.com/2026/08/patek-philippe-cubitus-5840p-skeletonised-perpetual-calendar.html</link>
+<guid isPermaLink="false">d-023cd92fd2a52900</guid>
+<pubDate>Mon, 24 Aug 2026 03:36:03 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;First grand complication in the Cubitus line: a skeletonised perpetual calendar with moonphase in a 45mm platinum case, €178,198.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The Patek Philippe Cubitus 5840P combines the collection’s square case architecture with a perpetual calendar and a fully skeletonised movement, presented here in a 45 mm platinum case.  It is the first Cubitus model to feature a Grand Complication since the launch of the collection in 2024 .  Its o&lt;/p&gt;&lt;p&gt;&lt;em&gt;Watches · Time and Watches&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Philosophy] Don’t eat if you’re not hungry</title>
+<link>https://seths.blog/2026/08/dont-eat-if-youre-not-hungry/</link>
+<guid isPermaLink="false">d-3b1e81964337702d</guid>
+<pubDate>Mon, 24 Aug 2026 03:36:02 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Seth Godin's short aphorism against forced consumption applies beyond dieting to any system demanding more than you actually need.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Don’t eat if you’re not hungry
+
+That’s not only good dieting advice.
+
+It works in just about every endeavor we sign up for.
+
+The system would like us to be insatiable on its behalf, but that’s not an invitation we’re required to accept.
+
+August 22, 2026&lt;/p&gt;&lt;p&gt;&lt;em&gt;Philosophy · Seth's Blog&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>✓ digest ran Mon 24 Aug 06:36 · 14 picks from 550 · feeds fetched 1h ago</title>
+<link></link>
+<guid isPermaLink="false">hb-202608240636</guid>
+<pubDate>Mon, 24 Aug 2026 03:36:16 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Quiet day for Coffee, Deen, Dining, Hi-Fi, Perfume and Secondaries — mostly forum chatter, PR blurbs, headline-only wire snippets or stale finance news, nothing cleared the bar.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;550 arrived, 115 shortlisted, 14 published. Gap-store fetched 1h ago. Folders seen: AI, Aviation, Coffee, Deen, Dining, Flight Simulation, Fountain Pens, Hi-Fi, Perfume, Philosophy, Secondaries, Shoes, Sim Racing, Watches.&lt;/p&gt;</description>
+</item>
 <item>
 <title>[AI] Claudette: Make Claude stop talking like a BuzzFeed article</title>
 <link>https://github.com/adnanakil/nobuzz/blob/main/README.md</link>
@@ -2155,155 +2299,6 @@ Both General Electric CF6 and Pratt &lt;/p&gt;&lt;p&gt;&lt;em&gt;Flight Simulati
 <pubDate>Fri, 07 Aug 2026 04:17:47 +0000</pubDate>
 <description>&lt;p&gt;&lt;strong&gt;Moths sense smell through receptor proteins in their wings, not just antennae, per a new Journal of Experimental Biology study.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;“The tobacco hawkmoth (Manduca sexta) was recently found to have receptor proteins in its wings that could detect different smells and tastes,” said Dr. Sonja Bisch-Knaden, lead author of a study published in the Journal of Experimental Biology. 
  “But receptor proteins are only the beginning of th&lt;/p&gt;&lt;p&gt;&lt;em&gt;Perfume · Now Smell This&lt;/em&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Philosophy] The modern library</title>
-<link>https://seths.blog/2026/08/the-modern-library/</link>
-<guid isPermaLink="false">d-ccfdd02d2f494461</guid>
-<pubDate>Fri, 07 Aug 2026 04:17:46 +0000</pubDate>
-<description>&lt;p&gt;&lt;strong&gt;Seth Godin: libraries survive by trading in possibility, not data — a one-minute reframe of what they're for.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Is this where books go to die? 
-
- There are about 7500 public libraries in the US, and until recently, more than a third of their transactions were for DVDs. 
-
- What’s a library for? The media has changed, our needs have changed, but the dynamics of funding, architecture and expectation have largely&lt;/p&gt;&lt;p&gt;&lt;em&gt;Philosophy · Seth's Blog&lt;/em&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Philosophy] The river and the labyrinth – part II</title>
-<link>https://figsinwintertime.substack.com/p/the-river-and-the-labyrinth-part-841</link>
-<guid isPermaLink="false">d-245fdf5ba002a6df</guid>
-<pubDate>Fri, 07 Aug 2026 04:17:45 +0000</pubDate>
-<description>&lt;p&gt;&lt;strong&gt;Figs in Winter argues Whitehead's panpsychism just relabels the mind-body problem rather than solving it.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Fields and particles: modern physics’ rendition of Heraclitus’s vision. Image by Nano Banana. According to Alfred North Whitehead’s so-called process metaphysics, the fabric of the world consists of processes, not static entities. As we have seen last time , this is a notion that – in one form or an&lt;/p&gt;&lt;p&gt;&lt;em&gt;Philosophy · Figs in Winter: a Community of Reason&lt;/em&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Secondaries] Major US law firms explore PE investment through alternative ownership structures</title>
-<link>https://www.privateequitywire.co.uk/major-us-law-firms-explore-pe-investment-through-alternative-ownership-structures/</link>
-<guid isPermaLink="false">d-92bc377caf99b426</guid>
-<pubDate>Fri, 07 Aug 2026 04:17:44 +0000</pubDate>
-<description>&lt;p&gt;&lt;strong&gt;Paul Weiss, Quinn Emanuel and Proskauer are exploring MSO structures to let private equity invest in law firm ownership.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Several of the largest US law firms are assessing whether alternative ownership models could open the door to private equity investment, as firms seek new sources of capital to fund growth, technology investment and talent acquisition, according to a report by the Financial Times. 
- According to rep&lt;/p&gt;&lt;p&gt;&lt;em&gt;Secondaries · Private Equity Wire&lt;/em&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Secondaries] Behind GP-leds’ banner H1 figures</title>
-<link>https://www.secondariesinvestor.com/behind-gp-leds-banner-h1-figures/</link>
-<guid isPermaLink="false">d-c2eac6a0a7c65605</guid>
-<pubDate>Fri, 07 Aug 2026 04:17:43 +0000</pubDate>
-<description>&lt;p&gt;&lt;strong&gt;GP-led secondaries posted a strong H1, driven by fundraising growth and expansion into new asset classes.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Market volatility only tells part of the story of the GP-led market’s domination in the first six months of the year, with fundraising and expansion into new asset classes also driving growth.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Secondaries · Secondaries Investor&lt;/em&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Sim Racing] Corsair Gaming Acquires Trak Racer To Expand Fanatec Ecosystem</title>
-<link>https://www.overtake.gg/news/corsair-gaming-acquires-trak-racer-to-expand-fanatec-ecosystem.4745/</link>
-<guid isPermaLink="false">d-d435560980a0e52f</guid>
-<pubDate>Fri, 07 Aug 2026 04:17:42 +0000</pubDate>
-<description>&lt;p&gt;&lt;strong&gt;Corsair acquires Trak Racer's assets, extending its Fanatec/Endor sim-hardware portfolio further into cockpits and rigs.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Corsair seems to be taking sim racing by the proverbial horns in 2026 with this new acquisition of Trak Racer's assets. 
- 
-The move adds another established name to Corsair's portfolio, less than two years after the company acquired the Fanatec brand and Endor AG . Together, the acquisitions strengt&lt;/p&gt;&lt;p&gt;&lt;em&gt;Sim Racing · OverTake.gg — News&lt;/em&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Sim Racing] Batangas Racing Circuit Recreated With Millimeter Accuracy For Free</title>
-<link>https://www.overtake.gg/threads/batangas-racing-circuit-recreated-with-millimeter-accuracy-for-free.297836/</link>
-<guid isPermaLink="false">d-9dfe78c2abef55c8</guid>
-<pubDate>Fri, 07 Aug 2026 04:17:41 +0000</pubDate>
-<description>&lt;p&gt;&lt;strong&gt;A free, millimeter-accurate LIDAR scan of Batangas Racing Circuit is now available as an Assetto Corsa mod.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;CONSPIT Summer Promotion | Save up to 15% from July 20 – August 20. Use code: OVERTAKE for 5% off other products!
-🏷️ Save 3% at MOZA with code "OVERTAKE" or find other deals in the Mid-YEAR SALE - upgrade your setup for less!! 🏷️
-🏷️ Save 5% on the Fanatec world of wheelbases, steering wheels and coc&lt;/p&gt;&lt;p&gt;&lt;em&gt;Sim Racing · OverTake.gg&lt;/em&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Watches] Hands-On: The Parmigiani Fleurier 30th Anniversary Carillon Tourbillon</title>
-<link>https://www.hodinkee.com/articles/the-parmigiani-fleurier-30th-anniversary-carillon-tourbillon</link>
-<guid isPermaLink="false">d-3c7334afd8f0811f</guid>
-<pubDate>Fri, 07 Aug 2026 04:17:40 +0000</pubDate>
-<description>&lt;p&gt;&lt;strong&gt;Hodinkee hands-on: Parmigiani's 5-piece Carillon Tourbillon, CHF 490,000, hides a minute repeater under a deceptively plain hammered dial.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Parmigiani Fleurier is a brand that has long embodied the idea of quiet luxury — or "private luxury," as Parmigiani CEO Guido Terrini asserts — frankly, sometimes to a fault. Many of its models pair spectacular watchmaking with a radically simplified design language, and the unique execution of a me&lt;/p&gt;&lt;p&gt;&lt;em&gt;Watches · Hodinkee&lt;/em&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Watches] Hands-On: Laps Leaps into New Territory with the Arche, their First Mechanical Model</title>
-<link>https://wornandwound.com/review/hands-on-laps-leaps-into-new-territory-with-the-arche-their-first-mechanical-model/</link>
-<guid isPermaLink="false">d-51d28007df183a7d</guid>
-<pubDate>Fri, 07 Aug 2026 04:17:39 +0000</pubDate>
-<description>&lt;p&gt;&lt;strong&gt;Worn &amp;amp; Wound's hands-on with Laps' first mechanical watch, the Arche — case-focused design backed by a Miyota 9015.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;What started as a fashion watch brand a decade ago is making a leap into more traditional watchmaking territory. Laps has introduced its first mechanical model, the Arche as part of a new Studio Series. The collection consists of four iterations, two with simple textured dials and two that take on o&lt;/p&gt;&lt;p&gt;&lt;em&gt;Watches · Worn &amp;amp; Wound&lt;/em&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Hi-Fi] I figured out a way for people to test the audibility of ultrasonics (controlling for IMD)</title>
-<link>https://www.audiosciencereview.com/forum/index.php?threads/i-figured-out-a-way-for-people-to-test-the-audibility-of-ultrasonics-controlling-for-imd.72707/</link>
-<guid isPermaLink="false">d-30fd573048b08103</guid>
-<pubDate>Fri, 07 Aug 2026 04:17:38 +0000</pubDate>
-<description>&lt;p&gt;&lt;strong&gt;A simple DIY method, downsample/lowpass in Audacity, to test ultrasonics audibility without special super-tweeter gear.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;In some studies testing the impact of ultrasonics they used a separate "super tweeter" with digital crossover to avoid IMD from the ultrasonics interacting with lower frequencies. 
- 
-But there is actually a stupidly simple way for people to test that without any special equipment (besides speakers a&lt;/p&gt;&lt;p&gt;&lt;em&gt;Hi-Fi · Audio Science Review (ASR) Forum&lt;/em&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>✓ digest ran Fri 07 Aug 07:17 · 18 picks from 349 · feeds fetched 1h ago</title>
-<link></link>
-<guid isPermaLink="false">hb-202608070717</guid>
-<pubDate>Fri, 07 Aug 2026 04:17:56 +0000</pubDate>
-<description>&lt;p&gt;&lt;strong&gt;Quiet day for AI, Coffee and Tea — nothing cleared the bar; Watches, Secondaries and Aviation carried the issue instead.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;349 arrived, 94 shortlisted, 18 published. Gap-store fetched 10h ago. Folders seen: AI, Aviation, Coffee, Deen, Dining, Flight Simulation, Fountain Pens, Hi-Fi, Perfume, Philosophy, Secondaries, Sim Racing, Tea, Watches.&lt;/p&gt;</description>
-</item>
-<item>
-<title>[AI] One-shotting a Raccoon Heist game using Claude Fable 5</title>
-<link>https://simonwillison.net/2026/Aug/5/raccoon-heist/#atom-everything</link>
-<guid isPermaLink="false">d-dbab90f2d4d4287a</guid>
-<pubDate>Thu, 06 Aug 2026 04:28:36 +0000</pubDate>
-<description>&lt;p&gt;&lt;strong&gt;Simon Willison's build log for a Claude Fable 5 game — GitHub Pages live-preview trick and Playwright self-testing are techniques worth stealing. ~13 min read.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Back in 2024 I tweeted screenshots of a game concept generated by GPT-3 and some concept "art" created using DALL-E. Today, on the fourth anniversary of that tweet, I decided to see if Claude Fable 5 (running in Claude Code for web ) could build the entire game from the content of that tweet. It did&lt;/p&gt;&lt;p&gt;&lt;em&gt;AI · Simon Willison's Weblog&lt;/em&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Aviation] Incident: EAT B752 at Leipzig on Aug 5th 2026, go around and collision with unknown object</title>
-<link>https://avherald.com/h?article=53cc9c81</link>
-<guid isPermaLink="false">d-a015281002b59cf4</guid>
-<pubDate>Thu, 06 Aug 2026 04:28:35 +0000</pubDate>
-<description>&lt;p&gt;&lt;strong&gt;757 freighter went around near Leipzig and hit a drone carrying an explosive device; device defused, aircraft landed safely at Hanover.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;An EAT Leipzig Boeing 757-200 freighter, registration D-ALEU performing flight QY-9LE from Marseille (France) to Leipzig (Germany), was on final approach to Leipzig's runway 08L when the crew went around from about 1000 feet MSL. The aircraft subsequently collided with an unknown object. The aircraf&lt;/p&gt;&lt;p&gt;&lt;em&gt;Aviation · The Aviation Herald&lt;/em&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Aviation] FAA Mobile Clearance Tool: No More Verbal Ping Pong</title>
-<link>https://ops.group/blog/faa-mobile-clearance-tool-no-more-verbal-ping-pong/</link>
-<guid isPermaLink="false">d-1cfa518f0de1b4dd</guid>
-<pubDate>Thu, 06 Aug 2026 04:28:34 +0000</pubDate>
-<description>&lt;p&gt;&lt;strong&gt;FAA's new app-based IFR clearance delivery (ForeFlight, Garmin Pilot) replaces radio read-backs; expanding from Texas test airports this fall.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The FAA want us off the radio. And with good reason. More than half of IFR clearance requests are still done the old fashioned way, via VHF.
-
-Familiar with this routine? You key the mic for your IFR clearance and get nothing back. Three other aircraft, a taxi request and a full route read back to so&lt;/p&gt;&lt;p&gt;&lt;em&gt;Aviation · International Ops 2026 – OPSGROUP&lt;/em&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Clothing] Homage to Spain (and its style)</title>
-<link>https://www.permanentstyle.com/2026/08/homage-to-spain-and-its-style.html</link>
-<guid isPermaLink="false">d-0a0b42aa5463cbaf</guid>
-<pubDate>Thu, 06 Aug 2026 04:28:33 +0000</pubDate>
-<description>&lt;p&gt;&lt;strong&gt;Permanent Style's deep dive into Madrid vs Barcelona tailoring and the Teba jacket's origins — why Spaniards dress so conservatively. ~19 min read.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Homage to Spain (and its style) 
- 
- Share 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- Share this post 
- 
- 
- 
- Subscribe 
- 31 Comments 
- 
- Add to favourites 
- 
- 
- Wednesday, August 5 th 2026 Tags: Style Travel Bel y Cia casa sartorial casa sesena hackett momos tailors monte lys 
-
- ||- Begin Content -|| 
- 
- 
- By Manish P&lt;/p&gt;&lt;p&gt;&lt;em&gt;Clothing · Permanent Style&lt;/em&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Coffee] Coffee Borer Beetles Are Making Homes For The Ants That Hunt Them</title>
-<link>https://sprudge.com/coffee-borer-beetles-are-making-homes-for-the-ants-that-hunt-them-1251142.html</link>
-<guid isPermaLink="false">d-bc25ff2a0ae889c7</guid>
-<pubDate>Thu, 06 Aug 2026 04:28:32 +0000</pubDate>
-<description>&lt;p&gt;&lt;strong&gt;Researchers found ants nesting inside beetle-damaged coffee cherries and preying on the pest — a possible natural, pesticide-free control method.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;News
-
-The coffee borer beetle has historically been one of the biggest scourges to coffee production. Native to Africa but since spread throughout all coffee producing regions, “ the most harmful insect pest of coffee worldwide ” will, as their name suggest, bore into coffee cherries, ruining it and&lt;/p&gt;&lt;p&gt;&lt;em&gt;Coffee · Sprudge Coffee&lt;/em&gt;&lt;/p&gt;</description>
 </item>
 </channel>
 </rss>
