@@ -4,8 +4,119 @@
 <title>Digest</title>
 <link>https://github.com/hasanpilot/rss-relay</link>
 <description>Curated from NetNewsWire. One feed, only the keepers.</description>
-<lastBuildDate>Sat, 29 Aug 2026 09:22:09 +0000</lastBuildDate>
+<lastBuildDate>Sun, 30 Aug 2026 03:33:18 +0000</lastBuildDate>
 <generator>feed-digest</generator>
+<item>
+<title>[AI] Introducing Hy4 Preview</title>
+<link>https://simonwillison.net/2026/Aug/29/hy4/</link>
+<guid isPermaLink="false">d-47e7c013e7af010e</guid>
+<pubDate>Sun, 30 Aug 2026 03:33:17 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Tencent's Hy4 jumps to 770B params/1M context; chat template shows only two reasoning settings, 'high' or off entirely.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Introducing Hy4 Preview 
+New open weight text input (no vision) LLM from Chinese company Tencent today: 770B total parameters, 49B active parameters, 1M token context window, 1.56TB on Hugging Face . 
+ This is a big size increase from their previous Hy3 in July, which was 295B, 21B active, 256,000 c&lt;/p&gt;&lt;p&gt;&lt;em&gt;AI · Simon Willison's Weblog&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Aviation] Incident: United B763 over Sardinia on Aug 27th 2026, loss of cabin pressure</title>
+<link>https://avherald.com/h?article=53f48a4f</link>
+<guid isPermaLink="false">d-78dbb901a40b4559</guid>
+<pubDate>Sun, 30 Aug 2026 03:33:16 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;United 767 made an emergency descent from FL330 over Sardinia after cabin depressurization, dumped fuel, diverted safely to Barcelona.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;A United Boeing 767-300, registration N649UA performing flight UA-127 from Rome (Italy) to Washington Dulles,DC (USA), was enroute at FL330 over Sardinia when the crew initiated an emergency descent to FL100 due to the loss of cabin pressure. The aircraft diverted to Barcelona,SP (Spain) for a safe &lt;/p&gt;&lt;p&gt;&lt;em&gt;Aviation · The Aviation Herald&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Flight Simulation] Orbx Releases Stavanger Sola Airport for MSFS</title>
+<link>https://fselite.net/content/orbx-releases-stavanger-sola-airport-for-msfs/</link>
+<guid isPermaLink="false">d-1af2c226871ee029</guid>
+<pubDate>Sun, 30 Aug 2026 03:33:15 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Orbx ships detailed Stavanger Sola scenery for MSFS with interior modelling, animated jetways and VDGS — $26.99, available now.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Experience this Norwegian gateway with Orbx latest release.
+
+Orbx has released Stavanger Sola Airport (ENZV) for Microsoft Flight Simulator 2020 and 2024. Stavanger Airport is located on the south west coast of Norway, serving the city of Stavanger and its surrounding area. The airport is the third &lt;/p&gt;&lt;p&gt;&lt;em&gt;Flight Simulation · FSElite&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Fountain Pens] Thoughts on the 2026 Pelikan Hubs Situation</title>
+<link>https://dappr.net/2026/08/29/thoughts-on-the-pelikan-2026-hubs-situation/</link>
+<guid isPermaLink="false">d-6155d66d40c8ce24</guid>
+<pubDate>Sun, 30 Aug 2026 03:33:14 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;A Hub Master's inside take on Pelikan's shrinking hub gifts and likely range cuts since Hamelin's 2023 buyout. ~4 min read.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;I actually first posted this in two groups on Facebook, Fountain Pens UK and Fountain Pens are Inkredible, but have also decided to post this piece here to widen the audience of my views, especially as many of you who are regular readers (or were until I hit a creative wall near the start of the yea&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fountain Pens · dapprman&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Fountain Pens] Found nice bottle for refilling cartridge/converter on the go</title>
+<link>https://www.reddit.com/r/fountainpens/comments/1w1jvf4/found_nice_bottle_for_refilling/</link>
+<guid isPermaLink="false">d-6566be39fde649fc</guid>
+<pubDate>Sun, 30 Aug 2026 03:33:13 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;A childproof 10ml refill bottle with a syringe needle that actually fits Chinese-standard 2.6mm converters for topping up on the go.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The bottle made out PET plastic and quite sturdy, i bought 10ml capacity but there are more larger capacity. I like the cap because it has childproof caps mechanism and less likely to accidentally opened. The needle almost similar as typical blunt-tip needle for disposable syringe. As illustrated in&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fountain Pens · New Jinhao — r/fountainpens&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Hi-Fi] DecayCore —  Free FIR room correction with temporal decay control, automatic optimization and measurement workflow</title>
+<link>https://www.audiosciencereview.com/forum/index.php?threads/decaycore-%E2%80%94-free-fir-room-correction-with-temporal-decay-control-automatic-optimization-and-measurement-workflow.71313/</link>
+<guid isPermaLink="false">d-4b22d378c8fe1286</guid>
+<pubDate>Sun, 30 Aug 2026 03:33:12 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;New free FIR room-correction tool (ex-CamillaFIR) generates band-limited, physically sensible filters from REW or WAV/IR captures for CamillaDSP.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Hi everyone, 
+ 
+I wanted to introduce DecayCore , formerly known as CamillaFIR . 
+ 
+DecayCore is a FIR room-correction and filter-generation tool for CamillaDSP and other FIR-capable DSP engines. The main goal is not just to draw a target curve and force the response to match it, but to generate cor&lt;/p&gt;&lt;p&gt;&lt;em&gt;Hi-Fi · Audio Science Review (ASR) Forum&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Philosophy] Fit and Finish</title>
+<link>https://seths.blog/2026/08/fit-and-finish-3/</link>
+<guid isPermaLink="false">d-0066966c026d4011</guid>
+<pubDate>Sun, 30 Aug 2026 03:33:11 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Short Seth Godin essay: fit-and-finish, in tools or software, is a quiet investment that's always first on the chopping block.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Snap, crackle and pop. 
+
+ A set of German-made socket wrenches can turn a bolt in a similar way to a cheaper alternative, but it feels far more rewarding. 
+
+ More than forty years ago, I started using a Mac. The first thing one noticed was hard to put words on–everything about it simply clicked bett&lt;/p&gt;&lt;p&gt;&lt;em&gt;Philosophy · Seth's Blog&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Sim Racing] TrackTime Series One Cockpit Review: Unique, Ridiculously Rigid and Expensive</title>
+<link>https://ocracing.com/reviews/tracktime-series-one-cockpit-review/</link>
+<guid isPermaLink="false">d-ca3584aac7986f74</guid>
+<pubDate>Sun, 30 Aug 2026 03:33:10 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Independent review of TrackTime's Series One cockpit: fussy to build but exceptionally rigid; the optional seat is the weak point. ~7 min read.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Before getting into the cockpit itself, a necessary disclosure. TrackTime provided the Series One at no cost for review . They had no input on this article and did not see it before publication. As always, all thoughts and opinions here are entirely my own. 
+
+ The TrackTime Series One is one of the &lt;/p&gt;&lt;p&gt;&lt;em&gt;Sim Racing · OC Racing&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Watches] Introducing – The new L.Leroy Vox Temporis Tourbillon Minute Repeater, with Tact-Inspired Single-Hand Display</title>
+<link>https://monochrome-watches.com/new-l-leroy-vox-temporis-tourbillon-minute-repeater-tact-watch-inspired-single-hand-display-introducing-price/</link>
+<guid isPermaLink="false">d-86da97854c12d75c</guid>
+<pubDate>Sun, 30 Aug 2026 03:33:09 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;L.Leroy's new Vox Temporis: single-hand rotating-dial tourbillon minute repeater, gold/platinum/titanium, limited to 15 pieces from CHF 265,000.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Named after the illustrious 18th-century watchmaker Charles Leroy, L.Leroy made its return over the past couple of years with high-end complications such as the Osmior Bal du Temps Tourbillon Minute Repeater or the Elyor Flying Tourbillon . Yet, the first watch heralding this renaissance was a uniqu&lt;/p&gt;&lt;p&gt;&lt;em&gt;Watches · Monochrome Watches&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Watches] Panerai Luminor Marina PAM01707 Carbotech combines high-tech with vintage style</title>
+<link>http://www.timeandwatches.com/2026/08/panerai-luminor-marina-pam01707-carbotech.html</link>
+<guid isPermaLink="false">d-49069f053e63c3d2</guid>
+<pubDate>Sun, 30 Aug 2026 03:33:08 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Panerai's new Luminor Marina Carbotech: 44mm carbon-composite case 64% lighter than titanium, three-day P.9010 movement, €15,200.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The new Panerai Luminor Marina PAM01707 combines the collection’s established 1960s-inspired design with a 44 mm case in Carbotech, a lightweight carbon-fibre composite.  The watch pairs the material with a matte black sandwich dial, beige Super-LumiNova, and a three-day automatic movement. Carbotec&lt;/p&gt;&lt;p&gt;&lt;em&gt;Watches · Time and Watches&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Aviation] Incident: United B764 near Newark on Aug 28h 2026, lost RVSM capability</title>
+<link>https://avherald.com/h?article=53f4cb6f</link>
+<guid isPermaLink="false">d-f8bd92d50cbb4a4d</guid>
+<pubDate>Sun, 30 Aug 2026 03:33:07 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;United 767 lost RVSM capability climbing out of Newark and returned; aircraft still grounded 15 hours later, fault unresolved.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;A United Boeing 767-400, registration N69059 performing flight UA-385 from Newark,NJ (USA) to Dubrovnik (Croatia), was climbing out of Newark when the crew stopped the climb at FL250 with a block altitude clearance FL240-FL260. The crew queried ATC what altitude they were showing, the controller res&lt;/p&gt;&lt;p&gt;&lt;em&gt;Aviation · The Aviation Herald&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>[Hi-Fi] Neumann KH 310A Review (Powered Monitor)</title>
+<link>https://www.audiosciencereview.com/forum/index.php?threads/neumann-kh-310a-review-powered-monitor.17723/</link>
+<guid isPermaLink="false">d-cab72f3cc3e7b507</guid>
+<pubDate>Sun, 30 Aug 2026 03:33:06 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;ASR's full measurement review of the Neumann KH 310A monitor, currently discounted to $2,200 each — dense, well-specced 3-way design.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;This is a review and detailed measurements of the Neumann KH 310A active monitor (speaker). It was kindly sent to me by the company for testing. I see it discounted to US $2,200 (each) as of this writing. 
+ 
+This is one dense and heavy 3-way speaker: 
+ 
+ 
+ 
+I was relieved to find "rack mount" ears t&lt;/p&gt;&lt;p&gt;&lt;em&gt;Hi-Fi · Audio Science Review (ASR) Forum&lt;/em&gt;&lt;/p&gt;</description>
+</item>
+<item>
+<title>✓ digest ran Sun 30 Aug 06:33 · 12 picks from 181 · feeds fetched 1h ago</title>
+<link></link>
+<guid isPermaLink="false">hb-202608300633</guid>
+<pubDate>Sun, 30 Aug 2026 03:33:18 +0000</pubDate>
+<description>&lt;p&gt;&lt;strong&gt;Quiet day for hobby news — Coffee, Chocolate, Deen, Dining, Perfume and Secondaries all came up empty; Secondaries in particular was wall-to-wall stale Google News aggregator snippets.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;181 arrived, 68 shortlisted, 12 published. Gap-store fetched 1h ago. Folders seen: AI, Aviation, Chocolate, Coffee, Deen, Dining, Flight Simulation, Fountain Pens, Hi-Fi, Perfume, Philosophy, Secondaries, Sim Racing, Watches.&lt;/p&gt;</description>
+</item>
 <item>
 <title>[AI] Breaking Claude Code Opus 5 Auto Mode</title>
 <link>https://simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode/</link>
@@ -2258,119 +2369,6 @@ Not satisfied, i bought from Aliexpress the cheapest eARC audio extractor that I
 <description>&lt;p&gt;&lt;strong&gt;Real-life drivers caught deliberately laying gravel on track before qualifying to disrupt top-split iRacing rivals; community backlash.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Two high-profile real-life drivers and a pro sim racer have come under fire after being seen intentionally running through gravel traps and laying down gravel on the surface before qualifying. 
  
 There is no shortage of real-life racing drivers who can be found on iRacing , having fun and mucking ab&lt;/p&gt;&lt;p&gt;&lt;em&gt;Sim Racing · OverTake.gg — News&lt;/em&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Sim Racing] Over The Hill releases on PC October, consoles 2027</title>
-<link>https://traxion.gg/over-the-hill-releases-october-consoles-2027/</link>
-<guid isPermaLink="false">d-ba5c937855b62205</guid>
-<pubDate>Tue, 11 Aug 2026 05:41:53 +0000</pubDate>
-<description>&lt;p&gt;&lt;strong&gt;Funselektor's co-op overlanding driving game (1.2M Steam wishlists) gets a confirmed October 14 PC release date.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The slow-paced overlanding driving exploration will hit Steam on 14th October 2026, following 1.2 million wishlists. 
- The post Over The Hill releases on PC October, consoles 2027 appeared first on Traxion.GG .&lt;/p&gt;&lt;p&gt;&lt;em&gt;Sim Racing · Traxion.GG&lt;/em&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Watches] Inside The Manufacture: Making A Tudor: A Behind-The-Scenes Look, From Raw Material To Finished Product [Video]</title>
-<link>https://www.hodinkee.com/articles/making-a-tudor-a-behind-the-scenes-look-from-raw-material-to-finished-product-video</link>
-<guid isPermaLink="false">d-5246600a1045455a</guid>
-<pubDate>Tue, 11 Aug 2026 05:41:52 +0000</pubDate>
-<description>&lt;p&gt;&lt;strong&gt;A real behind-the-scenes teardown of how a Tudor gets made, case to dial to movement, across Swiss workshops (~8 min read).&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Earlier this year, Tudor invited a small group of watch media into its Swiss manufacturing network to see what "Swiss Made" actually means in practice—not a one-stop visit in a single day, but the full process from start to finish over multiple days. I've been on plenty of manufacturer tours, and I'&lt;/p&gt;&lt;p&gt;&lt;em&gt;Watches · Hodinkee&lt;/em&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Watches] Introducing – The Ceon GR-01, an Indie Watch Designed and Built in Brazil</title>
-<link>https://monochrome-watches.com/the-ceon-gr-01-an-indie-watch-designed-and-built-in-brazil/</link>
-<guid isPermaLink="false">d-75fda9516a1c2a2c</guid>
-<pubDate>Tue, 11 Aug 2026 05:41:51 +0000</pubDate>
-<description>&lt;p&gt;&lt;strong&gt;A solo Brazilian watchmaker's ultra-thin indie debut, with a magnetic clasp made possible by heat-treated steel that turns ferromagnetic.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Independent watchmaking sprouts far beyond well-known centres, and one of the latest examples comes from an unexpected country we largely associate with Carnival, samba, football legends, and the Amazon rainforest. Ceon Watch Co., a new atelier based in Curitiba, Brazil, reveals the GR-01, an ultra-&lt;/p&gt;&lt;p&gt;&lt;em&gt;Watches · Monochrome Watches&lt;/em&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Hi-Fi] Topping DX3 Pro+ Review (DAC &amp; Headphone Amp)</title>
-<link>https://www.audiosciencereview.com/forum/index.php?threads/topping-dx3-pro-review-dac-headphone-amp.27148/</link>
-<guid isPermaLink="false">d-acac4a3f33ab4057</guid>
-<pubDate>Tue, 11 Aug 2026 05:41:50 +0000</pubDate>
-<description>&lt;p&gt;&lt;strong&gt;Measured review of Topping's $199 DX3 Pro+ DAC/headphone amp, successor to a reviewer favorite.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;This is a review and detailed measurements of the Topping DX3 Pro+ DAC and headphone amplifier. It is a replacement for one of my most favorite combo products, the DX3 Pro. It was sent to me by the company and costs US $199. 
- 
-The DX3 Pro+ maintains the gorgeous and high contrast orange LEDs which &lt;/p&gt;&lt;p&gt;&lt;em&gt;Hi-Fi · Audio Science Review (ASR) Forum&lt;/em&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>⚠ digest ran Tue 11 Aug 08:42 · 17 picks from 412 · feeds fetched 0h ago</title>
-<link></link>
-<guid isPermaLink="false">hb-202608110842</guid>
-<pubDate>Tue, 11 Aug 2026 05:42:07 +0000</pubDate>
-<description>&lt;p&gt;&lt;strong&gt;Gap-store fetch is stale — gap-only feeds may be missing.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;412 arrived, 77 shortlisted, 17 published. Gap-store fetched 15h ago. Folders seen: AI, Aviation, Clothing, Dining, Flight Simulation, Fountain Pens, Hi-Fi, Philosophy, Secondaries, Shoes, Sim Racing, Tea, Watches.&lt;/p&gt;</description>
-</item>
-<item>
-<title>[AI] Message your other Claude Code sessions</title>
-<link>https://code.claude.com/docs/en/cross-session-messaging</link>
-<guid isPermaLink="false">d-f7f8198220a3247f</guid>
-<pubDate>Mon, 10 Aug 2026 05:31:23 +0000</pubDate>
-<description>&lt;p&gt;&lt;strong&gt;Explains Claude Code's new cross-session messaging: sessions can hand off findings, coordinate worktrees, and report status to each other.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;​ When to use cross-session messaging
-
-Hand over a finding : when one session discovers a breaking change or makes a decision, Claude summarizes it for the session working on the affected area, instead of you re-explaining it there.
-
-Coordinate parallel worktrees : when sessions work the same reposi&lt;/p&gt;&lt;p&gt;&lt;em&gt;AI · Hacker News - Newest: ""Claude" "Anthropic""&lt;/em&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[AI] SQLite compressed text-history prototypes</title>
-<link>https://simonwillison.net/2026/Aug/9/sqlite-text-history-prototype/#atom-everything</link>
-<guid isPermaLink="false">d-d61269225dd15990</guid>
-<pubDate>Mon, 10 Aug 2026 05:31:22 +0000</pubDate>
-<description>&lt;p&gt;&lt;strong&gt;Willison prototypes storing document revision history as zstd-compressed JSON in SQLite, shrinking 20MB of history to 80KB.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Research: SQLite compressed text-history prototypes 
- I'm perennially interested in options for storing revision histories in relational databases. While out on a dog walk I had a new idea: how about taking the full text of every prior version in a big JSON array of strings and then applying zlib or&lt;/p&gt;&lt;p&gt;&lt;em&gt;AI · Simon Willison's Weblog&lt;/em&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Aviation] Delta passengers evacuate on escape slides after emergency landing</title>
-<link>https://www.aerotime.aero/articles/delta-passengers-evacuate-on-escape-slides-after-emergency-landing</link>
-<guid isPermaLink="false">d-4b9f6676bd8a992d</guid>
-<pubDate>Mon, 10 Aug 2026 05:31:21 +0000</pubDate>
-<description>&lt;p&gt;&lt;strong&gt;Delta 757 diverted back to Atlanta with cockpit smoke; 199 passengers evacuated via slides onto the taxiway, two treated for injuries.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Delta Air Lines passengers were forced to evacuate a Boeing 757-200 on escape slides at Hartsfield-Jackson Atlanta International Airport (ATL) following an emergency landing. 
-
- On August 8, 2026, the Delta Air Lines flight left Atlanta at 07:35, for Orlando International Airport (MCO) but diverted &lt;/p&gt;&lt;p&gt;&lt;em&gt;Aviation · AeroTime&lt;/em&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Aviation] Incident: Cebu Pacific A21N at Butuan on Aug 9th 2026, runway excursion during line up</title>
-<link>https://avherald.com/h?article=53d0878d</link>
-<guid isPermaLink="false">d-f49e17da32fc831c</guid>
-<pubDate>Mon, 10 Aug 2026 05:31:20 +0000</pubDate>
-<description>&lt;p&gt;&lt;strong&gt;Cebu Pacific A321neo's nose gear went off the runway edge while lining up at Butuan; aircraft still disabled 14.5 hours later.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;A Cebu Pacific Airlines Airbus A321-200N, registration RP-C4120 performing flight 5J-786 from Butuan to Manila (Philippines), was backtracking Butuan's runway 12 for departure when upon turning around to line up the aircraft's nose gear went off the paved surface. The aircraft became disabled. The a&lt;/p&gt;&lt;p&gt;&lt;em&gt;Aviation · The Aviation Herald&lt;/em&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Watches] Just Because – The Rising Creativity of China’s Independent Watchmakers</title>
-<link>https://monochrome-watches.com/just-because-qin-gan-atelier-wen-fam-al-hut-qian-guobiao-peacock-chinese-watchmaking/</link>
-<guid isPermaLink="false">d-04724abcc15f3995</guid>
-<pubDate>Mon, 10 Aug 2026 05:31:19 +0000</pubDate>
-<description>&lt;p&gt;&lt;strong&gt;Profiles five independent Chinese watchmakers (Qin Gan, Fam Al-Hut, Atelier Wen, Qian GuoBiao, Peacock) making genuinely original high-end pieces, not copies.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Despite Switzerland still being the epicentre of the industry, our love of watchmaking goes far beyond its borders. For years, we have been following the developments of other nations, virtually extending to all corners of the world. That always comes with the burden of stigmas, as changing one’s pe&lt;/p&gt;&lt;p&gt;&lt;em&gt;Watches · Monochrome Watches&lt;/em&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Secondaries] Anthropic warns investors against secondary platforms offering access to its shares - TechCrunch</title>
-<link>https://news.google.com/rss/articles/CBMiugFBVV95cUxPMlNqQ1Z3TUJoSFRzQ3dQaUswVUdGZ1ROeGN0Rnd6VHFSQmN0bV8xTURUMjUxSDFrSnRIQjFzVGFLS00tLXFUekw1U2N6LXo2T1RzVE9MOXd6SWItZVppenNVSzlPNkxiQS1aYjUxZ2JMcWJNRTM2cWdPVEg5MWU5Yi03NUw5eEI5R0ZjcEFfYWY1Ykpfak9IN3NYY1ZkSG1QRm9UNWx3UzZCUlZtWkRPVHNCejNiMWx2SVE?oc=5</link>
-<guid isPermaLink="false">d-0abe187e735c74a5</guid>
-<pubDate>Mon, 10 Aug 2026 05:31:18 +0000</pubDate>
-<description>&lt;p&gt;&lt;strong&gt;Anthropic is warning investors off unauthorized secondary platforms selling access to its private shares.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Anthropic warns investors against secondary platforms offering access to its shares    TechCrunch&lt;/p&gt;&lt;p&gt;&lt;em&gt;Secondaries · Secondary marketplaces — Google News · published May 2026&lt;/em&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Philosophy] “We’re all being surprised at the same time”</title>
-<link>https://seths.blog/2026/08/were-all-being-surprised-at-the-same-time/</link>
-<guid isPermaLink="false">d-71ccacded476f9c0</guid>
-<pubDate>Mon, 10 Aug 2026 05:31:17 +0000</pubDate>
-<description>&lt;p&gt;&lt;strong&gt;One-line Seth Godin post: Keith Jarrett on how real-time improvisation with an audience turns "performance" into pure creation.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;“We’re all being surprised at the same time”
-
-Keith Jarrett on improvisation.
-
-When the artist is creating in real time, in conjunction with the witnesses in the room, “performance” goes away.
-
-It’s creation.
-
-Improvisation is a privilege, a chance to create without a guarantee.
-
-August 9, 2026&lt;/p&gt;&lt;p&gt;&lt;em&gt;Philosophy · Seth's Blog&lt;/em&gt;&lt;/p&gt;</description>
-</item>
-<item>
-<title>[Flight Simulation] Orbx Releases PNG Highland Bush Strips Pack 6 for MSFS 2024</title>
-<link>https://fselite.net/content/orbx-releases-png-highland-bush-strips-pack-6-for-msfs-2024/</link>
-<guid isPermaLink="false">d-0a5d4a6a38e423fb</guid>
-<pubDate>Mon, 10 Aug 2026 05:31:16 +0000</pubDate>
-<description>&lt;p&gt;&lt;strong&gt;Orbx ships PNG Highland Bush Strips Pack 6 for MSFS 2024: seven high-difficulty Papua New Guinea strips with river-valley approaches, $18.99 AUD.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Orbx and indie scenery developer Ken Hall return to the treacherous airstrips of Papua New Guinea with its latest PNG bush strips pack…
-
-Scenery developer Ken Hall, in partnership with Orbx, has released the next entry in his acclaimed bush flying series: PNG Highland Bush Strips Pack 6 for Microsof&lt;/p&gt;&lt;p&gt;&lt;em&gt;Flight Simulation · FSElite&lt;/em&gt;&lt;/p&gt;</description>
 </item>
 </channel>
 </rss>
